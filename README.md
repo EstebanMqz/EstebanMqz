@@ -80,36 +80,35 @@ I am a firm believer that now more than ever <u><b><i>humanity</i></b></u> & exi
 
 </details>
 
-<details><summary><i>(Other)</i> <b> Pkgs & Tools</b></summary>
-<br>
+<i>Relevant Pkgs & Tools</i>
 
-+ Numpy
-+ Pandas
-+ matplotlib
-+ seaborn
-+ scikit-learn
-+ statsmodels
-+ xgboost
-+ tensorflow
-+ keras
-+ pytorch
-+ scipy
-+ NTLK
-+ Pillow
-+ Requests
-+ BeautifulSoup
-+ ggplot2
-+ dplyr
-+ tidyr
-+ lubridate
-+ stringr
-+ readr
-+ purrr
-+ tibble
-+ kntir
-+ plotly
-+ tidyverse
-+ Deep Learning Toolbox
-+ Curve Fitting Toolbox
-+ Simulink
-+ Neural Network Toolbox
+[![numpy](https://img.shields.io/badge/numpy-1.20.3-blue.svg)](https://numpy.org/)
+[![pandas](https://img.shields.io/badge/pandas-1.3.2-blue.svg)](https://pandas.pydata.org/)
+[![matplotlib](https://img.shields.io/badge/matplotlib-3.4.3-blue.svg)](https://matplotlib.org/)
+[![seaborn](https://img.shields.io/badge/seaborn-0.11.2-blue.svg)](https://seaborn.pydata.org/)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-0.24.2-blue.svg)](https://scikit-learn.org/)
+[![statsmodels](https://img.shields.io/badge/statsmodels-0.12.2-blue.svg)](https://www.statsmodels.org/)
+[![xgboost](https://img.shields.io/badge/xgboost-1.4.2-blue.svg)](https://xgboost.readthedocs.io/)
+[![tensorflow](https://img.shields.io/badge/tensorflow-2.6.0-blue.svg)](https://www.tensorflow.org/)
+[![keras](https://img.shields.io/badge/keras-2.6.0-blue.svg)](https://keras.io/)
+[![pytorch](https://img.shields.io/badge/pytorch-1.9.0-blue.svg)](https://pytorch.org/)
+[![scipy](https://img.shields.io/badge/scipy-1.7.1-blue.svg)](https://www.scipy.org/)
+[![nltk](https://img.shields.io/badge/nltk-3.6.2-blue.svg)](https://www.nltk.org/)
+[![pillow](https://img.shields.io/badge/pillow-8.3.1-blue.svg)](https://python-pillow.org/)
+[![requests](https://img.shields.io/badge/requests-2.26.0-blue.svg)](https://docs.python-requests.org/)
+[![beautifulsoup4](https://img.shields.io/badge/beautifulsoup4-4.10.0-blue.svg)](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+[![ggplot2](https://img.shields.io/badge/ggplot2-3.3.5-blue.svg)](https://ggplot2.tidyverse.org/)
+[![dplyr](https://img.shields.io/badge/dplyr-1.0.7-blue.svg)](https://dplyr.tidyverse.org/)
+[![tidyr](https://img.shields.io/badge/tidyr-1.1.3-blue.svg)](https://tidyr.tidyverse.org/)
+[![lubridate](https://img.shields.io/badge/lubridate-1.7.10-blue.svg)](https://lubridate.tidyverse.org/)
+[![stringr](https://img.shields.io/badge/stringr-1.4.0-blue.svg)](https://stringr.tidyverse.org/)
+[![readr](https://img.shields.io/badge/readr-2.1.1-blue.svg)](https://readr.tidyverse.org/)
+[![purrr](https://img.shields.io/badge/purrr-0.3.4-blue.svg)](https://purrr.tidyverse.org/)
+[![tibble](https://img.shields.io/badge/tibble-3.1.4-blue.svg)](https://tibble.tidyverse.org/)
+[![knitr](https://img.shields.io/badge/knitr-1.33-blue.svg)](https://yihui.org/knitr/)
+[![plotly](https://img.shields.io/badge/plotly-5.3.1-blue.svg)](https://plotly.com/)
+[![tidyverse](https://img.shields.io/badge/tidyverse-1.3.1-blue.svg)](https://www.tidyverse.org/)
+[![Deep Learning Toolbox](https://img.shields.io/badge/Deep%20Learning%20Toolbox-R2021a-blue.svg)](https://www.mathworks.com/products/deep-learning.html)
+[![Curve Fitting Toolbox](https://img.shields.io/badge/Curve%20Fitting%20Toolbox-R2021a-blue.svg)](https://www.mathworks.com/products/curvefitting.html)
+[![Simulink](https://img.shields.io/badge/Simulink-R2021a-blue.svg)](https://www.mathworks.com/products/simulink.html)
+[![Neural Network Toolbox](https://img.shields.io/badge/Neural%20Network%20Toolbox-R2021a-blue.svg)](https://www.mathworks.com/products/neural-network.html)
