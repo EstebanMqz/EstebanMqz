@@ -80,12 +80,21 @@ I am a firm believer that now more than ever <u><b><i>humanity</i></b></u> & exi
 
 </details>
 
-<i>Relevant Pkgs & Tools</i>
+<br>
+<i>Other Relevant Pkgs & Tools Experience:</i>
 
+[![glob](https://img.shields.io/badge/glob-0.7-blue.svg)](https://docs.python.org/3/library/glob.html)
+[![subprocess](https://img.shields.io/badge/subprocess-0.9.0-blue.svg)](https://docs.python.org/3/library/subprocess.html)
+[![ipywidgets](https://img.shields.io/badge/ipywidgets-7.6.5-blue.svg)](https://ipywidgets.readthedocs.io/)
+[![Markdown](https://img.shields.io/badge/Markdown-3.3.4-blue.svg)](https://python-markdown.github.io/)
+[![io](https://img.shields.io/badge/io-0.0.1-blue.svg)](https://pypi.org/project/io/)
+[![IPython.display](https://img.shields.io/badge/IPython.display-0.7.0-blue.svg)](https://ipython.readthedocs.io/en/stable/api/generated/IPython.display.html)
+[![tabulate](https://img.shields.io/badge/tabulate-0.8.9-blue.svg)](https://pypi.org/project/tabulate/)
 [![numpy](https://img.shields.io/badge/numpy-1.20.3-blue.svg)](https://numpy.org/)
 [![pandas](https://img.shields.io/badge/pandas-1.3.2-blue.svg)](https://pandas.pydata.org/)
 [![matplotlib](https://img.shields.io/badge/matplotlib-3.4.3-blue.svg)](https://matplotlib.org/)
 [![seaborn](https://img.shields.io/badge/seaborn-0.11.2-blue.svg)](https://seaborn.pydata.org/)
+[![fitter](https://img.shields.io/badge/fitter-1.4.0-blue.svg)](https://pypi.org/project/fitter/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-0.24.2-blue.svg)](https://scikit-learn.org/)
 [![statsmodels](https://img.shields.io/badge/statsmodels-0.12.2-blue.svg)](https://www.statsmodels.org/)
 [![xgboost](https://img.shields.io/badge/xgboost-1.4.2-blue.svg)](https://xgboost.readthedocs.io/)
