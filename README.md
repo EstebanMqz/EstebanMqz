@@ -5,7 +5,7 @@ You can contact me in the following:
 
 [![Github](https://github.com/EstebanMqz.png?size=50)](https://github.com/EstebanMqz) [![Github](https://img.shields.io/badge/Financial_Eng.-black?style=square&logo=gists&logoColor=white)](https://github.com/EstebanMqz) [![Gists](https://img.shields.io/badge/Gists-gray?style=square&logo=gists&logoColor=white)](https://github.com/EstebanMqz)
 
-I live in Mexico where I acquired the TOEFL when I was a kid after I <i>studied English 3/7 hours a day for 10 years</i>, just before undergoing middle/high school to end up with more irreplaceable academic preparation from [Cervantes Costa Rica](https://cervantes.edu.mx) for the upcoming period of 3 years through the <i>Mathematics and Physics Route</i>.<br>
+I live in Mexico where I acquired the TOEFL when I was a kid after I <i>studied English 3/7 hours a day for 10 years</i>, just before undergoing middle/high school to be able to be prepared fo [Cervantes Costa Rica](https://cervantes.edu.mx) during a period of 3 years through the <i>Mathematics and Physics Route</i>.<br>
 My most recent living experience was a semester as an international Financial Engineering student in Seville, Spain to course assignments of a Degree in Economics to [Loyola University](https://www.uloyola.es), including but not limited to <i>Game Theory & International Economics</i>.<br>
 
 I just recently acquired my <i>$9_{th}$ semester <b>Bachelor's degree in Financial Engineering</b></i> in Dec. 2022 from [ITESO](https://www.topuniversities.com/universities/iteso-universidad-jesuita-de-guadalajara) from where I can think of plenty of <i>tutors, Data Science and Machine Learning</i> algorithms unvaluable in my everyday's life, not to mention the presence of my <u><i>family</i></u>. <br>
