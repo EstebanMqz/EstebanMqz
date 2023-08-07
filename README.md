@@ -1,33 +1,29 @@
 Hi my name is Esteban Márquez, I am a Financial Engineer and I am currently looking for a job as a `Data Scientist` / `Data Analyst`.<br>
 You can contact me in the following: 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-041a80?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esteban-m65381722210212839/) [![Website](https://img.shields.io/badge/Website-ffffff?style=flat&logo=opera&logoColor=red)](https://estebanmqz.com) [![E-mail](https://img.shields.io/badge/Business-Mail-052ce6?style=square&logo=mail&logoColor=white)](mailto:esteban@esteban.com) [![Portfolio](https://img.shields.io/badge/Github-Portfolio-010b38?style=flat&logo=github&logoColor=black)](https://estebanmqz.github.io/Portfolio/) [![Gists](https://img.shields.io/badge/Gists-gray?style=flat&logo=gists&logoColor=black)](https://github.com/EstebanMqz) [![EstebanMqz](https://img.shields.io/badge/EstebanMqz-black?style=flat&logo=gitlab)](https://gitlab.com/EstebanMqz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-041a80?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esteban-m65381722210212839/) [![Website](https://img.shields.io/badge/Website-ffffff?style=flat&logo=opera&logoColor=red)](https://estebanmqz.com) [![E-mail](https://img.shields.io/badge/Business-Mail-052ce6?style=square&logo=mail&logoColor=white)](mailto:esteban@esteban.com) 
 
 
+[![Portfolio](https://img.shields.io/badge/Github-Portfolio-010b38?style=flat&logo=github&logoColor=black)](https://estebanmqz.github.io/Portfolio/) [![Gists](https://img.shields.io/badge/Gists-gray?style=flat&logo=gists&logoColor=black)](https://github.com/EstebanMqz) [![EstebanMqz](https://img.shields.io/badge/EstebanMqz-black?style=flat&logo=gitlab)](https://gitlab.com/EstebanMqz)
+
+<br>
+
+<i>About me:</i><br>
 I live in Mexico where I acquired the TOEFL when I was a kid after I <i>studied English 3 hours a day for 10 years</i>, before undergoing my academic preparation in [Cervantes Costa Rica](https://cervantes.edu.mx) for a period of 3 years through <i>Mathematics and Physics Route</i>.<br>
-My most recent living experience was a semester as an international Financial Engineering student in Seville, Spain to course assignments of a Degree in Economics to [Loyola University](https://www.uloyola.es), including but not limited to <i>Game Theory $\&$ International Economics</i>.<br>
+My most recent living experience was a semester as an international Financial Engineering student in Seville, Spain to course assignments of a Degree in Economics to [Loyola University](https://www.uloyola.es), including but not limited to <i>Game Theory & International Economics</i>.<br>
 
 I just recently acquired my <i>$9_{th}$ semester <b>Bachelor's degree in Financial Engineering</b></i> in Dec. 2022 from [ITESO](https://www.topuniversities.com/universities/iteso-universidad-jesuita-de-guadalajara) from where I can think of plenty of <i>tutors, Data Science and Machine Learning</i> algorithms unvaluable in my everyday's life, not to mention the presence of my <u><i>family</i></u>. <br>
 
 I am currently undergoing 6 month courses of preparation to certificate as an [`Azure Data Scientist Associate`](https://learn.microsoft.com/en-us/certifications/azure-data-scientist/)<br>
-$\&$ [`Tableau Desktop Specialist`](https://www.tableau.com/learn/certification/desktop-specialist) to further develop my skills as a <b>Data Scientist $\&$ Data Analyst.</b>
+& [`Tableau Desktop Specialist`](https://www.tableau.com/learn/certification/desktop-specialist) to further develop my skills as a <b>Data Scientist & Data Analyst.</b>
 
-Nevertheless, I consider my values as well my strong Statistics $\&$ Mathematical background to be my most valuable assets.<br>
-I am a firm believer that now more than ever <u><b><i>humanity</i></b></u> $\&$ existence should strive to learn the most from every key aspect from our roles in life $\&$ out of curiosity I feel excited to learn and implement securely, faster $\&$ better than ever in my life.  
+Nevertheless, I consider my values as well my strong Statistics & Mathematical background to be my most valuable assets.<br>
+I am a firm believer that now more than ever <u><b><i>humanity</i></b></u> & existence should strive to learn the most from every key aspect from our roles in life & out of curiosity I feel excited to learn and implement securely, faster & better than ever in my life.  
+<br><br>
 
-<style>
-hr {
-  border: none;
-  height: 2px;
-  background-color: black;
-  transition: background-color 1s ease-in-out;
-}
-hr:hover {
-  background-color: blue;
-}
-</style>
+## Experience: 
 
-<hr>
+<hr style="border: none; height: 2px; background-color: blue; transition: background-color 1s ease-in-out;">
 
 <details><summary><b> Programming Languages &#x1F5A5;</b></summary>
 
@@ -45,19 +41,7 @@ hr:hover {
 
 </details>
 
-<style>
-hr {
-  border: none;
-  height: 2px;
-  background-color: black;
-  transition: background-color 1s ease-in-out;
-}
-hr:hover {
-  background-color: blue;
-}
-</style>
-
-<hr>
+<hr style="border: none; height: 2px; background-color: blue; transition: background-color 1s ease-in-out;">
 
 <details><summary><b>Frameworks &#x1F4F1;</b></summary>
 
@@ -72,19 +56,7 @@ hr:hover {
 
 </details>
 
-<style>
-hr {
-  border: none;
-  height: 2px;
-  background-color: black;
-  transition: background-color 1s ease-in-out;
-}
-hr:hover {
-  background-color: blue;
-}
-</style>
-
-<hr>
+<hr style="border: none; height: 2px; background-color: blue; transition: background-color 1s ease-in-out;">
 
 <details><summary><b>Hosting &#x1F310;</b></summary>
 
@@ -96,19 +68,7 @@ hr:hover {
 
 </details>
 
-<style>
-hr {
-  border: none;
-  height: 2px;
-  background-color: black;
-  transition: background-color 1s ease-in-out;
-}
-hr:hover {
-  background-color: blue;
-}
-</style>
-
-<hr>
+<hr style="border: none; height: 2px; background-color: blue; transition: background-color 1s ease-in-out;">
 
 <details><summary><b>Text Editor &#x1F4BB;</b></summary>
 
@@ -123,19 +83,7 @@ hr:hover {
 
 </details>
 
-<style>
-hr {
-  border: none;
-  height: 2px;
-  background-color: black;
-  transition: background-color 1s ease-in-out;
-}
-hr:hover {
-  background-color: blue;
-}
-</style>
-
-<hr>
+<hr style="border: none; height: 2px; background-color: blue; transition: background-color 1s ease-in-out;">
 
 <details><summary><b>Terminals &#x1F4BB;</b></summary>
 
@@ -149,19 +97,7 @@ hr:hover {
 
 </details>
 
-<style>
-hr {
-  border: none;
-  height: 2px;
-  background-color: black;
-  transition: background-color 1s ease-in-out;
-}
-hr:hover {
-  background-color: blue;
-}
-</style>
-
-<hr>
+<hr style="border: none; height: 2px; background-color: blue; transition: background-color 1s ease-in-out;"> 
 
 <details><summary><i>(Other)</i> <b> Pkgs & Tools</b></summary>
 <br>
