@@ -1,12 +1,12 @@
-Hi my name is Esteban Márquez Delgado and I am a <b>[Financial Engineer](https://egresados.blob.core.windows.net/anuarios/2022b-otono-iteso/index.html) </b> <br>
+Hi my name is Esteban Márquez Delgado and I am a <b>[Financial Engineer](https://egresados.blob.core.windows.net/anuarios/2022b-otono-iteso/index.html), </b> <br>
 I am looking for a job as a `Data Scientist` / `Data Analyst` or related.<br>
 
-You can contact me in any of the following:
+<i>You can contact me in any of the following:</i>
 
-### Contact: <br>
+### Business Inquiries: <br>
 
 
-<a href="https://www.linkedin.com/in/esteban-m65381722210212839/"><img width="40px" src="https://img.icons8.com/?size=512&id=MR3dZdlA53te&format=png"></a><a href="https://api.whatsapp.com/send?phone=+523338588106&text=%20Hi%20Esteban,%20my%20name%20is%20"> <img width="35px" src="https://img.icons8.com/color/452/whatsapp--v1.png"></a><a href="mailto:emarquez1895@gmail.com"> <img width="40px" src="https://img.icons8.com/color/452/gmail-new.png"> </a><a href="https://github.com/EstebanMqz"><img width="40px" src="https://cdn3d.iconscout.com/3d/free/thumb/free-github-6343501-5220956.png?f=webp"></a><a href="https://gitlab.com/EstebanMqz"><img width="40px" src="https://img.icons8.com/color/452/gitlab.png"></a>
+<a href="https://www.linkedin.com/in/esteban-m65381722210212839/"><img width="40px" src="https://img.icons8.com/?size=512&id=MR3dZdlA53te&format=png"></a> <a href="https://api.whatsapp.com/send?phone=+523338588106&text=%20Hi%20Esteban,%20my%20name%20is%20"> <img width="35px" src="https://img.icons8.com/color/452/whatsapp--v1.png"></a> <a href="mailto:emarquez1895@gmail.com"> <img width="40px" src="https://img.icons8.com/color/452/gmail-new.png"></a> <a href="https://gitlab.com/EstebanMqz"><img width="40px" src="https://img.icons8.com/color/452/gitlab.png"></a> <a href="https://github.com/EstebanMqz?tab=repositories"><img width="40px" src="https://cdn3d.iconscout.com/3d/free/thumb/free-github-6343501-5220956.png?f=webp"></a>
 
 *See more:*<br>
 [![Gists](https://img.shields.io/badge/Github-Gists-010b38?style=flat&logo=github&logoColor=black)](https://gist.github.com/EstebanMqz)
