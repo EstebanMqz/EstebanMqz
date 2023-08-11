@@ -1,77 +1,13 @@
+<head>
+  <link rel="stylesheet" href="css/wave.css">
+  <link rel="stylesheet" href="css/blue-bar.css">
+</head>
 
-<style>
-  .blue-bar {
-    height: 3px;
-    background-color: blue;
-    opacity: 0.5;
-    box-shadow: 0 0 0 rgba(255, 0, 0, 0);
-    animation: shine 2s ease-in-out infinite;
-  }
-
-  @keyframes shine {
-    0% {
-      opacity: 0.5;
-      box-shadow: 0 0 0 rgba(255, 0, 0, 0);
-    }
-    50% {
-      opacity: 0.8;
-      box-shadow: 0 5px 10px rgba(255, 0, 0, 0.5);
-    }
-    100% {
-      opacity: 0.5;
-      box-shadow: 0 0 0 rgba(255, 0, 0, 0);
-    }
-  }
-</style>
-
-<style>
-  .wave {
-    animation-name: wave-animation;
-    animation-duration: 2s;
-    animation-iteration-count: infinite;
-    transform-origin: 70% 70%;
-    display: inline-block;
-  }
-
-  @keyframes wave-animation {
-    0% {
-      transform: rotate(0deg);
-    }
-    10% {
-      transform: rotate(10deg);
-    }
-    20% {
-      transform: rotate(-10deg);
-    }
-    30% {
-      transform: rotate(12deg);
-    }
-    40% {
-      transform: rotate(-12deg);
-    }
-    50% {
-      transform: rotate(14deg);
-    }
-    60% {
-      transform: rotate(-14deg);
-    }
-    70% {
-      transform: rotate(16deg);
-    }
-    80% {
-      transform: rotate(-16deg);
-    }
-    90% {
-      transform: rotate(18deg);
-    }
-    100% {
-      transform: rotate(0deg);
-    }
-  }
-</style>
-
-<span class="wave">👋</span> Hi my name is Esteban Márquez Delgado and I am a <b>[Financial Engineer](https://egresados.blob.core.windows.net/anuarios/2022b-otono-iteso/index.html), </b> <br>
-I am looking for a job as a `Data Scientist` / `Data Analyst` or related.<br>
+<div>
+  <span class="wave">👋</span> 
+  Hi, my name is Esteban Márquez Delgado and I am a <a href="https://egresados.blob.core.windows.net/anuarios/2022b-otono-iteso/index.html"><b>Financial Engineer</b></a>, <br>
+  I am looking for a job as a `Data Scientist` / `Data Analyst` or related.<br>
+</div>
 
 <i>You can contact me in any of the following:</i>
 

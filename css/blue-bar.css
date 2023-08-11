@@ -1,0 +1,22 @@
+.blue-bar {
+    height: 3px;
+    background-color: blue;
+    opacity: 0.5;
+    box-shadow: 0 0 0 rgba(255, 0, 0, 0);
+    animation: shine 2s ease-in-out infinite;
+  }
+
+  @keyframes shine {
+    0% {
+      opacity: 0.5;
+      box-shadow: 0 0 0 rgba(255, 0, 0, 0);
+    }
+    50% {
+      opacity: 0.8;
+      box-shadow: 0 5px 10px rgba(255, 0, 0, 0.5);
+    }
+    100% {
+      opacity: 0.5;
+      box-shadow: 0 0 0 rgba(255, 0, 0, 0);
+    }
+  }
