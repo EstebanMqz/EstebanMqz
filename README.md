@@ -1,4 +1,76 @@
-Hi my name is Esteban Márquez Delgado and I am a <b>[Financial Engineer](https://egresados.blob.core.windows.net/anuarios/2022b-otono-iteso/index.html), </b> <br>
+
+<style>
+  .blue-bar {
+    height: 3px;
+    background-color: blue;
+    opacity: 0.5;
+    box-shadow: 0 0 0 rgba(255, 0, 0, 0);
+    animation: shine 2s ease-in-out infinite;
+  }
+
+  @keyframes shine {
+    0% {
+      opacity: 0.5;
+      box-shadow: 0 0 0 rgba(255, 0, 0, 0);
+    }
+    50% {
+      opacity: 0.8;
+      box-shadow: 0 5px 10px rgba(255, 0, 0, 0.5);
+    }
+    100% {
+      opacity: 0.5;
+      box-shadow: 0 0 0 rgba(255, 0, 0, 0);
+    }
+  }
+</style>
+
+<style>
+  .wave {
+    animation-name: wave-animation;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    transform-origin: 70% 70%;
+    display: inline-block;
+  }
+
+  @keyframes wave-animation {
+    0% {
+      transform: rotate(0deg);
+    }
+    10% {
+      transform: rotate(10deg);
+    }
+    20% {
+      transform: rotate(-10deg);
+    }
+    30% {
+      transform: rotate(12deg);
+    }
+    40% {
+      transform: rotate(-12deg);
+    }
+    50% {
+      transform: rotate(14deg);
+    }
+    60% {
+      transform: rotate(-14deg);
+    }
+    70% {
+      transform: rotate(16deg);
+    }
+    80% {
+      transform: rotate(-16deg);
+    }
+    90% {
+      transform: rotate(18deg);
+    }
+    100% {
+      transform: rotate(0deg);
+    }
+  }
+</style>
+
+<span class="wave">👋</span> Hi my name is Esteban Márquez Delgado and I am a <b>[Financial Engineer](https://egresados.blob.core.windows.net/anuarios/2022b-otono-iteso/index.html), </b> <br>
 I am looking for a job as a `Data Scientist` / `Data Analyst` or related.<br>
 
 <i>You can contact me in any of the following:</i>
@@ -12,7 +84,7 @@ I am looking for a job as a `Data Scientist` / `Data Analyst` or related.<br>
 [![Gists](https://img.shields.io/badge/Github-Gists-010b38?style=flat&logo=github&logoColor=black)](https://gist.github.com/EstebanMqz)
 
 
-<hr style="border: none; height: 2px; background-color: blue; transition: background-color 1s ease-in-out;">
+<div class="blue-bar"></div>
 
 #### <u><i>About me:</i></u> <br>
 
@@ -25,11 +97,12 @@ Moreover, I just recently acquired my <i>$9_{th}$ semester<b> Bachelor's degree 
 I am currently taking 6 month courses of preparation to certificate as an [`Azure Data Scientist Associate`](https://learn.microsoft.com/en-us/certifications/azure-data-scientist/)<br>
 & [`Tableau Desktop Specialist`](https://www.tableau.com/learn/certification/desktop-specialist) to further develop my skills as a <b>Data Scientist & Data Analyst.</b>
 
-Nevertheless, I consider my values as well my strong Statistics & Mathematical background to be my most valuable assets.<br>
-I am a firm believer that now more than ever <u><b><i>humanity</i></b></u> should strive to learn the most from every key aspect from our roles in life &<br>
-out of curiosity I feel very excited to learn and implement securely, faster & better than ever!
+Nevertheless, I consider my values as well my strong Statistics & Mathematical background to be my most valuable assets. <br>
+I am a firm believer that now more than ever <u><b><i>humanity</i></b></u> should strive to learn the most from every key aspect from our roles in life & out of curiosity I feel very excited to learn and implement securely, faster & better than ever.
 
-<hr style="border: none; height: 2px; background-color: blue; transition: background-color 1s ease-in-out;">
+<br>
+
+<div class="blue-bar"></div>
 
 ## Experience: 
 
@@ -50,7 +123,7 @@ out of curiosity I feel very excited to learn and implement securely, faster & b
 
 </details>
 
-<hr style="border: none; height: 2px; background-color: blue; transition: background-color 1s ease-in-out;">
+<div class="blue-bar"></div><br>
 
 <details><summary><b>Frameworks &#x1F4F1;</b></summary>
 
@@ -66,7 +139,7 @@ out of curiosity I feel very excited to learn and implement securely, faster & b
 
 </details>
 
-<hr style="border: none; height: 2px; background-color: blue; transition: background-color 1s ease-in-out;">
+<div class="blue-bar"></div><br>
 
 <details><summary><b>Hosting &#x1F310;</b></summary>
 
@@ -79,7 +152,7 @@ out of curiosity I feel very excited to learn and implement securely, faster & b
 
 </details>
 
-<hr style="border: none; height: 2px; background-color: blue; transition: background-color 1s ease-in-out;">
+<div class="blue-bar"></div><br>
 
 <details><summary><b>Text Editor &#x1F4BB;</b></summary>
 
@@ -96,7 +169,7 @@ out of curiosity I feel very excited to learn and implement securely, faster & b
 | <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png">                                    | [PyCharm](https://www.jetbrains.com/pycharm/)                                  | 2+ years            |
 </details>
 
-<hr style="border: none; height: 2px; background-color: blue; transition: background-color 1s ease-in-out;">
+<div class="blue-bar"></div><br>
 
 <details><summary><b>Terminals &#x1F4BB;</b></summary>
 
@@ -110,7 +183,9 @@ out of curiosity I feel very excited to learn and implement securely, faster & b
 
 </details>
 
-<hr style="border: none; height: 2px; background-color: blue; transition: background-color 1s ease-in-out;"> 
+<div class="blue-bar"></div><br>
+
+
 
 <details><summary><i>(Other)</i> <b> Pkgs & Tools</b></summary>
 <br>
