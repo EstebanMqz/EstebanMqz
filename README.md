@@ -1,18 +1,3 @@
-<h6>
-
-1. <b>[Contact](#Contact): </b><br>
-2. <b>[About me](#About_me): </b><br>
-3. <b>[Programming Languages](#Languages): </b><br>
-4. <b>[Frameworks](#Frameworks): </b><br>
-5. <b>[Hosting](#Hosting): </b><br>
-6. <b>[Text Editor](#Editor): </b><br>
-7. <b>[Terminals](#Terminals): </b><br>
-8. <b>[Other Pkgs & Tools](#Pkgs): </b><br>
-</h6> 
-
-<hr style="border: none; height: 2px; background-color: blue; transition: background-color 1s ease-in-out;">
-
-<a id='Contact'></a>
 ### Contact: <br>
 Hi my name is Esteban Márquez Delgado and I am a <b>[Financial Engineer](https://egresados.blob.core.windows.net/anuarios/2022b-otono-iteso/index.html) </b> <br>
 I am looking for a job as a `Data Scientist` / `Data Analyst` or related.<br>
@@ -25,7 +10,6 @@ I am looking for a job as a `Data Scientist` / `Data Analyst` or related.<br>
 
 #### <u><i>About me:</i></u> <br>
 
-<a id='About_me'></a>
 I live in Mexico where I acquired the <b>TOEFL</b> when I was just a kid after studying English $3_h$ a day for $10_{years}$</i>.<br>
 Several years after continuing my studies, I graduated from  [Cervantes Costa Rica](https://cervantes.edu.mx) through <b><i>Mathematics and Physics Route</i></b>.<br>
 
@@ -45,7 +29,6 @@ out of curiosity I feel very excited to learn and implement securely, faster & b
 
 <details><summary><b> Programming Languages &#x1F5A5;</b></summary>
 
-<a id='Languages'></a>
 
 |                                                     Symbol                                                                                            |   Languages                                               | Experience |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- | -----------|
@@ -65,7 +48,6 @@ out of curiosity I feel very excited to learn and implement securely, faster & b
 
 <details><summary><b>Frameworks &#x1F4F1;</b></summary>
 
-<a id='Frameworks'></a>
 
 | Symbol                                                                                                                      | Framework                                  | Experience   |
 | --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ | ------------ |
@@ -82,7 +64,6 @@ out of curiosity I feel very excited to learn and implement securely, faster & b
 
 <details><summary><b>Hosting &#x1F310;</b></summary>
 
-<a id='Hosting'></a>
 
 | Symbol                                                                                                    | Service                                     | Experience          |
 | ----------------------------------------------------------------------------------------------------------| ------------------------------------------- | ------------------- |
@@ -96,7 +77,6 @@ out of curiosity I feel very excited to learn and implement securely, faster & b
 
 <details><summary><b>Text Editor &#x1F4BB;</b></summary>
 
-<a id='Editor'></a>
 
 | Symbol                                                                                                                                                             | Editor                                                                         | Experience          |
 | -----------------------------------------------------------------------------------------------------------------------------------------------------------------  | ------------------------------------------------------------------------------ | ------------------- |
@@ -114,7 +94,6 @@ out of curiosity I feel very excited to learn and implement securely, faster & b
 
 <details><summary><b>Terminals &#x1F4BB;</b></summary>
 
-<a id='Terminals'></a>
 | Symbol                                                                                                                                                          | Editor     | Experience          |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------------------- |
 | <img width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPDcyppWsLOcYPm4CBTVs3zeg4TtTAaAZKWSwe39UYRVtuULYfS8WMglCYzskoMNS6Sfo&usqp=CAU">   | [Conda](https://docs.conda.io/en/latest/)      | 4+ year             |
@@ -130,7 +109,6 @@ out of curiosity I feel very excited to learn and implement securely, faster & b
 <details><summary><i>(Other)</i> <b> Pkgs & Tools</b></summary>
 <br>
 
-<a id='Pkgs'></a>
 
 <i>
 
