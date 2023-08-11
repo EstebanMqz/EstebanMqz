@@ -3,11 +3,10 @@
   <link rel="stylesheet" href="css/blue-bar.css">
 </head>
 
-<div>
-  <span class="wave">👋</span> 
-  Hi, my name is Esteban Márquez Delgado and I am a <a href="https://egresados.blob.core.windows.net/anuarios/2022b-otono-iteso/index.html"><b>Financial Engineer</b></a>, <br>
-  I am looking for a job as a `Data Scientist` / `Data Analyst` or related.<br>
-</div>
+
+Hi, my name is Esteban Márquez Delgado and I am a <a href="https://egresados.blob.core.windows.net/anuarios/2022b-otono-iteso/index.html"><b>Financial Engineer</b></a>, <br>
+I am looking for a job as a `Data Scientist / Data Analyst` or related.<br>
+
 
 <i>You can contact me in any of the following:</i>
 
@@ -20,7 +19,7 @@
 [![Gists](https://img.shields.io/badge/Github-Gists-010b38?style=flat&logo=github&logoColor=black)](https://gist.github.com/EstebanMqz)
 
 
-<div class="blue-bar"></div>
+![Alt Text](gif/bar.gif)
 
 #### <u><i>About me:</i></u> <br>
 
@@ -38,7 +37,7 @@ I am a firm believer that now more than ever <u><b><i>humanity</i></b></u> shoul
 
 <br>
 
-<div class="blue-bar"></div>
+![Alt Text](gif/bar.gif)
 
 ## Experience: 
 
@@ -59,7 +58,7 @@ I am a firm believer that now more than ever <u><b><i>humanity</i></b></u> shoul
 
 </details>
 
-<div class="blue-bar"></div><br>
+![Alt Text](gif/bar.gif)
 
 <details><summary><b>Frameworks &#x1F4F1;</b></summary>
 
@@ -75,7 +74,7 @@ I am a firm believer that now more than ever <u><b><i>humanity</i></b></u> shoul
 
 </details>
 
-<div class="blue-bar"></div><br>
+![Alt Text](gif/bar.gif)
 
 <details><summary><b>Hosting &#x1F310;</b></summary>
 
@@ -88,7 +87,7 @@ I am a firm believer that now more than ever <u><b><i>humanity</i></b></u> shoul
 
 </details>
 
-<div class="blue-bar"></div><br>
+![Alt Text](gif/bar.gif)
 
 <details><summary><b>Text Editor &#x1F4BB;</b></summary>
 
@@ -105,7 +104,7 @@ I am a firm believer that now more than ever <u><b><i>humanity</i></b></u> shoul
 | <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png">                                    | [PyCharm](https://www.jetbrains.com/pycharm/)                                  | 2+ years            |
 </details>
 
-<div class="blue-bar"></div><br>
+![Alt Text](gif/bar.gif)
 
 <details><summary><b>Terminals &#x1F4BB;</b></summary>
 
@@ -119,8 +118,7 @@ I am a firm believer that now more than ever <u><b><i>humanity</i></b></u> shoul
 
 </details>
 
-<div class="blue-bar"></div><br>
-
+![Alt Text](gif/bar.gif)
 
 
 <details><summary><i>(Other)</i> <b> Pkgs & Tools</b></summary>
