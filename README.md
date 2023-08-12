@@ -19,7 +19,7 @@ I am looking for a job as a ```Data Scientist / Data Analyst``` or related.<br>
 [![Gists](https://img.shields.io/badge/Github-Gists-010b38?style=flat&logo=github&logoColor=black)](https://gist.github.com/EstebanMqz)
 
 
-<div style="border: none;">
+<div style="border: none !important;">
   <img src="gif/bar.gif">
 </div>
 
@@ -39,7 +39,7 @@ I am a firm believer that now more than ever <u><b><i>humanity</i></b></u> shoul
 
 <br>
 
-<div style="border: none;">
+<div style="border: none !important;">
   <img src="gif/bar.gif">
 </div>
 
@@ -62,7 +62,7 @@ I am a firm believer that now more than ever <u><b><i>humanity</i></b></u> shoul
 
 </details>
 
-<div style="border: none;">
+<div style="border: none !important;">
   <img src="gif/bar.gif">
 </div>
 
@@ -80,7 +80,7 @@ I am a firm believer that now more than ever <u><b><i>humanity</i></b></u> shoul
 
 </details>
 
-<div style="border: none;">
+<div style="border: none !important;">
   <img src="gif/bar.gif">
 </div>
 
@@ -95,7 +95,7 @@ I am a firm believer that now more than ever <u><b><i>humanity</i></b></u> shoul
 
 </details>
 
-<div style="border: none;">
+<div style="border: none !important;">
   <img src="gif/bar.gif">
 </div>
 
@@ -114,7 +114,7 @@ I am a firm believer that now more than ever <u><b><i>humanity</i></b></u> shoul
 | <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png">                                    | [PyCharm](https://www.jetbrains.com/pycharm/)                                  | 2+ years            |
 </details>
 
-<div style="border: none;">
+<div style="border: none !important;">
   <img src="gif/bar.gif">
 </div>
 
@@ -130,7 +130,7 @@ I am a firm believer that now more than ever <u><b><i>humanity</i></b></u> shoul
 
 </details>
 
-<div style="border: none;">
+<div style="border: none !important;">
   <img src="gif/bar.gif">
 </div>
 
