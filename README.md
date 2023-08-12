@@ -19,7 +19,9 @@ I am looking for a job as a ```Data Scientist / Data Analyst``` or related.<br>
 [![Gists](https://img.shields.io/badge/Github-Gists-010b38?style=flat&logo=github&logoColor=black)](https://gist.github.com/EstebanMqz)
 
 
-<img src="gif/bar.gif" style="border: none;">
+<div style="border: none;">
+  <img src="gif/bar.gif">
+</div>
 
 #### <u><i>About me:</i></u> <br>
 
@@ -37,7 +39,9 @@ I am a firm believer that now more than ever <u><b><i>humanity</i></b></u> shoul
 
 <br>
 
-<img src="gif/bar.gif" style="border: none;">
+<div style="border: none;">
+  <img src="gif/bar.gif">
+</div>
 
 ## Experience: 
 
@@ -58,7 +62,9 @@ I am a firm believer that now more than ever <u><b><i>humanity</i></b></u> shoul
 
 </details>
 
-<img src="gif/bar.gif" style="border: none;">
+<div style="border: none;">
+  <img src="gif/bar.gif">
+</div>
 
 <details><summary><b>Frameworks &#x1F4F1;</b></summary>
 
@@ -74,7 +80,9 @@ I am a firm believer that now more than ever <u><b><i>humanity</i></b></u> shoul
 
 </details>
 
-<img src="gif/bar.gif" style="border: none;">
+<div style="border: none;">
+  <img src="gif/bar.gif">
+</div>
 
 <details><summary><b>Hosting &#x1F310;</b></summary>
 
@@ -87,7 +95,9 @@ I am a firm believer that now more than ever <u><b><i>humanity</i></b></u> shoul
 
 </details>
 
-<img src="gif/bar.gif" style="border: none;">
+<div style="border: none;">
+  <img src="gif/bar.gif">
+</div>
 
 <details><summary><b>Text Editor &#x1F4BB;</b></summary>
 
@@ -104,7 +114,9 @@ I am a firm believer that now more than ever <u><b><i>humanity</i></b></u> shoul
 | <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png">                                    | [PyCharm](https://www.jetbrains.com/pycharm/)                                  | 2+ years            |
 </details>
 
-<img src="gif/bar.gif" style="border: none;">
+<div style="border: none;">
+  <img src="gif/bar.gif">
+</div>
 
 <details><summary><b>Terminals &#x1F4BB;</b></summary>
 
@@ -118,7 +130,9 @@ I am a firm believer that now more than ever <u><b><i>humanity</i></b></u> shoul
 
 </details>
 
-<img src="gif/bar.gif" style="border: none;">
+<div style="border: none;">
+  <img src="gif/bar.gif">
+</div>
 
 
 <details><summary><i>(Other)</i> <b> Pkgs & Tools</b></summary>
