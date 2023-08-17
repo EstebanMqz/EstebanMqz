@@ -53,6 +53,7 @@ I am a firm believer that now more than ever <u><b><i>humanity</i></b></u> shoul
 | <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">                                     | [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) | 3+ years   |
 | <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">                                       | [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)   | 3+ years   |
 | <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Official_YAML_Logo.svg/1113px-Official_YAML_Logo.svg.png">           | [YAML](https://yaml.org/)                                 | 1+ years   |
+| <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">                                   | [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)     | -1 years   |
 
 </details>
 
@@ -71,6 +72,7 @@ I am a firm believer that now more than ever <u><b><i>humanity</i></b></u> shoul
 | <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg"> | [TensorFlow](https://www.tensorflow.org)   | 1+ year      |
 | <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">         | [Node.js](https://nodejs.org/en)           | 1+ year      |
 | <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">           | [React.js](https://create-react-app.dev)   | 1+ year      |
+| <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg">       | [.NET](https://dotnet.microsoft.com/)      | -1 years     |
 
 </details>
 
@@ -129,7 +131,7 @@ I am a firm believer that now more than ever <u><b><i>humanity</i></b></u> shoul
 </div>
 
 
-<details><summary><i>(Other)</i> <b> Pkgs & Tools</b></summary>
+<details><summary><i>(Other)</i> <b> Pkgs Frequently Used: </b></summary>
 <br>
 
 
