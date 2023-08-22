@@ -2,7 +2,8 @@
   <link rel="stylesheet" href="css/blue-bar.css">
 </head>
 
-<font size="6">Greetings, I am Esteban Márquez D. </font>
+<font size="6">Greetings, I am Esteban Márquez D. </font> <br>
+A <a href="https://egresados.blob.core.windows.net/anuarios/2022b-otono-iteso/index.html"><b>Financial Engineer</b></a> passionate about Statistics and Machine Learning :gear:<br> 
 
 <br>
 
@@ -10,19 +11,23 @@
   <img src = "./gif/Github_Profile.gif">
 </div>
 
+<br><br>
 
-<br>
-A <a href="https://egresados.blob.core.windows.net/anuarios/2022b-otono-iteso/index.html"><b>Financial Engineer</b></a> passionate about Machine Learning.<br> 
+He has been an investment advisor for clients in different regions through [TradingClubGdl](https://tradingclubmx.com) and [InvestorHouseMX](https://www.investorhouse.com.mx) since 2017, <br>
+he was also $1_{st}$ place on the <i>stock market challenge</i> hosted by the [MexDer](http://www.mexder.com.mx/wb3/wb/MEX) financial derivatives operator [Kualiderivados](http://www.mexder.com.mx/wb3/wb/MEX/MEX_Repositorio/_vtp/MEX/202b_abrir_cuenta/_rid/21/_mto/3/Operadores.pdf).    
 
-:robot:
-We are looking for a job as a Data Scientist / Data Analyst or related.<br><br>
+He worked during 2022 remote sensing areas of pressure over [Natural Protected Areas](https://semadet.jalisco.gob.mx/medio-ambiente/biodiversidad/areas-naturales-protegidas) polygons geospatial data with satellite imagery from [LandSat](https://landsat.gsfc.nasa.gov) using <i>Machine Learning</i> algorithms such as <i>Supervised Learning</i> for the [IIEG](https://iieg.gob.mx/ns/) with [ITESO](https://www.topuniversities.com/universities/iteso-universidad-jesuita-de-guadalajara) and [CONABIO](https://www.gob.mx/conabio). <br>
+ 
 
+:robot: :speech_balloon: He is currently working on a <i>Deep Learning</i> project to predict a variety of portfolio<br>
+optimizations from major Stock Market Indexes in real time using Recurrent Neural Networks. <br><br>
 
-<i>You can contact me in any of the following:</i>
+I am looking for a job as a `Data Scientist / Data Analyst` or related. <br>
+<i>His contact information is the following:
 
 <a href="https://www.linkedin.com/in/esteban-m65381722210212839/"><img width="40px" src="https://img.icons8.com/?size=512&id=MR3dZdlA53te&format=png"></a> <a href="https://api.whatsapp.com/send?phone=+523338588106&text=%20Hi%20Esteban,%20my%20name%20is%20"> <img width="35px" src="https://img.icons8.com/color/452/whatsapp--v1.png"></a> <a href="mailto:emarquez1895@gmail.com"> <img width="40px" src="https://img.icons8.com/color/452/gmail-new.png"></a> <a href="https://gitlab.com/EstebanMqz"><img width="40px" src="https://img.icons8.com/color/452/gitlab.png"></a> <a href="https://github.com/EstebanMqz?tab=repositories"><img width="40px" src="https://cdn3d.iconscout.com/3d/free/thumb/free-github-6343501-5220956.png?f=webp"></a>
 
-*See more:*<br>
+See more:</i><br>
 [![Gists](https://img.shields.io/badge/Github-Gists-010b38?style=flat&logo=github&logoColor=black)](https://gist.github.com/EstebanMqz)
 
 
@@ -41,7 +46,7 @@ Moreover, he just recently acquired my <i>$9_{th}$ semester<b> Bachelor's degree
 He is currently enrolled in courses to certificate as an [`Azure Data Scientist Associate`](https://learn.microsoft.com/en-us/certifications/azure-data-scientist/)<br>
 & [`Tableau Desktop Specialist`](https://www.tableau.com/learn/certification/desktop-specialist) to further develop his skills as a <b>Data Scientist & Data Analyst.</b>
 
-Nevertheless, a solid background in Statistics & Mathematics and his values could also be valuable assets for him. <br>
+Nevertheless, a solid background in Statistics & Mathematics and his values are other valuable assets for him as well. <br>
 He knows that <u><b><i>humanity</i></b></u> should strive to learn the most from every key aspect from their roles in life.<br>
 
 <br>
