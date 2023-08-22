@@ -2,8 +2,21 @@
   <link rel="stylesheet" href="css/blue-bar.css">
 </head>
 
-Hi, my name is Esteban Márquez D. and I am a <a href="https://egresados.blob.core.windows.net/anuarios/2022b-otono-iteso/index.html"><b>Financial Engineer</b></a>, <br>
-I am looking for a job as a ```Data Scientist / Data Analyst``` or related.<br>
+<font size="6">Greetings, I am Esteban Márquez D. </font>
+
+<br>
+
+<div align="center">
+  <img src = "./gif/Github_Profile.gif">
+</div>
+
+
+<br>
+A <a href="https://egresados.blob.core.windows.net/anuarios/2022b-otono-iteso/index.html"><b>Financial Engineer</b></a> passionate about Machine Learning.<br> 
+
+:robot:
+We are looking for a job as a Data Scientist / Data Analyst or related.<br><br>
+
 
 <i>You can contact me in any of the following:</i>
 
@@ -19,17 +32,17 @@ I am looking for a job as a ```Data Scientist / Data Analyst``` or related.<br>
 
 #### <u><i>About me:</i></u> <br>
 
-I live in Mexico where I acquired the <b>TOEFL</b> when I was just a kid after studying English $3_h$ a day for $10_{years}$</i>.<br>
-Several years after continuing my studies, I graduated from  [Cervantes Costa Rica](https://cervantes.edu.mx) through <b><i>Mathematics and Physics Route</i></b>.<br>
+Esteban lived in Mexico where he acquired the <b>TOEFL</b> when he was just a kid after studying English $3_h$ a day for $10_{years}$</i>.<br>
+Several years after continuing his studies, he graduated from  [Cervantes Costa Rica](https://cervantes.edu.mx) through <b><i>Mathematics and Physics Route</i></b>.<br>
 
-My most recent living experience was a semester as an international Financial Engineering student in Seville, Spain to course assignments of a Degree in Economics in [Loyola University](https://www.uloyola.es), including but not limited to <i>Game Theory & International Economics</i>.<br>
-Moreover, I just recently acquired my <i>$9_{th}$ semester<b> Bachelor's degree in Financial Engineering</b></i> in Dec. 2022 from [ITESO](https://www.topuniversities.com/universities/iteso-universidad-jesuita-de-guadalajara) from where I can think of plenty of <i>tutors, Data Science and Machine Learning</i> algorithms far more than valuable in my everyday's life, not to mention the presence of my <u><i>family</i></u>. <br>
+His most recent living experience was a semester as an international Financial Engineering student in Seville, Spain to course assignments of a Degree in Economics in [Loyola University](https://www.uloyola.es), including but not limited to <i>Game Theory & International Economics</i>.<br>
+Moreover, he just recently acquired my <i>$9_{th}$ semester<b> Bachelor's degree in Financial Engineering</b></i> in Dec. 2022 from [ITESO](https://www.topuniversities.com/universities/iteso-universidad-jesuita-de-guadalajara) from where I am sure he can think of plenty of <i>tutors, Data Science and Machine Learning</i> algorithms far more than valuable in his everyday's life, not to mention the presence of his <u><i>family</i></u>. <br>
 
-I am currently taking 6 month courses of preparation to certificate as an [`Azure Data Scientist Associate`](https://learn.microsoft.com/en-us/certifications/azure-data-scientist/)<br>
-& [`Tableau Desktop Specialist`](https://www.tableau.com/learn/certification/desktop-specialist) to further develop my skills as a <b>Data Scientist & Data Analyst.</b>
+He is currently enrolled in courses to certificate as an [`Azure Data Scientist Associate`](https://learn.microsoft.com/en-us/certifications/azure-data-scientist/)<br>
+& [`Tableau Desktop Specialist`](https://www.tableau.com/learn/certification/desktop-specialist) to further develop his skills as a <b>Data Scientist & Data Analyst.</b>
 
-Nevertheless, I consider my values as well my strong Statistics & Mathematical background to be my most valuable assets. <br>
-I am a firm believer that now more than ever <u><b><i>humanity</i></b></u> should strive to learn the most from every key aspect from our roles in life & out of curiosity I feel very excited to learn and implement securely, faster & better than ever.
+Nevertheless, a solid background in Statistics & Mathematics and his values could also be valuable assets for him. <br>
+He knows that <u><b><i>humanity</i></b></u> should strive to learn the most from every key aspect from their roles in life.<br>
 
 <br>
 
@@ -169,3 +182,8 @@ I am a firm believer that now more than ever <u><b><i>humanity</i></b></u> shoul
 + [Neural Network Toolbox](https://www.mathworks.com/products/neural-network.html)
 
 </i>
+
+</details>
+
+Out curiosity I strive to learn more in my everyday's life.<br>
+I feel very excited to implement securely, faster & better and I look forward to work together.
