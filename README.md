@@ -7,35 +7,52 @@ A <a href="https://egresados.blob.core.windows.net/anuarios/2022b-otono-iteso/in
 
 <br>
 
-<div align="center">
+<!-- <div align="center">
   <img src = "./gif/Github_Profile.gif">
-</div>
+</div> -->
 
 <br><br>
 
-He has been an investment advisor for clients in different regions through [TradingClubGdl](https://tradingclubmx.com) and [InvestorHouseMX](https://www.investorhouse.com.mx) since 2017, <br>
-he was also $1_{st}$ place on the <i>stock market challenge</i> hosted by the [MexDer](http://www.mexder.com.mx/wb3/wb/MEX) financial derivatives operator [Kualiderivados](http://www.mexder.com.mx/wb3/wb/MEX/MEX_Repositorio/_vtp/MEX/202b_abrir_cuenta/_rid/21/_mto/3/Operadores.pdf).    
+:robot: :speech_balloon: He has worked as an independent investment advisor for  [TradingClubGdl](https://tradingclubmx.com) and [InvestorHouseMX](https://www.investorhouse.com.mx) since 2017, <br>
+he was the $1_{st}$ place on a <i>competition</i> hosted by the [MexDer](http://www.mexder.com.mx/wb3/wb/MEX) financial derivatives operator [Kualiderivados](http://www.mexder.com.mx/wb3/wb/MEX/MEX_Repositorio/_vtp/MEX/202b_abrir_cuenta/_rid/21/_mto/3/Operadores.pdf) in 2018.<br>
 
-He worked during 2022 remote sensing areas of pressure over [Natural Protected Areas](https://semadet.jalisco.gob.mx/medio-ambiente/biodiversidad/areas-naturales-protegidas) polygons geospatial data with satellite imagery from [LandSat](https://landsat.gsfc.nasa.gov) using <i>Machine Learning</i> algorithms such as <i>Supervised Learning</i> for the [IIEG](https://iieg.gob.mx/ns/) with [ITESO](https://www.topuniversities.com/universities/iteso-universidad-jesuita-de-guadalajara) and [CONABIO](https://www.gob.mx/conabio). <br>
- 
+During his studies he used the following Data Science algorithms on many different projects:
 
-:robot: :speech_balloon: He is currently working on a <i>Deep Learning</i> project to predict a variety of portfolio<br>
-optimizations from major Stock Market Indexes in real time using Recurrent Neural Networks. <br><br>
+- Linear & Logistic Regressions
+- Decision Trees
+- Random Forests
+- Support Vector Machines (SVMs)
+- K-Nearest Neighbors (KNN)
+- Naive Bayes
+- Principal Component Analysis (PCA)
+- K-Means & Hierarchical Clustering
+- Gradient Boosting Machine (GBM)
+- Genetic Algorithms
+- Particle Swarm Optimization
+- Adaline / Perceptron
+- Artificial Neural Networks (ANNs)
 
-I am looking for a job as a `Data Scientist / Data Analyst` or related. <br>
+
+He worked professionally implementing <i>Supervised Learning</i> algorithms for the [IIEG](https://iieg.gob.mx/ns/) in order to sense remotely zones<br>
+of pressure within polygons containing [Natural Protected Areas](https://semadet.jalisco.gob.mx/medio-ambiente/biodiversidad/areas-naturales-protegidas) using [LandSat](https://landsat.gsfc.nasa.gov) satellite imagery geospatial data <br>
+And on text processing feature engineering pipelines with [Customs and Foreign Trade](https://www.gob.mx/sat/acciones-y-programas/comercio-exterior) clothe imports to make price prediction models. <br>     
+
+He is currently working on a project that uses Recurrent Neural Networks to predict a variety of portfolio optimizations made according to clients objectives and selected investment region, it incorporates major Stock Market Indexes data in real time from all around the world. <br><br>
+
 <i>His contact information is the following:
 
 <a href="https://www.linkedin.com/in/esteban-m65381722210212839/"><img width="40px" src="https://img.icons8.com/?size=512&id=MR3dZdlA53te&format=png"></a> <a href="https://api.whatsapp.com/send?phone=+523338588106&text=%20Hi%20Esteban,%20my%20name%20is%20"> <img width="35px" src="https://img.icons8.com/color/452/whatsapp--v1.png"></a> <a href="mailto:emarquez1895@gmail.com"> <img width="40px" src="https://img.icons8.com/color/452/gmail-new.png"></a> <a href="https://gitlab.com/EstebanMqz"><img width="40px" src="https://img.icons8.com/color/452/gitlab.png"></a> <a href="https://github.com/EstebanMqz?tab=repositories"><img width="40px" src="https://cdn3d.iconscout.com/3d/free/thumb/free-github-6343501-5220956.png?f=webp"></a>
 
-See more:</i><br>
+<div align="right">
+  
 [![Gists](https://img.shields.io/badge/Github-Gists-010b38?style=flat&logo=github&logoColor=black)](https://gist.github.com/EstebanMqz)
-
+</div>
 
 <div style="border: none !important;">
   <img src="gif/bar.gif">
 </div>
 
-#### <u><i>About me:</i></u> <br>
+#### <u><i>About:</i></u> <br>
 
 Esteban lived in Mexico where he acquired the <b>TOEFL</b> when he was just a kid after studying English $3_h$ a day for $10_{years}$</i>.<br>
 Several years after continuing his studies, he graduated from  [Cervantes Costa Rica](https://cervantes.edu.mx) through <b><i>Mathematics and Physics Route</i></b>.<br>
@@ -49,7 +66,7 @@ He is currently enrolled in courses to certificate as an [`Azure Data Scientist 
 Nevertheless, a solid background in Statistics & Mathematics and his values are other valuable assets for him as well. <br>
 He knows that <u><b><i>humanity</i></b></u> should strive to learn the most from every key aspect from their roles in life.<br>
 
-<br>
+Out of curiosity he enjoys learning and implementing more & more.
 
 <div style="border: none !important;">
   <img src="gif/bar.gif">
@@ -189,6 +206,3 @@ He knows that <u><b><i>humanity</i></b></u> should strive to learn the most from
 </i>
 
 </details>
-
-Out curiosity I strive to learn more in my everyday's life.<br>
-I feel very excited to implement securely, faster & better and I look forward to work together.
