@@ -6,37 +6,29 @@
   <img src = "./gif/Github_Profile.gif" width = 100% height = 100%>
 </div>
 
-<font size="5">Greetings, I am Esteban Márquez D. </font> <br>
+<h2> Greetings, I am Esteban Márquez D. </h3>
 
-<a href="https://egresados.blob.core.windows.net/anuarios/2022b-otono-iteso/index.html"><b>Financial Engineer</b></a> passionate about Statistics and Machine Learning :bar_chart::gear:<br> 
+<a href="https://egresados.blob.core.windows.net/anuarios/2022b-otono-iteso/index.html"><b>Financial Engineer</b></a> passionate about Statistics and Machine Learning :bar_chart::gear:<br> <br>
 
-<br>
 
-<details><summary> <b><u>About:</u></b> </summary> <br>
+<details><summary> <b>About:</b> </summary> <br>
 
 ##### <b><i>Academically:</i></b> 
 
-:robot: :speech_balloon: Esteban lived most of his childhood in Mexico where he obtained <b>TOEFL</b> at 14. Studying English $3_h$ a day for $10_{years}$ helped him</i>.<br>
+:robot: :speech_balloon: Esteban lived most of his childhood in Mexico where he studied English $3_h$ a day for $10_{years}$ & obtained the <b>TOEFL</b> certificate at the age of 14</i>.<br>
 Eventually, he graduated from [Cervantes Costa Rica](https://cervantes.edu.mx) <b><i>Math & Physics</b></i> high school.<br>
-
-He was soon enrolled in college for Engineering and during his Bachelor's he was elected to be an international Financial Engineering student in Seville, [Loyola University](https://www.uloyola.es) where he had some of the main courses of its Degree in Economics including <i>Game Theory & International Economics</i>. It inspired him to simulate human behavior to prove Game Theory assumptions using digital interviews on every exchange student in Spain. <br>
-
+He was soon enrolled in college for Engineering and during his Bachelor studies he was elected to be an international Financial Engineering student in Seville, [Loyola University](https://www.uloyola.es) where he took some of the main courses of its Degree in Economics including <i>Game Theory & International Economics</i>. This inspired him to simulate human behavior to prove Game Theory assumptions using digital interviews from exchange students in Spain. <br>
 In Dec. 2022 he acquired his <i>$9_{th}$ semester<b> Bachelor's degree in Financial Engineering</b></i> from [ITESO](https://www.topuniversities.com/universities/iteso-universidad-jesuita-de-guadalajara).<br>
-He is currently enrolled in courses to certificate as an [`Azure Data Scientist Associate`](https://learn.microsoft.com/en-us/certifications/azure-data-scientist/) & [`Tableau Desktop Specialist`](https://www.tableau.com/learn/certification/desktop-specialist).
-
+And he is currently enrolled in courses to help him certificate as an [`Azure Data Scientist Associate`](https://learn.microsoft.com/en-us/certifications/azure-data-scientist/) & [`Tableau Desktop Specialist`](https://www.tableau.com/learn/certification/desktop-specialist).
 ##### <b><i>Work:</i></b>
-Esteban has worked since 2017 as an independent investment advisor for [TradingClubGdl](https://tradingclubmx.com) and [InvestorHouseMX](https://www.investorhouse.com.mx) among others.<br>
-he won the $1_{st}$ place on a <i>competition</i> hosted by the [MexDer](http://www.mexder.com.mx/wb3/wb/MEX) financial derivatives operator [Kualiderivados](http://www.mexder.com.mx/wb3/wb/MEX/MEX_Repositorio/_vtp/MEX/202b_abrir_cuenta/_rid/21/_mto/3/Operadores.pdf) in 2018.<br>
-
-In 2022 he was part of the Geospatial Analysis team in his college and implemented <i>Supervised Learning</i> algorithms for the [IIEG](https://iieg.gob.mx/ns/) to sense remotely the zones of pressure contained in the polygons of [Natural Protected Areas](https://semadet.jalisco.gob.mx/medio-ambiente/biodiversidad/areas-naturales-protegidas)  using [LandSat](https://landsat.gsfc.nasa.gov) satellite imagery geospatial data. <br>
-He also worked feature engineering text processing pipelines with [Customs and Foreign Trade](https://www.gob.mx/sat/acciones-y-programas/comercio-exterior) data of the state in order to make price prediction models for clothes imports. <br>     
-
-He is currently working on a project that uses Recurrent Neural Networks incorporating data from major Stock Market Indexes in real time in order to predict a variety of portfolio optimizations according to clients objectives and selected investment region.<br><br>
+Esteban has worked since 2017 as an independent investment advisor for members of [TradingClubGdl](https://tradingclubmx.com) and [InvestorHouseMX](https://www.investorhouse.com.mx) among other investment groups and enthusiasts. Consequently, he was the $1_{st}$ place on a <i>competition</i> hosted by the [MexDer](http://www.mexder.com.mx/wb3/wb/MEX) financial derivatives operator [Kualiderivados](http://www.mexder.com.mx/wb3/wb/MEX/MEX_Repositorio/_vtp/MEX/202b_abrir_cuenta/_rid/21/_mto/3/Operadores.pdf) in 2018.<br>
+In 2022 he was part of the Geospatial Analysis engineering team in his college and implemented <i>Supervised Learning</i> algorithms for the [IIEG](https://iieg.gob.mx/ns/) to sense remotely the zones of pressure contained in the polygons of [Natural Protected Areas](https://semadet.jalisco.gob.mx/medio-ambiente/biodiversidad/areas-naturales-protegidas)  using [LandSat](https://landsat.gsfc.nasa.gov) satellite imagery geospatial data. <br>
+His thesis involved text processing & feature engineering pipelines with data provided by [Customs and Foreign Trade](https://www.gob.mx/sat/acciones-y-programas/comercio-exterior) secretary to make price prediction models for clothes imports. <br>     
+He is currently working on a project using data fetched in real time that involves major Stock Market Indexes components and Recurrent Neural Networks to predict most known portfolio optimizations created according to clients objectives and selected investment region.<br><br>
 
 <details><summary> <i> <font size="1"> Algorithm Experience: </summary>
-
+  
 He has implemented many different known algorithms on several projects, including:
-
 - Linear & Logistic Regressions
 - Decision Trees
 - Random Forests
@@ -50,19 +42,7 @@ He has implemented many different known algorithms on several projects, includin
 - Particle Swarm Optimization
 - Adaline / Perceptron
 - Artificial Neural Networks (ANNs)
-
-He always enjoys learning more :rocket: </font> </i>
 </details>
-
-
-<b>Business Inquiries</b>:
-
-<a href="https://www.linkedin.com/in/esteban-m65381722210212839/"><img width="40px" src="https://img.icons8.com/?size=512&id=MR3dZdlA53te&format=png"></a> <a href="https://api.whatsapp.com/send?phone=+523338588106&text=%20Hi%20Esteban,%20my%20name%20is%20"> <img width="35px" src="https://img.icons8.com/color/452/whatsapp--v1.png"></a> <a href="mailto:emarquez1895@gmail.com"> <img width="40px" src="https://img.icons8.com/color/452/gmail-new.png"></a> <a href="https://gitlab.com/EstebanMqz"><img width="40px" src="https://img.icons8.com/color/452/gitlab.png"></a> <a href="https://github.com/EstebanMqz?tab=repositories"><img width="40px" src="https://cdn3d.iconscout.com/3d/free/thumb/free-github-6343501-5220956.png?f=webp"></a>
-
-<div align="right">
-  
-[![Gists](https://img.shields.io/badge/Github-Gists-010b38?style=flat&logo=github&logoColor=black)](https://gist.github.com/EstebanMqz)
-</div>
 
 </details>
 
@@ -163,43 +143,52 @@ He always enjoys learning more :rocket: </font> </i>
   <img src="gif/bar.gif">
 </div>
 
+<b>Business Inquiries</b>:
 
-<details><summary><i>(Other)</i> <b> Pkgs Frequently Used: </b></summary>
+<a href="https://www.linkedin.com/in/esteban-m65381722210212839/"><img width="40px" src="https://img.icons8.com/?size=512&id=MR3dZdlA53te&format=png"></a> <a href="https://api.whatsapp.com/send?phone=+523338588106&text=%20Hi%20Esteban,%20my%20name%20is%20"> <img width="35px" src="https://img.icons8.com/color/452/whatsapp--v1.png"></a> <a href="mailto:emarquez1895@gmail.com"> <img width="40px" src="https://img.icons8.com/color/452/gmail-new.png"></a> <a href="https://gitlab.com/EstebanMqz"><img width="40px" src="https://img.icons8.com/color/452/gitlab.png"></a> <a href="https://github.com/EstebanMqz?tab=repositories"><img width="40px" src="https://cdn3d.iconscout.com/3d/free/thumb/free-github-6343501-5220956.png?f=webp"></a>
+<div align="right">
+  
+[![Gists](https://img.shields.io/badge/Github-Gists-010b38?style=flat&logo=github&logoColor=black)](https://gist.github.com/EstebanMqz)
+</div>
+
+<details><summary><i>Pkgs Frequently Used:</i></summary>
 <br>
 
 
 <i>
 
-+ [Numpy](https://numpy.org/)
-+ [Pandas](https://pandas.pydata.org/)
-+ [matplotlib](https://matplotlib.org/)
-+ [seaborn](https://seaborn.pydata.org/)
-+ [scikit-learn](https://scikit-learn.org/)
-+ [statsmodels](https://www.statsmodels.org/stable/index.html)
-+ [xgboost](https://xgboost.readthedocs.io/en/latest/)
-+ [tensorflow](https://www.tensorflow.org/)
-+ [keras](https://keras.io/)
-+ [pytorch](https://pytorch.org/)
-+ [scipy](https://www.scipy.org/)
-+ [NTLK](https://www.nltk.org/)
-+ [Pillow](https://pillow.readthedocs.io/en/stable/)
-+ [Requests](https://requests.readthedocs.io/en/master/)
-+ [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
-+ [ggplot2](https://ggplot2.tidyverse.org/)
-+ [dplyr](https://dplyr.tidyverse.org/)
-+ [tidyr](https://tidyr.tidyverse.org/)
-+ [lubridate](https://lubridate.tidyverse.org/)
-+ [stringr](https://stringr.tidyverse.org/)
-+ [readr](https://readr.tidyverse.org/)
-+ [purrr](https://purrr.tidyverse.org/)
-+ [tibble](https://tibble.tidyverse.org/)
-+ [kntir](https://cran.r-project.org/web/packages/knitr/index.html)
-+ [plotly](https://plotly.com/)
-+ [tidyverse](https://www.tidyverse.org/)
-+ [Deep Learning Toolbox](https://www.mathworks.com/products/deep-learning.html)
-+ [Curve Fitting Toolbox](https://www.mathworks.com/products/curvefitting.html)
-+ [Simulink](https://www.mathworks.com/products/simulink.html)
-+ [Neural Network Toolbox](https://www.mathworks.com/products/neural-network.html)
+[![numpy](https://img.shields.io/badge/numpy-1.21.2-blue)](https://numpy.org/)
+[![pandas](https://img.shields.io/badge/pandas-1.3.3-blue)](https://pandas.pydata.org/)
+[![matplotlib](https://img.shields.io/badge/matplotlib-3.4.3-blue)](https://matplotlib.org/)
+[![seaborn](https://img.shields.io/badge/seaborn-0.11.2-blue)](https://seaborn.pydata.org/)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-1.0-blue)](https://scikit-learn.org/)
+[![statsmodels](https://img.shields.io/badge/statsmodels-0.13.0-blue)](https://www.statsmodels.org/stable/index.html)
+[![xgboost](https://img.shields.io/badge/xgboost-1.5.0-blue)](https://xgboost.readthedocs.io/en/latest/)
+[![tensorflow](https://img.shields.io/badge/tensorflow-2.6.0-blue)](https://www.tensorflow.org/)
+[![keras](https://img.shields.io/badge/keras-2.6.0-blue)](https://keras.io/)
+[![pytorch](https://img.shields.io/badge/pytorch-1.9.0-blue)](https://pytorch.org/)
+[![scipy](https://img.shields.io/badge/scipy-1.7.1-blue)](https://www.scipy.org/)
+[![nltk](https://img.shields.io/badge/nltk-3.6.3-blue)](https://www.nltk.org/)
+[![pillow](https://img.shields.io/badge/pillow-8.3.2-blue)](https://pillow.readthedocs.io/en/stable/)
+[![requests](https://img.shields.io/badge/requests-2.26.0-blue)](https://requests.readthedocs.io/en/master/)
+[![fitter](https://img.shields.io/badge/fitter-1.4.0-blue)](https://pypi.org/project/fitter/)
+[![tabulate](https://img.shields.io/badge/tabulate-0.8.9-blue)](https://pypi.org/project/tabulate/)
+[![beautifulsoup](https://img.shields.io/badge/beautifulsoup-4.10.0-blue)](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+[![ggplot2](https://img.shields.io/badge/ggplot2-3.3.5-blue)](https://ggplot2.tidyverse.org/)
+[![dplyr](https://img.shields.io/badge/dplyr-1.0.7-blue)](https://dplyr.tidyverse.org/)
+[![tidyr](https://img.shields.io/badge/tidyr-1.1.4-blue)](https://tidyr.tidyverse.org/)
+[![lubridate](https://img.shields.io/badge/lubridate-1.7.10-blue)](https://lubridate.tidyverse.org/)
+[![stringr](https://img.shields.io/badge/stringr-1.4.0-blue)](https://stringr.tidyverse.org/)
+[![readr](https://img.shields.io/badge/readr-2.1.1-blue)](https://readr.tidyverse.org/)
+[![purrr](https://img.shields.io/badge/purrr-0.3.4-blue)](https://purrr.tidyverse.org/)
+[![tibble](https://img.shields.io/badge/tibble-3.1.5-blue)](https://tibble.tidyverse.org/)
+[![knitr](https://img.shields.io/badge/knitr-1.36-blue)](https://cran.r-project.org/web/packages/knitr/index.html)
+[![plotly](https://img.shields.io/badge/plotly-5.3.1-blue)](https://plotly.com/)
+[![tidyverse](https://img.shields.io/badge/tidyverse-1.3.1-blue)](https://www.tidyverse.org/)
+[![Deep Learning Toolbox](https://img.shields.io/badge/Deep%20Learning%20Toolbox-R2021b-blue)](https://www.mathworks.com/products/deep-learning.html)
+[![Curve Fitting Toolbox](https://img.shields.io/badge/Curve%20Fitting%20Toolbox-R2021b-blue)](https://www.mathworks.com/products/curvefitting.html)
+[![Simulink](https://img.shields.io/badge/Simulink-R2021b-blue)](https://www.mathworks.com/products/simulink.html)
+[![Neural Network Toolbox](https://img.shields.io/badge/Neural%20Network%20Toolbox-R2021b-blue)](https://www.mathworks.com/products/neural-network.html)
 
 </i>
 
