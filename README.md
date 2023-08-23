@@ -2,21 +2,40 @@
   <link rel="stylesheet" href="css/blue-bar.css">
 </head>
 
-<font size="6">Greetings, I am Esteban Márquez D. </font> <br>
-A <a href="https://egresados.blob.core.windows.net/anuarios/2022b-otono-iteso/index.html"><b>Financial Engineer</b></a> passionate about Statistics and Machine Learning :gear:<br> 
+<div align="center">
+  <img src = "./gif/Github_Profile.gif" width = 100% height = 100%>
+</div>
+
+<font size="5">Greetings, I am Esteban Márquez D. </font> <br>
+
+<a href="https://egresados.blob.core.windows.net/anuarios/2022b-otono-iteso/index.html"><b>Financial Engineer</b></a> passionate about Statistics and Machine Learning :bar_chart::gear:<br> 
 
 <br>
 
-<!-- <div align="center">
-  <img src = "./gif/Github_Profile.gif">
-</div> -->
+<details><summary> <b><u>About:</u></b> </summary> <br>
 
-<br><br>
+##### <b><i>Academically:</i></b> 
 
-:robot: :speech_balloon: He has worked as an independent investment advisor for  [TradingClubGdl](https://tradingclubmx.com) and [InvestorHouseMX](https://www.investorhouse.com.mx) since 2017, <br>
-he was the $1_{st}$ place on a <i>competition</i> hosted by the [MexDer](http://www.mexder.com.mx/wb3/wb/MEX) financial derivatives operator [Kualiderivados](http://www.mexder.com.mx/wb3/wb/MEX/MEX_Repositorio/_vtp/MEX/202b_abrir_cuenta/_rid/21/_mto/3/Operadores.pdf) in 2018.<br>
+:robot: :speech_balloon: Esteban lived most of his childhood in Mexico where he obtained <b>TOEFL</b> at 14. Studying English $3_h$ a day for $10_{years}$ helped him</i>.<br>
+Eventually, he graduated from [Cervantes Costa Rica](https://cervantes.edu.mx) <b><i>Math & Physics</b></i> high school.<br>
 
-During his studies he used the following Data Science algorithms on many different projects:
+He was soon enrolled in college for Engineering and during his Bachelor's he was elected to be an international Financial Engineering student in Seville, [Loyola University](https://www.uloyola.es) where he had some of the main courses of its Degree in Economics including <i>Game Theory & International Economics</i>. It inspired him to simulate human behavior to prove Game Theory assumptions using digital interviews on every exchange student in Spain. <br>
+
+In Dec. 2022 he acquired his <i>$9_{th}$ semester<b> Bachelor's degree in Financial Engineering</b></i> from [ITESO](https://www.topuniversities.com/universities/iteso-universidad-jesuita-de-guadalajara).<br>
+He is currently enrolled in courses to certificate as an [`Azure Data Scientist Associate`](https://learn.microsoft.com/en-us/certifications/azure-data-scientist/) & [`Tableau Desktop Specialist`](https://www.tableau.com/learn/certification/desktop-specialist).
+
+##### <b><i>Work:</i></b>
+Esteban has worked since 2017 as an independent investment advisor for [TradingClubGdl](https://tradingclubmx.com) and [InvestorHouseMX](https://www.investorhouse.com.mx) among others.<br>
+he won the $1_{st}$ place on a <i>competition</i> hosted by the [MexDer](http://www.mexder.com.mx/wb3/wb/MEX) financial derivatives operator [Kualiderivados](http://www.mexder.com.mx/wb3/wb/MEX/MEX_Repositorio/_vtp/MEX/202b_abrir_cuenta/_rid/21/_mto/3/Operadores.pdf) in 2018.<br>
+
+In 2022 he was part of the Geospatial Analysis team in his college and implemented <i>Supervised Learning</i> algorithms for the [IIEG](https://iieg.gob.mx/ns/) to sense remotely the zones of pressure contained in the polygons of [Natural Protected Areas](https://semadet.jalisco.gob.mx/medio-ambiente/biodiversidad/areas-naturales-protegidas)  using [LandSat](https://landsat.gsfc.nasa.gov) satellite imagery geospatial data. <br>
+He also worked feature engineering text processing pipelines with [Customs and Foreign Trade](https://www.gob.mx/sat/acciones-y-programas/comercio-exterior) data of the state in order to make price prediction models for clothes imports. <br>     
+
+He is currently working on a project that uses Recurrent Neural Networks incorporating data from major Stock Market Indexes in real time in order to predict a variety of portfolio optimizations according to clients objectives and selected investment region.<br><br>
+
+<details><summary> <i> <font size="1"> Algorithm Experience: </summary>
+
+He has implemented many different known algorithms on several projects, including:
 
 - Linear & Logistic Regressions
 - Decision Trees
@@ -32,14 +51,11 @@ During his studies he used the following Data Science algorithms on many differe
 - Adaline / Perceptron
 - Artificial Neural Networks (ANNs)
 
+He always enjoys learning more :rocket: </font> </i>
+</details>
 
-He worked professionally implementing <i>Supervised Learning</i> algorithms for the [IIEG](https://iieg.gob.mx/ns/) in order to sense remotely zones<br>
-of pressure within polygons containing [Natural Protected Areas](https://semadet.jalisco.gob.mx/medio-ambiente/biodiversidad/areas-naturales-protegidas) using [LandSat](https://landsat.gsfc.nasa.gov) satellite imagery geospatial data <br>
-And on text processing feature engineering pipelines with [Customs and Foreign Trade](https://www.gob.mx/sat/acciones-y-programas/comercio-exterior) clothe imports to make price prediction models. <br>     
 
-He is currently working on a project that uses Recurrent Neural Networks to predict a variety of portfolio optimizations made according to clients objectives and selected investment region, it incorporates major Stock Market Indexes data in real time from all around the world. <br><br>
-
-<i>His contact information is the following:
+<b>Business Inquiries</b>:
 
 <a href="https://www.linkedin.com/in/esteban-m65381722210212839/"><img width="40px" src="https://img.icons8.com/?size=512&id=MR3dZdlA53te&format=png"></a> <a href="https://api.whatsapp.com/send?phone=+523338588106&text=%20Hi%20Esteban,%20my%20name%20is%20"> <img width="35px" src="https://img.icons8.com/color/452/whatsapp--v1.png"></a> <a href="mailto:emarquez1895@gmail.com"> <img width="40px" src="https://img.icons8.com/color/452/gmail-new.png"></a> <a href="https://gitlab.com/EstebanMqz"><img width="40px" src="https://img.icons8.com/color/452/gitlab.png"></a> <a href="https://github.com/EstebanMqz?tab=repositories"><img width="40px" src="https://cdn3d.iconscout.com/3d/free/thumb/free-github-6343501-5220956.png?f=webp"></a>
 
@@ -48,31 +64,13 @@ He is currently working on a project that uses Recurrent Neural Networks to pred
 [![Gists](https://img.shields.io/badge/Github-Gists-010b38?style=flat&logo=github&logoColor=black)](https://gist.github.com/EstebanMqz)
 </div>
 
-<div style="border: none !important;">
-  <img src="gif/bar.gif">
-</div>
-
-#### <u><i>About:</i></u> <br>
-
-Esteban lived in Mexico where he acquired the <b>TOEFL</b> when he was just a kid after studying English $3_h$ a day for $10_{years}$</i>.<br>
-Several years after continuing his studies, he graduated from  [Cervantes Costa Rica](https://cervantes.edu.mx) through <b><i>Mathematics and Physics Route</i></b>.<br>
-
-His most recent living experience was a semester as an international Financial Engineering student in Seville, Spain to course assignments of a Degree in Economics in [Loyola University](https://www.uloyola.es), including but not limited to <i>Game Theory & International Economics</i>.<br>
-Moreover, he just recently acquired my <i>$9_{th}$ semester<b> Bachelor's degree in Financial Engineering</b></i> in Dec. 2022 from [ITESO](https://www.topuniversities.com/universities/iteso-universidad-jesuita-de-guadalajara) from where I am sure he can think of plenty of <i>tutors, Data Science and Machine Learning</i> algorithms far more than valuable in his everyday's life, not to mention the presence of his <u><i>family</i></u>. <br>
-
-He is currently enrolled in courses to certificate as an [`Azure Data Scientist Associate`](https://learn.microsoft.com/en-us/certifications/azure-data-scientist/)<br>
-& [`Tableau Desktop Specialist`](https://www.tableau.com/learn/certification/desktop-specialist) to further develop his skills as a <b>Data Scientist & Data Analyst.</b>
-
-Nevertheless, a solid background in Statistics & Mathematics and his values are other valuable assets for him as well. <br>
-He knows that <u><b><i>humanity</i></b></u> should strive to learn the most from every key aspect from their roles in life.<br>
-
-Out of curiosity he enjoys learning and implementing more & more.
+</details>
 
 <div style="border: none !important;">
   <img src="gif/bar.gif">
 </div>
 
-## Experience: 
+### Tools: 
 
 <details><summary><b> Programming Languages &#x1F5A5;</b></summary>
 
