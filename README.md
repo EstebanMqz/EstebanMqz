@@ -13,22 +13,22 @@
 
 <details><summary> <b>About:</b> </summary> <br>
 
-##### <b><i>Academically:</i></b> 
+##### <b><i>Education:</i></b> 
 
-:robot: :speech_balloon: Esteban lived most of his childhood in Mexico where he studied English $3_h$ a day for $10_{years}$ & obtained the <b>TOEFL</b> certificate at the age of 14</i>.<br>
+:robot: :speech_balloon: Esteban lived most of his childhood in Mexico where he studied English $3_h$ a day for $10_{years}$ & obtained the <b>TOEFL</b> by the age of 14</i>.<br>
 Eventually, he graduated from [Cervantes Costa Rica](https://cervantes.edu.mx) <b><i>Math & Physics</b></i> high school.<br>
 He was soon enrolled in college for Engineering and during his Bachelor studies he was elected to be an international Financial Engineering student in Seville, [Loyola University](https://www.uloyola.es) where he took some of the main courses of its Degree in Economics including <i>Game Theory & International Economics</i>. This inspired him to simulate human behavior to prove Game Theory assumptions using digital interviews from exchange students in Spain. <br>
 In Dec. 2022 he acquired his <i>$9_{th}$ semester<b> Bachelor's degree in Financial Engineering</b></i> from [ITESO](https://www.topuniversities.com/universities/iteso-universidad-jesuita-de-guadalajara).<br>
 And he is currently enrolled in courses to help him certificate as an [`Azure Data Scientist Associate`](https://learn.microsoft.com/en-us/certifications/azure-data-scientist/) & [`Tableau Desktop Specialist`](https://www.tableau.com/learn/certification/desktop-specialist).
 ##### <b><i>Work:</i></b>
 Esteban has worked since 2017 as an independent investment advisor for members of [TradingClubGdl](https://tradingclubmx.com) and [InvestorHouseMX](https://www.investorhouse.com.mx) among other investment groups and enthusiasts. Consequently, he was the $1_{st}$ place on a <i>competition</i> hosted by the [MexDer](http://www.mexder.com.mx/wb3/wb/MEX) financial derivatives operator [Kualiderivados](http://www.mexder.com.mx/wb3/wb/MEX/MEX_Repositorio/_vtp/MEX/202b_abrir_cuenta/_rid/21/_mto/3/Operadores.pdf) in 2018.<br>
-In 2022 he was part of the Geospatial Analysis engineering team in his college and implemented <i>Supervised Learning</i> algorithms for the [IIEG](https://iieg.gob.mx/ns/) to sense remotely the zones of pressure contained in the polygons of [Natural Protected Areas](https://semadet.jalisco.gob.mx/medio-ambiente/biodiversidad/areas-naturales-protegidas)  using [LandSat](https://landsat.gsfc.nasa.gov) satellite imagery geospatial data. <br>
+In 2022 he was part of the Geospatial Analysis engineering team in his college and implemented <i>Supervised Learning</i> algorithms for the [IIEG](https://iieg.gob.mx/ns/) to sense remotely the zones of pressure contained in the polygons of [Natural Protected Areas](https://semadet.jalisco.gob.mx/medio-ambiente/biodiversidad/areas-naturales-protegidas) using [LandSat](https://landsat.gsfc.nasa.gov) and [Google Earth Engine](https://code.earthengine.google.com) satellite imagery geospatial data. <br>
 His thesis involved text processing & feature engineering pipelines with data provided by [Customs and Foreign Trade](https://www.gob.mx/sat/acciones-y-programas/comercio-exterior) secretary to make price prediction models for clothes imports. <br>     
-He is currently working on a project using data fetched in real time that involves major Stock Market Indexes components and Recurrent Neural Networks to predict most known portfolio optimizations created according to clients objectives and selected investment region.<br><br>
+He is currently working on a project using data fetched in real time that involves most major Stock Market Indexes and their components using Recurrent Neural Networks to predict most known portfolio optimizations which are created according to clients objectives and investment region.<br><br>
 
 <details><summary> <i> <font size="1"> Algorithm Experience: </summary>
   
-He has implemented many different known algorithms on several projects, including:
+He has at least implemented the following known algorithms for tasks & projects:
 - Linear & Logistic Regressions
 - Decision Trees
 - Random Forests
@@ -41,7 +41,7 @@ He has implemented many different known algorithms on several projects, includin
 - Genetic Algorithms
 - Particle Swarm Optimization
 - Adaline / Perceptron
-- Artificial Neural Networks (ANNs)
+- Artificial Neural Networks (Feed Forward, Recurrent, Convolutional, GANs, etc.)
 </details>
 
 </details>
@@ -145,7 +145,12 @@ He has implemented many different known algorithms on several projects, includin
 
 <b>Business Inquiries</b>:
 
-<a href="https://www.linkedin.com/in/esteban-m65381722210212839/"><img width="40px" src="https://img.icons8.com/?size=512&id=MR3dZdlA53te&format=png"></a> <a href="https://api.whatsapp.com/send?phone=+523338588106&text=%20Hi%20Esteban,%20my%20name%20is%20"> <img width="35px" src="https://img.icons8.com/color/452/whatsapp--v1.png"></a> <a href="mailto:emarquez1895@gmail.com"> <img width="40px" src="https://img.icons8.com/color/452/gmail-new.png"></a> <a href="https://gitlab.com/EstebanMqz"><img width="40px" src="https://img.icons8.com/color/452/gitlab.png"></a> <a href="https://github.com/EstebanMqz?tab=repositories"><img width="40px" src="https://cdn3d.iconscout.com/3d/free/thumb/free-github-6343501-5220956.png?f=webp"></a>
+
+[<img width="40px" src="https://img.icons8.com/?size=512&id=MR3dZdlA53te&format=png">](https://tinyurl.com/bdcny457) [<img width="35px" src="https://img.icons8.com/color/452/whatsapp--v1.png">](https://tinyurl.com/2y86e2wa)
+[<img width="40px" src="https://img.icons8.com/color/452/gmail-new.png">](mailto:emarquez1895@gmail.com)
+[<img width="40px" src="https://cdn3d.iconscout.com/3d/free/thumb/free-github-6343501-5220956.png?f=webp">](https://github.com/EstebanMqz?tab=repositories)
+[<img width="40px" src="https://img.icons8.com/color/452/gitlab.png">](https://gitlab.com/EstebanMqz)
+
 <div align="right">
   
 [![Gists](https://img.shields.io/badge/Github-Gists-010b38?style=flat&logo=github&logoColor=black)](https://gist.github.com/EstebanMqz)
@@ -193,3 +198,4 @@ He has implemented many different known algorithms on several projects, includin
 </i>
 
 </details>
+
