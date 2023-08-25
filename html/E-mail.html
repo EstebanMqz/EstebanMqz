@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Business Inquiries E-mail Form</title>
+    <link rel="stylesheet" href="css/styles.css">
+  </head>
+  <body>
+    <div style="background-color: #1e1e1e; padding: 20px;">
+      <form action="../php/E-mail.php" method="post" class="form-container">
+        <div style="display: flex; flex-direction: column; align-items: center;">
+          <h1>Business Inquiries E-mail Form for Esteban Márquez D.</h1>
+          <div style="display: flex; flex-direction: row; align-items: flex-start; width: 100%;">
+            <div style="display: flex; flex-direction: column; align-items: flex-start; width: 50%;">
+              <label for="name">Name:</label>
+              <input type="text" id="name" name="name" required>
+            </div>
+
+            <div style="display: flex; flex-direction: column; align-items: flex-start; width: 50%;">
+              <label for="email">E-mail:</label>
+              <div style="display: flex; flex-direction: row; align-items: center;">
+                <input type="email" id="email" name="email" required>
+                <div style="width: 10px;"></div>
+              </div>
+            </div>
+          </div>
+
+          <div style="display: flex; flex-direction: column; align-items: flex-start; width: 100%;">
+            <label for="message">Message:</label>
+            <textarea id="message" name="message" required placeholder="Enter your message here"></textarea>
+          </div>
+
+          <button type="submit" title="Send your message">Send</button>
+        </div>
+      </form>
+    </div>
+  </body>
+</html>

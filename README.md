@@ -6,6 +6,7 @@
   <img src = "./gif/Github_Profile.gif" width = 100% height = 100%>
 </div>
 
+
 <h2> Greetings, I am Esteban Márquez D. </h3>
 
 <a href="https://egresados.blob.core.windows.net/anuarios/2022b-otono-iteso/index.html"><b>Financial Engineer</b></a> passionate about Statistics and Machine Learning :bar_chart::gear:<br> <br>
