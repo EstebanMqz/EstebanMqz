@@ -1,18 +1,24 @@
 <head>
   <link rel="stylesheet" href="css/blue-bar.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/kimeiga/bahunya/dist/bahunya.min.css">
 </head>
 
 <div align="center">
   <img src = "./gif/Github_Profile.gif" width = 100% height = 100%>
 </div>
 
+<nav>
+  <a href="#about">About</a>
+  <a href="#tools">Tools</a>
+  <a href="#inquiries">Business Inquiries</a>
+</nav>
 
 <h2> Greetings, I am Esteban Márquez D. </h3>
 
 <a href="https://egresados.blob.core.windows.net/anuarios/2022b-otono-iteso/index.html"><b>Financial Engineer</b></a> passionate about Statistics and Machine Learning :bar_chart::gear:<br> <br>
 
-
-<details><summary> <b>About:</b> </summary> <br>
+<details><summary><b>About:</b></summary><br>
+<section id="about">
 
 ##### <b><i>Education:</i></b> 
 
@@ -51,7 +57,8 @@ He has at least implemented the following known algorithms for tasks & projects:
   <img src="gif/bar.gif">
 </div>
 
-### Tools: 
+<h1>Tools</h1>
+<section id="tools">
 
 <details><summary><b> Programming Languages &#x1F5A5;</b></summary>
 
@@ -144,22 +151,8 @@ He has at least implemented the following known algorithms for tasks & projects:
   <img src="gif/bar.gif">
 </div>
 
-<b>Business Inquiries</b>:
-
-
-[<img width="40px" src="https://img.icons8.com/?size=512&id=MR3dZdlA53te&format=png">](https://tinyurl.com/bdcny457) [<img width="35px" src="https://img.icons8.com/color/452/whatsapp--v1.png">](https://tinyurl.com/2y86e2wa)
-[<img width="40px" src="https://img.icons8.com/color/452/gmail-new.png">](mailto:emarquez1895@gmail.com)
-[<img width="40px" src="https://cdn3d.iconscout.com/3d/free/thumb/free-github-6343501-5220956.png?f=webp">](https://github.com/EstebanMqz?tab=repositories)
-[<img width="40px" src="https://img.icons8.com/color/452/gitlab.png">](https://gitlab.com/EstebanMqz)
-
-<div align="right">
-  
-[![Gists](https://img.shields.io/badge/Github-Gists-010b38?style=flat&logo=github&logoColor=black)](https://gist.github.com/EstebanMqz)
-</div>
-
-<details><summary><i>Pkgs Frequently Used:</i></summary>
+<details><summary><i>Frequently Used:</i></summary>
 <br>
-
 
 <i>
 
@@ -200,3 +193,18 @@ He has at least implemented the following known algorithms for tasks & projects:
 
 </details>
 
+<div align="right">
+  
+[![Gists](https://img.shields.io/badge/Github-Gists-010b38?style=flat&logo=github&logoColor=black)](https://gist.github.com/EstebanMqz)
+</div>
+
+<h2><b>Business Inquiries:</b></h2>
+<section id="inquiries">
+
+[<img width="40px" src="https://img.icons8.com/?size=512&id=MR3dZdlA53te&format=png">](https://tinyurl.com/bdcny457) 
+[<img width="35px" src="https://img.icons8.com/color/452/whatsapp--v1.png">](https://tinyurl.com/2y86e2wa)
+[<img width="40px" src="https://img.icons8.com/color/452/gmail-new.png">](mailto:emarquez1895@gmail.com)
+[<img width="40px" src="https://cdn3d.iconscout.com/3d/free/thumb/free-github-6343501-5220956.png?f=webp">](https://github.com/EstebanMqz?tab=repositories)
+[<img width="40px" src="https://img.icons8.com/color/452/gitlab.png">](https://gitlab.com/EstebanMqz)
+
+<iframe src="html/E-mail.html" width="100%" height="270px"></iframe>

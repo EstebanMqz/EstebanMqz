@@ -6,25 +6,26 @@
   </head>
   <body>
     <div style="background-color: #1e1e1e; padding: 20px;">
-      <form action="../php/E-mail.php" method="post" class="form-container">
-        <div style="display: flex; flex-direction: column; align-items: center;">
-          <h1>Business Inquiries E-mail Form for Esteban Márquez D.</h1>
-          <div style="display: flex; flex-direction: column; align-items: flex-start; width: 100%;">
-            <label for="name">Name:</label>
+      <form action="../php/send-email.php" method="post" class="form-container">
+        <div style="display: flex; flex-direction: row; align-items: center; justify-content: space-between; width: 100%;">
+          <div style="display: flex; flex-direction: column; align-items: flex-start; width: 48%;">
+            <label for="name" style="color: gray;">Name:</label>
             <input type="text" id="name" name="name" required>
           </div>
 
-          <div style="display: flex; flex-direction: column; align-items: flex-start; width: 100%;">
-            <label for="message">Message:</label>
-            <textarea id="message" name="message" required placeholder="Enter your message here"></textarea>
+          <div style="display: flex; flex-direction: column; align-items: flex-start; width: 48%;">
+            <label for="email" style="color: gray;">Email:</label>
+            <input type="email" id="email" name="email" required>
           </div>
+        </div>
 
-          <div style="display: flex; flex-direction: row; align-items: center; width: 100%;">
-            <input type="checkbox" id="anonymous" name="anonymous">
-            <label for="anonymous">Send anonymously</label>
-          </div>
+        <div style="display: flex; flex-direction: column; align-items: flex-start; width: 100%; height: 150px;">
+          <label for="message">Message:</label>
+          <textarea id="message" name="message" required placeholder="Enter your message here" style="height: 100%; width: 100%;"></textarea>
+        </div>
 
-          <button type="submit" title="Send your message">Send</button>
+        <div style="display: flex; flex-direction: column; align-items: center;">
+          <button type="submit" title="Send your message" style="background-color: blue; margin-top: 10px;">Send</button>
         </div>
       </form>
     </div>

@@ -37,6 +37,10 @@
   height: 200px;
 }
 
+.form-container input:invalid {
+  border: 2px solid red;
+}
+
 .form-container button {
   padding: 10px 20px;
   border-radius: 5px;
