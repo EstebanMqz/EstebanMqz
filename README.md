@@ -3,6 +3,12 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/kimeiga/bahunya/dist/bahunya.min.css">
 </head>
 
+<nav>
+  <a href="#about">About</a>
+  <a href="#tools">Tools</a>
+  <a href="#inquiries">Inquiries</a>
+</nav>
+
 <div align="center">
   <img src = "./gif/Github_Profile.gif" width = 100% height = 100%>
 </div>
@@ -11,7 +17,8 @@
 
 <a href="https://egresados.blob.core.windows.net/anuarios/2022b-otono-iteso/index.html"><b>Financial Engineer</b></a> passionate about Statistics and Machine Learning :bar_chart::gear:<br> <br>
 
-<details><summary><b>About:</b></summary><br>
+<details><summary><b>About:</b></summary>
+
 <section id="about">
 
 ##### <b><i>Education:</i></b> 
@@ -57,7 +64,7 @@ He has at least implemented the following known algorithms for tasks & projects:
 <details><summary><b> Programming Languages &#x1F5A5;</b></summary>
 
 
-|                                                     Symbol                                                                                            |   Languages                                               | Experience |
+|                                                     ~~Symbol~~                                                                                            |   Languages                                               | Experience |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- | -----------|
 | <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">                                   | [Python](https://www.python.org/)                         | 5+ years   |
 | <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">                                             | [R](https://www.r-project.org/)                           | 4+ years   |
@@ -68,7 +75,9 @@ He has at least implemented the following known algorithms for tasks & projects:
 | <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">                                     | [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) | 3+ years   |
 | <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">                                       | [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)   | 3+ years   |
 | <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Official_YAML_Logo.svg/1113px-Official_YAML_Logo.svg.png">           | [YAML](https://yaml.org/)                                 | 1+ years   |
+| <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">                           | [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | 1+ years   |
 | <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">                                   | [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)     | -1 years   |
+| <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">                                         | [PHP](https://www.php.net/)                               | -1 years   |
 
 </details>
 
@@ -103,6 +112,7 @@ He has at least implemented the following known algorithms for tasks & projects:
 | <img width="30px" src="https://icon-library.com/images/github-icon-svg/github-icon-svg-0.jpg">            | [Github](https://github.com)                | 4+ year             |
 | <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/3/35/GitLab_icon.svg">              | [Gitlab](https://about.gitlab.com)          | 2+ years            |
 | <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg">          | [Azure](https://azure.microsoft.com/en-us/) | 1+ year             |
+| <img width="30px" src="https://hostmayo.com/img/apache-web-server.png">                          | [Apache](https://httpd.apache.org/)         | -1 year             |
 
 </details>
 
@@ -200,3 +210,5 @@ He has at least implemented the following known algorithms for tasks & projects:
 [<img width="40px" src="https://img.icons8.com/color/452/gmail-new.png">](mailto:emarquez1895@gmail.com)
 [<img width="40px" src="https://cdn3d.iconscout.com/3d/free/thumb/free-github-6343501-5220956.png?f=webp">](https://github.com/EstebanMqz?tab=repositories)
 [<img width="40px" src="https://img.icons8.com/color/452/gitlab.png">](https://gitlab.com/EstebanMqz)
+
+<iframe src="html/E-mail.html" width="100%" height="350px"></iframe>

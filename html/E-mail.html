@@ -1,33 +1,71 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Business Inquiries E-mail Form</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Business Inquiries: HTML E-mail Form</title>
     <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="ridge-dark.css" />
+    <style>
+      button {
+        background-color: blue;
+        color: white;
+        padding: 10px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+      }
+      
+      #name, #email {
+        width: 80%;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+      }
+      
+      #message {
+        width: 100%;
+        height: 150px;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+      }
+      .file-form {
+        color: white;
+      }
+    </style>
   </head>
-  <body>
-    <div style="background-color: #1e1e1e; padding: 20px;">
-      <form action="../php/send-email.php" method="post" class="form-container">
-        <div style="display: flex; flex-direction: row; align-items: center; justify-content: space-between; width: 100%;">
-          <div style="display: flex; flex-direction: column; align-items: flex-start; width: 48%;">
-            <label for="name" style="color: gray;">Name:</label>
+  <body style="background-color: #011e00; padding: 20px;">
+    <div class="wrapper">
+      <form method="POST" action="../php/send-email.php" enctype="multipart/form-data" class="form">
+        <div style="display: flex; justify-content: space-between;">
+          <div>
+            <label for="name" style="color: rgb(255, 255, 255);">Name:</label>
             <input type="text" id="name" name="name" required>
           </div>
 
-          <div style="display: flex; flex-direction: column; align-items: flex-start; width: 48%;">
-            <label for="email" style="color: gray;">Email:</label>
+          <div>
+            <label for="email" style="color: rgb(255, 255, 255);">Email:</label>
             <input type="email" id="email" name="email" required>
           </div>
         </div>
 
-        <div style="display: flex; flex-direction: column; align-items: flex-start; width: 100%; height: 150px;">
-          <label for="message">Message:</label>
-          <textarea id="message" name="message" required placeholder="Enter your message here" style="height: 100%; width: 100%;"></textarea>
+        <br><input type="text" placeholder="Subject" name="subject" class="form__input">
+        <br><br><textarea name="message" id="message" placeholder="Will get back to you to provided email within 24h! &#13;&#10;&#13;&#10; Thanks for your business. &#13;&#10;&#13;&#10; Esteban" class="form__input" required></textarea>
+        
+        <div class="form__file file-form">
+          <label class="file-form__item">
+            <input name="Business-file" type="file" accept="*/*" class="file-form__input">
+            <span class="file-form__button" style="color: white;"><i>¿Upload file?</i></span>
+          </label>
         </div>
 
-        <div style="display: flex; flex-direction: column; align-items: center;">
-          <button type="submit" title="Send your message" style="background-color: blue; margin-top: 10px;">Send</button>
+        <div style="display: flex; justify-content: center; margin-top: 10px;">
+          <button type="submit" title="Send your message">Send</button>
         </div>
       </form>
     </div>
   </body>
 </html>
+
+
