@@ -7,12 +7,6 @@
   <img src = "./gif/Github_Profile.gif" width = 100% height = 100%>
 </div>
 
-<nav>
-  <a href="#about">About</a>
-  <a href="#tools">Tools</a>
-  <a href="#inquiries">Business Inquiries</a>
-</nav>
-
 <h2> Greetings, I am Esteban Márquez D. </h3>
 
 <a href="https://egresados.blob.core.windows.net/anuarios/2022b-otono-iteso/index.html"><b>Financial Engineer</b></a> passionate about Statistics and Machine Learning :bar_chart::gear:<br> <br>
@@ -206,5 +200,3 @@ He has at least implemented the following known algorithms for tasks & projects:
 [<img width="40px" src="https://img.icons8.com/color/452/gmail-new.png">](mailto:emarquez1895@gmail.com)
 [<img width="40px" src="https://cdn3d.iconscout.com/3d/free/thumb/free-github-6343501-5220956.png?f=webp">](https://github.com/EstebanMqz?tab=repositories)
 [<img width="40px" src="https://img.icons8.com/color/452/gitlab.png">](https://gitlab.com/EstebanMqz)
-
-<iframe src="html/E-mail.html" width="100%" height="270px"></iframe>
