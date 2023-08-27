@@ -25,14 +25,18 @@
 
 :robot: :speech_balloon: Esteban lived most of his childhood in Mexico where he studied English $3_h$ a day for $10_{years}$ & obtained the <b>TOEFL</b> by the age of 14</i>.<br>
 Eventually, he graduated from [Cervantes Costa Rica](https://cervantes.edu.mx) <b><i>Math & Physics</b></i> high school.<br>
+
 He was soon enrolled in college for Engineering and during his Bachelor studies he was elected to be an international Financial Engineering student in Seville, [Loyola University](https://www.uloyola.es) where he took some of the main courses of its Degree in Economics including <i>Game Theory & International Economics</i>. This inspired him to simulate human behavior to prove Game Theory assumptions using digital interviews from exchange students in Spain. <br>
 In Dec. 2022 he acquired his <i>$9_{th}$ semester<b> Bachelor's degree in Financial Engineering</b></i> from [ITESO](https://www.topuniversities.com/universities/iteso-universidad-jesuita-de-guadalajara).<br>
-And he is currently enrolled in courses to help him certificate as an [`Azure Data Scientist Associate`](https://learn.microsoft.com/en-us/certifications/azure-data-scientist/) & [`Tableau Desktop Specialist`](https://www.tableau.com/learn/certification/desktop-specialist).
+
+He is currently enrolled in courses to help him certificate as an [`Azure Data Scientist Associate`](https://learn.microsoft.com/en-us/certifications/azure-data-scientist/) & [`Tableau Desktop Specialist`](https://www.tableau.com/learn/certification/desktop-specialist).
 ##### <b><i>Work:</i></b>
 Esteban has worked since 2017 as an independent investment advisor for members of [TradingClubGdl](https://tradingclubmx.com) and [InvestorHouseMX](https://www.investorhouse.com.mx) among other investment groups and enthusiasts. Consequently, he was the $1_{st}$ place on a <i>competition</i> hosted by the [MexDer](http://www.mexder.com.mx/wb3/wb/MEX) financial derivatives operator [Kualiderivados](http://www.mexder.com.mx/wb3/wb/MEX/MEX_Repositorio/_vtp/MEX/202b_abrir_cuenta/_rid/21/_mto/3/Operadores.pdf) in 2018.<br>
+
 In 2022 he was part of the Geospatial Analysis engineering team in his college and implemented <i>Supervised Learning</i> algorithms for the [IIEG](https://iieg.gob.mx/ns/) to sense remotely the zones of pressure contained in the polygons of [Natural Protected Areas](https://semadet.jalisco.gob.mx/medio-ambiente/biodiversidad/areas-naturales-protegidas) using [LandSat](https://landsat.gsfc.nasa.gov) and [Google Earth Engine](https://code.earthengine.google.com) satellite imagery geospatial data. <br>
-His thesis involved text processing & feature engineering pipelines with data provided by [Customs and Foreign Trade](https://www.gob.mx/sat/acciones-y-programas/comercio-exterior) secretary to make price prediction models for clothes imports. <br>     
-He is currently working on a project using data fetched in real time that involves most major Stock Market Indexes and their components using Recurrent Neural Networks to predict most known portfolio optimizations which are created according to clients objectives and investment region.<br><br>
+
+Moreover, his thesis involved text processing & feature engineering pipelines for data on [Customs and Foreign Trade](https://www.gob.mx/sat/acciones-y-programas/comercio-exterior) clothes imports to make price prediction models. <br>     
+Currently, he is working on a project that fetches markets data in real time including most major Stock Market Indexes and their respective components, in order to predict most known portfolio optimizations using Recurrent Neural Networks made automatically according to client investment objectives and regions.<br><br>
 
 <details><summary> <i> <font size="1"> Algorithm Experience: </summary>
   
