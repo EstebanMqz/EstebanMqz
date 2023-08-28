@@ -23,7 +23,7 @@
 
 ##### <b><i>Education:</i></b> 
 
-:robot: :speech_balloon: Esteban lived most of his childhood in Mexico where he studied English $3_h$ a day for $10_{years}$ & obtained the <b>TOEFL</b> by the age of 14</i>.<br>
+:robot: :speech_balloon: Esteban lived most of his childhood in Mexico where he studied English $3_h$ a day for $10_{years}$ & obtained the <b>TOEFL</b> at 14</i>.<br>
 Eventually, he graduated from [Cervantes Costa Rica](https://cervantes.edu.mx) <b><i>Math & Physics</b></i> high school.<br>
 
 He was soon enrolled in college for Engineering and during his Bachelor studies he was elected to be an international Financial Engineering student in Seville, [Loyola University](https://www.uloyola.es) where he took some of the main courses of its Degree in Economics including <i>Game Theory & International Economics</i>. This inspired him to simulate human behavior to prove Game Theory assumptions using digital interviews from exchange students in Spain. <br>
@@ -116,7 +116,6 @@ He has at least implemented the following known algorithms for tasks & projects:
 | <img width="30px" src="https://icon-library.com/images/github-icon-svg/github-icon-svg-0.jpg">            | [Github](https://github.com)                | 4+ year             |
 | <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/3/35/GitLab_icon.svg">              | [Gitlab](https://about.gitlab.com)          | 2+ years            |
 | <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg">          | [Azure](https://azure.microsoft.com/en-us/) | 1+ year             |
-| <img width="30px" src="https://hostmayo.com/img/apache-web-server.png">                          | [Apache](https://httpd.apache.org/)         | -1 year             |
 
 </details>
 

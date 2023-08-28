@@ -3,64 +3,64 @@ use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\Exception;
 use PHPMailer\PHPMailer\SMTP;
 
+error_reporting(E_ALL);
+ini_set('display_errors', 1);
+
 require_once './vendor/autoload.php';
 
-// Check if the form was submitted
+// Form submission -> GET(request) / POST(submit)
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
-  // Get the form data
+
+  // Assign variables from E-mail.html.
   $name = $_POST['name'];
   $email = $_POST['email'];
   $message = $_POST['message'];
 
   // Validate the form data
   if (empty($name) || empty($email) || empty($message)) {
-    // If any of the form fields are empty, redirect the user to the error page
-    header('Location: ../error.html');
+    header('Location: ../html/error.html');
     exit;
   }
 
-  // Create a new PHPMailer instance
+  // Validate the email address
+  if (!filter_var($email, FILTER_VALIDATE_EMAIL)) {
+    header('Location: ../html/error.html');
+    exit;
+  }
+
+  // New PHPMailer instance: https://www.hesk.com/knowledgebase/index.php?article=72
   $mail = new PHPMailer(true);
-
   try {
-    // Set the mailer to use SMTP
-    $mail->isSMTP();
+    $mail->isSMTP(); // Set the mailer to use SMTP.
+    $mail->Host       = 'smtp.gmail.com'; //Sent through: SMTP server.
+    $mail->SMTPAuth   = false; //SMTP authentication is not required.
+    $mail->Port       = 587; //TCP port.
+    $mail->SMTPSecure = 'TLS';
+ 
+    $mail->setFrom($email, $name);// Sender.
+    $mail->addAddress('emarquez1895@gmail.com', 'Esteban Marquez D.'); // Recipient.
+    $mail->Subject = 'New message from ' . $name; // subject
+    $mail->Body = $message; // body
 
-    // Set the SMTP server settings
-    // $mail->SMTPDebug = SMTP::DEBUG_SERVER;                      //Enable verbose debug output
-    $mail->Host       = 'smtp.gmail.com';                     //Set the SMTP server to send through
-    $mail->SMTPAuth   = true;                                   //Enable SMTP authentication
-    $mail->Username   = 'emarquez1895@gmail.com';                     //SMTP username
-    $mail->Password   = 'stugvmmnfonqtcjj';                               //SMTP password
-    $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;            //Enable implicit TLS encryption
-    $mail->Port       = 465;                                    //TCP port to connect to; use 587 if you have set `SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS`
-
-    // Set the email sender and recipient
-    $mail->setFrom($email, $name);
-    $mail->addAddress('emarquez1895@gmail.com', 'Esteban Marquez D.');
-
-    // Set the email subject and body
-    $mail->Subject = 'New message from ' . $name;
-    $mail->Body = $message;
-
-    // Send the email
-    if ($mail->send()) {
-      // If the email was sent successfully, redirect the user to the success page
-      header('Location: ../success.html');
+    // File upload attachment.
+    if (isset($_FILES['Business-file']) && $_FILES['Business-file']['error'] == UPLOAD_ERR_OK) {
+      $mail->addAttachment($_FILES['Business-file']['tmp_name'], $_FILES['Business-file']['name']);
+    }
+    
+    // Email sent sucessfully.
+    if ($mail->send()) { 
+      header('Location: ../html/success.html');
       exit;
     } else {
-      // If there was an error sending the email, redirect the user to the error page
-      header('Location: ../error.html');
+      // Email sent error.
+      header('Location: ../html/error.html');
       exit;
     }
   } catch (Exception $e) {
-    // If there was an error sending the email, redirect the user to the error page
-    header('Location: ../error.html');
+    header('Location: ../html/error.html');
     exit;
   }
 } else {
-  // If the form was not submitted via POST request, redirect the user to the error page
-  header('Location: ../error.html');
+  header('Location: ../html/error.html');
   exit;
 }
-?>
