@@ -254,7 +254,7 @@ He has at least implemented the following known algorithms for tasks & projects:
 </section>
 
 <div align="center">
-  <a href="https://estebanmqz.github.io/EstebanMqz/html/Resume.html">
+  <a href="https://github.com/EstebanMqz/EstebanMqz/blob/main/html/Resume.html">
     <img src="gif/form-html.jpg" alt="Resume" width="100%">
   </a>
 </div>
