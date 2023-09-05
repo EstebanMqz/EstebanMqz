@@ -11,11 +11,12 @@
   </div>
   <br>
   
-  <div>
-    <span style="display: inline-block;">
-      <a href="https://estebanmqz.github.io/EstebanMqz/html/Resume.html">Web</a>
-    </span>
-  </div>
+<div>
+  <span style="display: inline-block; float: right;">
+    <a href="https://estebanmqz.github.io/EstebanMqz/html/Resume.html">Web</a>
+  </span>
+</div>
+
 </nav>
 
 <div align="center">
@@ -44,10 +45,8 @@ Esteban has worked since 2017 as an independent investment advisor for members o
 
 In 2022 he was part of the Geospatial Analysis engineering team in his college and implemented <i>Supervised Learning</i> algorithms for the [IIEG](https://iieg.gob.mx/ns/) to sense remotely the zones of pressure contained in the polygons of [Natural Protected Areas](https://semadet.jalisco.gob.mx/medio-ambiente/biodiversidad/areas-naturales-protegidas) using [LandSat](https://landsat.gsfc.nasa.gov) and [Google Earth Engine](https://code.earthengine.google.com) satellite imagery geospatial data. <br>
 
-Moreover, his thesis involved text processing & feature engineering pipelines for data on [Customs and Foreign Trade](https://www.gob.mx/sat/acciones-y-programas/comercio-exterior) clothes imports to make price prediction models. <br>     
-Currently, he is working on a project that fetches markets data in real time including most major Stock Market Indexes and their respective components, in order to predict most known portfolio optimizations using Recurrent Neural Networks made automatically according to client investment objectives and regions.<br><br>
-
-Esteban is a discrete random human variable 
+<p>Moreover, his thesis involved feature engineering big data CI/CD pipelines with nature language processing <a href="https://www.gob.mx/sat/acciones-y-programas/comercio-exterior"> over Customs and Foreign Trades</a> on clothes imports for predictive modelling. <br><br> 
+Currently, he is working on a project that fetches markets data in real time including most <i>major Stock Market Indexes</i> and their respective <b>components</b>, in order to <b>predict</b> most <b><i>known</i> portfolio optimizations</b> using <b>Recurrent Neural Networks</b> and <i><b>web development UX/UI designs</i></b> for clients according to their investment <i>objectives / regions</i>.<br><br></p>
 
 <details><summary> <i> <font size="1"> Algorithm Experience: </summary>
   
@@ -225,10 +224,10 @@ He has at least implemented the following known algorithms for tasks & projects:
 <br><br><br>
 
 <div align = center>  
-<!-- ![diagram](./diagram.svg){width=640px height=640px} local .md display -->
 
-<!-- remote .html/GFM display -->
-<img src="diagram.svg" width="640" height="640">
+![diagram](./diagram.svg)
+
+<!-- remote .html/GFM display-> <img src="diagram.svg" width="640" height="640"> -->
 
 </div>
 
@@ -239,7 +238,7 @@ He has at least implemented the following known algorithms for tasks & projects:
 <br><br>
 
 <div align="right">
-  
+
 [![Gists](https://img.shields.io/badge/Github-Gists-010b38?style=flat&logo=github&logoColor=black)](https://gist.github.com/EstebanMqz)
 </div>
 
