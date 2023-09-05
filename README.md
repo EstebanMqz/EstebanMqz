@@ -1,19 +1,7 @@
 <head>
   <link rel="stylesheet" href="css/blue-bar.css">
-  <style>
-    .bahunya {
-      font-family: 'Bahunya', sans-serif;
-      font-size: 24px;
-      font-weight: bold;
-      color: #333;
-    }
-  </style>
-</head>
-
-<!-- bahunya .CSS style X -> GFM profile .md/ ✓ .html website @ https://estebanmqz.github.io/EstebanMqz/html/Resume.html <head>
-  <link rel="stylesheet" href="css/blue-bar.css">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/kimeiga/bahunya/dist/bahunya.min.css">
-</head> -->
+</head>
 
 <nav style="display: flex; justify-content: space-between;">
   <div>
@@ -21,6 +9,8 @@
     <a href="#tools">Tools</a>
     <a href="#inquiries">Inquiries</a>
   </div>
+  <br>
+  
   <div>
     <span style="display: inline-block;">
       <a href="https://estebanmqz.github.io/EstebanMqz/html/Resume.html">Web</a>
@@ -226,19 +216,24 @@ He has at least implemented the following known algorithms for tasks & projects:
 <div align="right">
 
 <Details> <Summary> <i> <i style="font-size: 11px;"> Repo Visualization: </i> </Summary>
-<br>
 <a name = "Repo-Visualization"></a> 
 
 <br>
 
 [![Repository](https://img.shields.io/badge/Repository-0089D6?style=square&logo=microsoft-azure&logoColor=white)](https://mango-dune-07a8b7110.1.azurestaticapps.net/?repo=EstebanMqz%2FEstebanMqz)
+
 <br><br><br>
 
 <div align = center>  
+<!-- ![diagram](./diagram.svg){width=640px height=640px} local .md display -->
+
+<!-- remote .html/GFM display -->
 <img src="diagram.svg" width="640" height="640">
+
 </div>
 
 </Details> 
+
 </div>
 
 <br><br>
