@@ -224,11 +224,10 @@ He has at least implemented the following known algorithms for tasks & projects:
 <br><br><br>
 
 <div align = center>  
+<!-- ![diagram](./gif/diagram.svg) if local unfetched -->
 
-![diagram](./diagram.svg)
-
-<!-- remote .html/GFM display-> <img src="diagram.svg" width="640" height="640"> -->
-
+  <a href="https://mango-dune-07a8b7110.1.azurestaticapps.net/?repo=EstebanMqz%2FEstebanMqz">
+    <img src="./gif/diagram.svg" width="640" height="640"> <!-- remote .html/GFM display-> -->
 </div>
 
 </Details> 
@@ -254,8 +253,8 @@ He has at least implemented the following known algorithms for tasks & projects:
 </section>
 
 <div align="center">
-  <a href="https://github.com/EstebanMqz/EstebanMqz/blob/main/html/Resume.html">
-    <img src="gif/form-html.jpg" alt="Resume" width="100%">
+  <a href="https://estebanmqz.github.io/EstebanMqz/html/Resume.html">
+    <img src="./gif/form-html.jpg" width="100%">
   </a>
 </div>
 
