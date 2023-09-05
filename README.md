@@ -1,7 +1,19 @@
 <head>
   <link rel="stylesheet" href="css/blue-bar.css">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/kimeiga/bahunya/dist/bahunya.min.css">
+  <style>
+    .bahunya {
+      font-family: 'Bahunya', sans-serif;
+      font-size: 24px;
+      font-weight: bold;
+      color: #333;
+    }
+  </style>
 </head>
+
+<!-- bahunya .CSS style X -> GFM profile .md/ ✓ .html website @ https://estebanmqz.github.io/EstebanMqz/html/Resume.html <head>
+  <link rel="stylesheet" href="css/blue-bar.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/kimeiga/bahunya/dist/bahunya.min.css">
+</head> -->
 
 <nav style="display: flex; justify-content: space-between;">
   <div>
@@ -10,10 +22,11 @@
     <a href="#inquiries">Inquiries</a>
   </div>
   <div>
-    <a href="https://estebanmqz.github.io/EstebanMqz/html/Resume.html">Web</a>
+    <span style="display: inline-block;">
+      <a href="https://estebanmqz.github.io/EstebanMqz/html/Resume.html">Web</a>
+    </span>
   </div>
 </nav>
-
 
 <div align="center">
   <img src = "./gif/Github_Profile.gif" width = 100% height = 100%>
@@ -43,6 +56,8 @@ In 2022 he was part of the Geospatial Analysis engineering team in his college a
 
 Moreover, his thesis involved text processing & feature engineering pipelines for data on [Customs and Foreign Trade](https://www.gob.mx/sat/acciones-y-programas/comercio-exterior) clothes imports to make price prediction models. <br>     
 Currently, he is working on a project that fetches markets data in real time including most major Stock Market Indexes and their respective components, in order to predict most known portfolio optimizations using Recurrent Neural Networks made automatically according to client investment objectives and regions.<br><br>
+
+Esteban is a discrete random human variable 
 
 <details><summary> <i> <font size="1"> Algorithm Experience: </summary>
   
@@ -164,7 +179,7 @@ He has at least implemented the following known algorithms for tasks & projects:
   <img src="gif/bar.gif">
 </div>
 
-<details><summary><i>Frequently Used:</i></summary>
+<details><summary><i>Frequent Pkgs:</i></summary>
 <br>
 
 <i>
@@ -205,6 +220,28 @@ He has at least implemented the following known algorithms for tasks & projects:
 </i>
 
 </details>
+
+<br><br>
+
+<div align="right">
+
+<Details> <Summary> <i> <i style="font-size: 11px;"> Repo Visualization: </i> </Summary>
+<br>
+<a name = "Repo-Visualization"></a> 
+
+<br>
+
+[![Repository](https://img.shields.io/badge/Repository-0089D6?style=square&logo=microsoft-azure&logoColor=white)](https://mango-dune-07a8b7110.1.azurestaticapps.net/?repo=EstebanMqz%2FEstebanMqz)
+<br><br><br>
+
+<div align = center>  
+<img src="diagram.svg" width="640" height="640">
+</div>
+
+</Details> 
+</div>
+
+<br><br>
 
 <div align="right">
   
