@@ -43,6 +43,9 @@ async function formSunmitAction(e) {
     formInputFile ? formInputFile.parentElement.nextElementSibling.innerHTML = '' : null;
     form.reset(); // Reset form.
 
+    var content = document.querySelector('.content'); // Dynamic content update.
+    content.innerHTML = 'Form submitted successfully!';
+
   // If the form isn't sent.   
   } else {
     alert('Error sending data. Try again later');
