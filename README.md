@@ -236,6 +236,8 @@ He has at least implemented the following known algorithms for tasks & projects:
 
 <br><br>
 
+<a href="https://googlechrome.github.io/lighthouse/viewer/?psiurl=https://htmlpreview.github.io/?https://github.com/EstebanMqz/Skills-Notes/blob/main/Skills.html"><img src="https://img.shields.io/badge/Google-Web_Audit-000061?style=-flat&amp;logo=lighthouse&amp;logoColor=orange" alt="Lighthouse Web Audit" width="150" height="20"></a>  <a href="https://validator.w3.org/nu/?doc=https%3A%2F%2Festebanmqz.github.io%2FEstebanMqz%2Fhtml%2FResume.html"><img src="https://img.shields.io/badge/W3C-HTML_Validation-400101?style=flat-square&amp;logo=w3c&amp;logoColor=white" alt="W3C HTML Validation" width="150" height="20">
+
 <div align="right">
 
 [![Gists](https://img.shields.io/badge/Github-Gists-010b38?style=flat&logo=github&logoColor=black)](https://gist.github.com/EstebanMqz)
