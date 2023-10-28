@@ -10,9 +10,12 @@
     <a href="#inquiries">Inquiries</a>
   </div>
   
-<div style="display: inline-block; float: right;">
-   <img src="https://img.shields.io/badge/Web-100000?style=flat&logo=html5&logoColor=white" alt = "Web" width = "100px" height = "100px">
-</div>
+        </div>
+        <a href="https://htmlpreview.github.io/?https://github.com/EstebanMqz/EstebanMqz/blob/main/html/Resume.html">
+          <div style="display: inline-block; float: right;">
+            <img src="https://img.shields.io/badge/Web-100000?style=flat&logo=html5&logoColor=white" alt="Web"
+              width="100px" height="100px">
+          </div>
 
 </nav>
 
