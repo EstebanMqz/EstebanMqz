@@ -152,14 +152,14 @@ He has at least implemented the following known algorithms for tasks & projects:
   <img src="gif/bar.gif">
 </div>
 
-<details><summary><b>Terminals &#x1F4BB;</b></summary>
+<details><summary><b>CLIs &#x1F5A5; </b></summary>
 
 | Symbol                                                                                                                                                          | Editor     | Experience          |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------------------- |
 | <img width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPDcyppWsLOcYPm4CBTVs3zeg4TtTAaAZKWSwe39UYRVtuULYfS8WMglCYzskoMNS6Sfo&usqp=CAU">   | [Conda](https://docs.conda.io/en/latest/)      | 4+ year             |
 | <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/2048px-Bash_Logo_Colored.svg.png">                       | [Bash](https://gitforwindows.org)       | 3+ year             |
-| <img width="30px" src="https://static.thenounproject.com/png/133029-200.png">                                                                                   | [CMD](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/cmd)        | 2+ year             |
-| <img width="30px" src="https://logodix.com/logo/335899.png">                                                                                                    | [Shell](https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-windows?view=powershell-7.3)      | 2+ year             |
+| <img width="30px" src="https://static.thenounproject.com/png/133029-200.png" style="filter: invert(1);"> | [CMD](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/cmd)        | 3+ year             |
+| <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/PowerShell_5.0_icon.png/600px-PowerShell_5.0_icon.png">                            | [PowerShell](https://learn.microsoft.com/en-us/powershell/)       | 2+ year         |
 
 
 </details>
@@ -168,7 +168,10 @@ He has at least implemented the following known algorithms for tasks & projects:
   <img src="gif/bar.gif">
 </div>
 
-<details><summary><i>Frequent Pkgs:</i></summary>
+
+
+
+<details><summary><i>Frequent Pkgs </i></summary>
 <br>
 
 <i>
@@ -236,27 +239,49 @@ He has at least implemented the following known algorithms for tasks & projects:
 
 <br><br>
 
-<a href="https://googlechrome.github.io/lighthouse/viewer/?psiurl=https://htmlpreview.github.io/?https://github.com/EstebanMqz/Skills-Notes/blob/main/Skills.html"><img src="https://img.shields.io/badge/Google-Web_Audit-000061?style=-flat&amp;logo=lighthouse&amp;logoColor=orange" alt="Lighthouse Web Audit" width="150" height="20"></a>  <a href="https://validator.w3.org/nu/?doc=https%3A%2F%2Festebanmqz.github.io%2FEstebanMqz%2Fhtml%2FResume.html"><img src="https://img.shields.io/badge/W3C-HTML_Validation-400101?style=flat-square&amp;logo=w3c&amp;logoColor=white" alt="W3C HTML Validation" width="150" height="20">
-
 <div align="right">
 
 [![Gists](https://img.shields.io/badge/Github-Gists-010b38?style=flat&logo=github&logoColor=black)](https://gist.github.com/EstebanMqz)
 </div>
 
-<h2><b>Business Inquiries:</b></h2>
-<section id="inquiries">
 
-[<img width="40px" src="https://img.icons8.com/?size=512&id=MR3dZdlA53te&format=png">](https://tinyurl.com/bdcny457) 
-[<img width="35px" src="https://img.icons8.com/color/452/whatsapp--v1.png">](https://tinyurl.com/2y86e2wa)
-[<img width="40px" src="https://img.icons8.com/color/452/gmail-new.png">](mailto:emarquez1895@gmail.com)
-[<img width="40px" src="https://cdn3d.iconscout.com/3d/free/thumb/free-github-6343501-5220956.png?f=webp">](https://github.com/EstebanMqz?tab=repositories)
-[<img width="40px" src="https://img.icons8.com/color/452/gitlab.png">](https://gitlab.com/EstebanMqz)
+<div align="right">
 
-</section>
+<details open>
+
+<summary> <div style="font-family: Arial, sans-serif; color: #c4c8ff"> <i><b>Business Inquiries:</i></b> </div> </summary>
+
+[<img width="40px" height="40px" src="https://img.icons8.com/ios/50/0e55b3/resume-website.png" alt="Resume">](https://estebanmqz.github.io/EstebanMqz/html/Resume.html)
+[<img width="40px" height="40px" src="https://img.icons8.com/?size=512&amp;id=MR3dZdlA53te&amp;format=png" alt="LinkedIn">](https://www.linkedin.com/in/esteban-m65381722210212839/)
+[<img width="36px" height="36px" src="https://cdn.worldvectorlogo.com/logos/whatsapp-business-bg.svg" alt="Business">](https://tinyurl.com/2y86e2wa)
+<a href="mailto:emarquez1895@gmail.com" style="text-decoration: none;"><img width="40px" height="40px" style="max-width: 100%; max-height: 100%; margin-bottom: -10px;" src="https://img.icons8.com/color/452/gmail-new.png" alt="Gmail"></a>
+[<img width="40px" height="40px" style="max-width: 100%; max-height: 100%;" src="https://cdn3d.iconscout.com/3d/free/thumb/free-github-6343501-5220956.png?f=webp" alt="Github">](https://github.com/EstebanMqz?tab=repositories)
+[<img width="40px" height="40px" style="max-width: 100%; max-height: 100%;" src="https://img.icons8.com/color/452/gitlab.png" alt="GitLab">](https://gitlab.com/EstebanMqz)
+
+</details>
+
+</div>
+
+<div style="font-family: Arial, sans-serif; color: #c4c8ff; font-size: 18px; text-align : left" > <i>Official Web-Audit / Validation:</i>
+
+<br>
+
+[![Lighthouse](https://img.shields.io/badge/Google-Web_Audit-000061?style=-flat&logo=lighthouse&logoColor=orange)](https://googlechrome.github.io/lighthouse/viewer/?psiurl=https://htmlpreview.github.io/?https://github.com/EstebanMqz/EstebanMqz/blob/main/html/Resume.html) [![W3C HTML Validation](https://img.shields.io/badge/W3C-HTML_Validation-400101?style=flat-square&logo=w3c&logoColor=white)](https://validator.w3.org/nu/?doc=https%3A%2F%2Fhtmlpreview.github.io%2F%3Fhttps%3A%2F%2Fgithub.com%2FEstebanMqz%2FEstebanMqz%2Fblob%2Fmain%2FResume.html)
+
+<div>
+  
+
+</div>
 
 <div align="center">
   <a href="https://estebanmqz.github.io/EstebanMqz/html/Resume.html">
     <img src="./gif/form-html.jpg" width="100%">
   </a>
 </div>
+
+
+
+
+
+
 
