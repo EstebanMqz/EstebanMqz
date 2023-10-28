@@ -9,12 +9,9 @@
     <a href="#tools">Tools</a>
     <a href="#inquiries">Inquiries</a>
   </div>
-  <br>
   
-<div>
-  <span style="display: inline-block; float: right;">
-    <a href="https://estebanmqz.github.io/EstebanMqz/html/Resume.html">Web</a>
-  </span>
+<div style="display: inline-block; float: right;">
+   <img src="https://img.shields.io/badge/Web-100000?style=flat&logo=html5&logoColor=white" alt = "Web" width = "100px" height = "100px">
 </div>
 
 </nav>
@@ -27,9 +24,14 @@
 
 <a href="https://egresados.blob.core.windows.net/anuarios/2022b-otono-iteso/index.html"><b>Financial Engineer</b></a> passionate about Statistics and Machine Learning :bar_chart::gear:<br> <br>
 
-<details><summary><b>About:</b></summary>
 
 <section id="about">
+  <h2>About:</h2>
+  
+<details><summary>
+
+
+  
 
 ##### <b><i>Education:</i></b> 
 
@@ -72,8 +74,8 @@ He has at least implemented the following known algorithms for tasks & projects:
   <img src="gif/bar.gif">
 </div>
 
-<h1>Tools</h1>
 <section id="tools">
+  <h1>Tools:</h1>
 
 <details><summary><b> Programming Languages &#x1F5A5;</b></summary>
 
@@ -244,6 +246,7 @@ He has at least implemented the following known algorithms for tasks & projects:
 [![Gists](https://img.shields.io/badge/Github-Gists-010b38?style=flat&logo=github&logoColor=black)](https://gist.github.com/EstebanMqz)
 </div>
 
+<br><br>
 
 <div align="right">
 
@@ -261,6 +264,7 @@ He has at least implemented the following known algorithms for tasks & projects:
 </details>
 
 </div>
+<br><br><br>
 
 <div style="font-family: Arial, sans-serif; color: #c4c8ff; font-size: 18px; text-align : left" > <i>Official Web-Audit / Validation:</i>
 
