@@ -10,12 +10,11 @@
     <a href="#inquiries">Inquiries</a>
   </div>
   
-        </div>
-        <a href="https://htmlpreview.github.io/?https://github.com/EstebanMqz/EstebanMqz/blob/main/html/Resume.html">
-          <div style="display: inline-block; float: right;">
-            <img src="https://img.shields.io/badge/Web-100000?style=flat&logo=html5&logoColor=white" alt="Web"
-              width="100px" height="100px">
-          </div>
+<div style="display: inline-block;">
+
+<a href="https://htmlpreview.github.io/?https://github.com/EstebanMqz/EstebanMqz/blob/main/html/Resume.html"><img src="https://img.shields.io/badge/Web-100000?style=flat&logo=html5&logoColor=orange" alt="Web">
+
+</div>
 
 </nav>
 
@@ -253,9 +252,9 @@ He has at least implemented the following known algorithms for tasks & projects:
 
 <div align="right">
 
-<details open>
+<section id="inquiries">
 
-<summary> <div style="font-family: Arial, sans-serif; color: #c4c8ff"> <i><b>Business Inquiries:</i></b> </div> </summary>
+<Details> <i><b> <Summary> <div style="font-family: Arial, sans-serif; color: #c4c8ff"> <i><b>Business Inquiries:</i></b> </div> </Summary>
 
 [<img width="40px" height="40px" src="https://img.icons8.com/ios/50/0e55b3/resume-website.png" alt="Resume">](https://estebanmqz.github.io/EstebanMqz/html/Resume.html)
 [<img width="40px" height="40px" src="https://img.icons8.com/?size=512&amp;id=MR3dZdlA53te&amp;format=png" alt="LinkedIn">](https://www.linkedin.com/in/esteban-m65381722210212839/)
