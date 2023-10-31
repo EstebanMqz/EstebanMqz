@@ -267,6 +267,7 @@ He has at least implemented the following known algorithms for tasks & projects:
 [<img width="40px" height="40px" style="max-width: 100%; max-height: 100%;" src="https://img.icons8.com/color/452/gitlab.png" alt="GitLab">](https://gitlab.com/EstebanMqz)
 
 </Details>
+</section>
 
 </div>
 <br><br><br>
