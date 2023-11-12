@@ -10,6 +10,10 @@
     <a href="#inquiries">Inquiries</a>
   </div>
   
+<a href="https://github.com/EstebanMqz/EstebanMqz/raw/main/Esteban-Resume.pdf">
+  <div style="display: inline-block; float: center;">
+    <img src="https://img.shields.io/badge/Download-Resume-100000?style=flat&logo=html5&logoColor=orange" alt="Resume">
+  </div>
 
 <a href="https://estebanmqz.github.io/EstebanMqz/html/Resume.html">
   <div style="display: inline-block; float: right;">
