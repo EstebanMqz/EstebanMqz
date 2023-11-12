@@ -11,7 +11,7 @@
   </div>
   
 
-<a href="https://htmlpreview.github.io/?https://github.com/EstebanMqz/EstebanMqz/blob/main/html/Resume.html">
+<a href="https://estebanmqz.github.io/EstebanMqz/html/Resume.html">
   <div style="display: inline-block; float: right;">
     <img src="https://img.shields.io/badge/Web-100000?style=flat&logo=html5&logoColor=orange" alt="Web">
   </div>
