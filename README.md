@@ -22,43 +22,79 @@
 
 </nav>
 
+<h2> Esteban Márquez Delgado </h2>
+
+<p> <div align="center"> <font size = 5> <b>
+Data Scientist / Analyst & ML Eng. </b></font> </p></div>
+
+
 <div align="center">
   <img src = "./gif/Github_Profile.gif" width = 100% height = 100%>
 </div>
 
-<h2> Greetings, I am Esteban Márquez D. </h3>
+<a href="https://egresados.blob.core.windows.net/anuarios/2022b-otono-iteso/index.html"><b>ITESO</b></a> Financial Engineer BSc. :bar_chart::gear:
 
-<a href="https://egresados.blob.core.windows.net/anuarios/2022b-otono-iteso/index.html"><b>Financial Engineer</b></a> passionate about Statistics and Machine Learning :bar_chart::gear:<br> <br>
-
+<br> <br>
 
 <section id="about">
   <h2>About:</h2>
   
-<details><summary>
+<details><summary> <h3><b><i>Education:</i></b></h3></summary>
 
+[ITESO Universidad Jesuita de Guadalajara](https://www.iteso.mx)  
+Financial Engineering Bsc, Data Science & Statistical Modelling ·  
+(August 2018 - December 2022)
 
-  
+[Universidad Loyola](https://www.uloyola.es)  
+International Exchange Student , Economics ·  
+August 2019 - December 2019
 
-##### <b><i>Education:</i></b> 
+[Colegio Cervantes Costa Rica](https://cervantes.edu.mx)  
+Technical High School, Physics & Mathematics ·  
+August 2014 - December 2017
 
-:robot: :speech_balloon: Esteban lived most of his childhood in Mexico where he studied English $3_h$ a day for $10_{years}$ & obtained the <b>TOEFL</b> at 14</i>.<br>
-Eventually, he graduated from [Cervantes Costa Rica](https://cervantes.edu.mx) <b><i>Math & Physics</b></i> high school.<br>
+<i>Working towards:</i>
 
-He was soon enrolled in college for Engineering and during his Bachelor studies he was elected to be an international Financial Engineering student in Seville, [Loyola University](https://www.uloyola.es) where he took some of the main courses of its Degree in Economics including <i>Game Theory & International Economics</i>. This inspired him to simulate human behavior to prove Game Theory assumptions using digital interviews from exchange students in Spain. <br>
-In Dec. 2022 he acquired his <i>$9_{th}$ semester<b> Bachelor's degree in Financial Engineering</b></i> from [ITESO](https://www.topuniversities.com/universities/iteso-universidad-jesuita-de-guadalajara).<br>
+- [`Azure Data Scientist Associate`](https://learn.microsoft.com/en-us/certifications/azure-data-scientist/)
+- [`Tableau Desktop Specialist`](https://www.tableau.com/learn/certification/desktop-specialist).
 
-He is currently enrolled in courses to help him certificate as an [`Azure Data Scientist Associate`](https://learn.microsoft.com/en-us/certifications/azure-data-scientist/) & [`Tableau Desktop Specialist`](https://www.tableau.com/learn/certification/desktop-specialist).
-##### <b><i>Work:</i></b>
-Esteban has worked since 2017 as an independent investment advisor for members of [TradingClubGdl](https://tradingclubmx.com) and [InvestorHouseMX](https://www.investorhouse.com.mx) among other investment groups and enthusiasts. Consequently, he was the $1_{st}$ place on a <i>competition</i> hosted by the [MexDer](http://www.mexder.com.mx/wb3/wb/MEX) financial derivatives operator [Kualiderivados](http://www.mexder.com.mx/wb3/wb/MEX/MEX_Repositorio/_vtp/MEX/202b_abrir_cuenta/_rid/21/_mto/3/Operadores.pdf) in 2018.<br>
+</details>
 
-In 2022 he was part of the Geospatial Analysis engineering team in his college and implemented <i>Supervised Learning</i> algorithms for the [IIEG](https://iieg.gob.mx/ns/) to sense remotely the zones of pressure contained in the polygons of [Natural Protected Areas](https://semadet.jalisco.gob.mx/medio-ambiente/biodiversidad/areas-naturales-protegidas) using [LandSat](https://landsat.gsfc.nasa.gov) and [Google Earth Engine](https://code.earthengine.google.com) satellite imagery geospatial data. <br>
+<details><summary> <h3><b><i>Work:</i></b></h3></summary>
 
-<p>Moreover, his thesis involved feature engineering big data CI/CD pipelines with nature language processing <a href="https://www.gob.mx/sat/acciones-y-programas/comercio-exterior"> over Customs and Foreign Trades</a> on clothes imports for predictive modelling. <br><br> 
-Currently, he is working on a project that fetches markets data in real time including most <i>major Stock Market Indexes</i> and their respective <b>components</b>, in order to <b>predict</b> most <b><i>known</i> portfolio optimizations</b> using <b>Recurrent Neural Networks</b> and <i><b>web development UX/UI designs</i></b> for clients according to their investment <i>objectives / regions</i>.<br><br></p>
+[Trading Club GDL](https://tradingclubmx.com)  
+Portfolio Risk Management Associate  
+January 2018 - Present (5 years 11 months)  
+Guadalajara, Mexico Metropolitan Area  
+Capital, Bonds & Derivatives Markets Risk Management  
 
-<details><summary> <i> <font size="1"> Algorithm Experience: </summary>
-  
-He has at least implemented the following known algorithms for tasks & projects:
+[Investor House MX](https://www.investorhouse.com.mx)  
+Financial Analyst Associate  
+May 2017 - Present (6 years 7 months)  
+Mexico  
+Capital Markets Equities Analysis Portfolio Consolidation & Management Risk BMV & NYSE equities, ETFs, Forex & Bonds.  
+
+[SHCP](https://www.gob.mx/shcp)  
+Data Science Internship  
+May 2022 - December 2022 (8 months)  
+Development of large datasets automatic Cleansing & ETL processes with NLP techniques for Clothings imports subcategories within MX.  
+
+[Instituto de Información Estadística y Geográfica de Jalisco](https://iieg.gob.mx/ns/)  
+GIS Data Science Internship  
+January 2022 - May 2022 (5 months)  
+Jalisco, Mexico  
+Geographic Information Systems (GIS) Internship where Natural Protected Areas insights were constantly delivered with Data Analysis Satellite Imagery Remote Sensing Data with Supervised Classification Algorithms.
+
+Distinctions:
+
+- $1_{st}$ place on a <i>competition</i> hosted by [MexDer](http://www.mexder.com.mx/wb3/wb/MEX) financial derivatives operator [Kualiderivados](http://www.mexder.com.mx/wb3/wb/MEX/MEX_Repositorio/_vtp/MEX/202b_abrir_cuenta/_rid/21/_mto/3/Operadores.pdf) in 2018.<br>
+
+</details>
+
+<details><summary> <h6><b><i>Algorithms Experience:</i></b></h6></summary>
+
+<font size =2>
+
 - Linear & Logistic Regressions
 - Decision Trees
 - Random Forests
@@ -72,7 +108,8 @@ He has at least implemented the following known algorithms for tasks & projects:
 - Particle Swarm Optimization
 - Adaline / Perceptron
 - Artificial Neural Networks (Feed Forward, Recurrent, Convolutional, GANs, etc.)
-</details>
+
+</font>
 
 </details>
 
@@ -83,7 +120,7 @@ He has at least implemented the following known algorithms for tasks & projects:
 </div>
 
 <section id="tools">
-  <h1>Tools:</h1>
+  <h2>Tools:</h2>
 
 <details><summary><b> Programming Languages &#x1F5A5;</b></summary>
 
@@ -121,6 +158,7 @@ He has at least implemented the following known algorithms for tasks & projects:
 | <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">         | [Node.js](https://nodejs.org/en)           | 1+ year      |
 | <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">           | [React.js](https://create-react-app.dev)   | 1+ year      |
 | <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg">       | [.NET](https://dotnet.microsoft.com/)      | -1 years     |
+| <img width="30px" src="https://toppng.com/uploads/preview/drag-and-drop-action-in-selenium-webdriver-selenium-webdriver-logo-11563140448vrkzsnnton.png"> | [Selenium](https://www.selenium.dev/)      | -1 years     |
 
 </details>
 
@@ -181,7 +219,7 @@ He has at least implemented the following known algorithms for tasks & projects:
 
 
 
-<details><summary><i>Frequent Pkgs </i></summary>
+<details><summary><i>Frequently Used Pkgs </i></summary>
 <br>
 
 <i>
@@ -265,7 +303,7 @@ He has at least implemented the following known algorithms for tasks & projects:
 
 [<img width="40px" height="40px" src="https://img.icons8.com/ios/50/0e55b3/resume-website.png" alt="Resume">](https://estebanmqz.github.io/EstebanMqz/html/Resume.html)
 [<img width="40px" height="40px" src="https://img.icons8.com/?size=512&amp;id=MR3dZdlA53te&amp;format=png" alt="LinkedIn">](https://www.linkedin.com/in/esteban-m65381722210212839/)
-[<img width="36px" height="36px" src="https://cdn.worldvectorlogo.com/logos/whatsapp-business-bg.svg" alt="Business">](https://tinyurl.com/2y86e2wa)
+[<img width="36px" height="36px" src="https://cdn.worldvectorlogo.com/logos/whatsapp-business-bg.svg" alt="Business">](https://tinyurl.com/3d4w5erm)
 <a href="mailto:emarquez1895@gmail.com" style="text-decoration: none;"><img width="40px" height="40px" style="max-width: 100%; max-height: 100%; margin-bottom: -10px;" src="https://img.icons8.com/color/452/gmail-new.png" alt="Gmail"></a>
 [<img width="40px" height="40px" style="max-width: 100%; max-height: 100%;" src="https://cdn3d.iconscout.com/3d/free/thumb/free-github-6343501-5220956.png?f=webp" alt="Github">](https://github.com/EstebanMqz?tab=repositories)
 [<img width="40px" height="40px" style="max-width: 100%; max-height: 100%;" src="https://img.icons8.com/color/452/gitlab.png" alt="GitLab">](https://gitlab.com/EstebanMqz)
