@@ -9,6 +9,21 @@
     <a href="#tools">Tools</a>
     <a href="#inquiries">Inquiries</a>
   </div>
+
+<div align="right">
+
+<section id="inquiries">
+
+<Details><Summary> <div style="font-family: Arial, sans-serif; color: #c4c8ff"> <i><b>Business Inquiries:</i></b> </div> </Summary>
+
+[<img width="40px" height="40px" src="https://img.icons8.com/?size=512&amp;id=MR3dZdlA53te&amp;format=png" alt="LinkedIn">](https://www.linkedin.com/in/esteban-m65381722210212839/)
+[<img width="36px" height="36px" src="https://cdn.worldvectorlogo.com/logos/whatsapp-business-bg.svg" alt="Business">](https://tinyurl.com/3d4w5erm)
+<a href="mailto:emarquez1895@gmail.com" style="text-decoration: none;"><img width="40px" height="40px" style="max-width: 100%; max-height: 100%; margin-bottom: -10px;" src="https://img.icons8.com/color/452/gmail-new.png" alt="Gmail"></a>
+[<img width="40px" height="40px" style="max-width: 100%; max-height: 100%;" src="https://cdn3d.iconscout.com/3d/free/thumb/free-github-6343501-5220956.png?f=webp" alt="Github">](https://github.com/EstebanMqz?tab=repositories)
+[<img width="40px" height="40px" style="max-width: 100%; max-height: 100%;" src="https://img.icons8.com/color/452/gitlab.png" alt="GitLab">](https://gitlab.com/EstebanMqz)
+
+</Details>
+</section>
   
 <a href="https://github.com/EstebanMqz/EstebanMqz/raw/main/Esteban-Resume.pdf">
   <div style="display: inline-block; float: center;">
@@ -16,11 +31,13 @@
   </div>
 
 <a href="https://estebanmqz.github.io/EstebanMqz/html/Resume.html">
-  <div style="display: inline-block; float: right;">
-    <img src="https://img.shields.io/badge/Web-100000?style=flat&logo=html5&logoColor=orange" alt="Web">
+  <div style="display: inline-block; float: center;">
+    <img src="https://img.shields.io/badge/Website-100000?style=flat&logo=html5&logoColor=orange" alt="Website">
   </div>
 
 </nav>
+
+<br><br><br><br>
 
 <h2> Esteban Márquez Delgado </h2>
 
@@ -40,6 +57,15 @@ Data Scientist / Analyst & ML Eng. </b></font> </p></div>
   <h2>About:</h2>
   
 <details><summary> <h3><b><i>Education:</i></b></h3></summary>
+
+<br>
+<div align="center">
+  <a href="https://egresados.blob.core.windows.net/anuarios/2022b-otono-iteso/index.html">
+    <img src="./gif/diploma-web.jpg" width="45%">
+  </a>
+</div>
+
+<br><br>
 
 [ITESO Universidad Jesuita de Guadalajara](https://www.iteso.mx)  
 Financial Engineering Bsc, Data Science & Statistical Modelling ·  
@@ -219,10 +245,8 @@ Distinctions:
 
 
 
-<details><summary><i>Frequently Used Pkgs </i></summary>
+<details><summary><i>Frequently Used Pkgs </summary>
 <br>
-
-<i>
 
 [![numpy](https://img.shields.io/badge/numpy-1.21.2-blue)](https://numpy.org/)
 [![pandas](https://img.shields.io/badge/pandas-1.3.3-blue)](https://pandas.pydata.org/)
@@ -262,7 +286,325 @@ Distinctions:
 </details>
 </section>
 
+<br>
+
+<details><summary><i> 
+
+[LinkedIn-Skills](https://www.linkedin.com/in/esteban-m65381722210212839/details/skills/): </summary>
+
+[Data-Engineering](https://www.linkedin.com/search/results/all/?keywords=Data%20Engineering%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Data-Architectures](https://www.linkedin.com/search/results/all/?keywords=Data%20Architectures%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Data-Warehousing](https://www.linkedin.com/search/results/all/?keywords=Data%20Warehousing%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Etl](https://www.linkedin.com/search/results/all/?keywords=Etl%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Data-Management](https://www.linkedin.com/search/results/all/?keywords=Data%20Management%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Data-Processing](https://www.linkedin.com/search/results/all/?keywords=Data%20Processing%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Data-Science](https://www.linkedin.com/search/results/all/?keywords=Data%20Science%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Data-Mining](https://www.linkedin.com/search/results/all/?keywords=Data%20Mining%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Ml](https://www.linkedin.com/search/results/all/?keywords=Ml%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Business-Insights](https://www.linkedin.com/search/results/all/?keywords=Business%20Insights%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Data-Preprocessing](https://www.linkedin.com/search/results/all/?keywords=Data%20Preprocessing%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Business-Analysis](https://www.linkedin.com/search/results/all/?keywords=Business%20Analysis%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Powerbi](https://www.linkedin.com/search/results/all/?keywords=Powerbi%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Tableau](https://www.linkedin.com/search/results/all/?keywords=Tableau%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Dashboards](https://www.linkedin.com/search/results/all/?keywords=Dashboards%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Data-Visualization](https://www.linkedin.com/search/results/all/?keywords=Data%20Visualization%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Data-Analysis](https://www.linkedin.com/search/results/all/?keywords=Data%20Analysis%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Storytelling](https://www.linkedin.com/search/results/all/?keywords=Storytelling%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Power-Automate](https://www.linkedin.com/search/results/all/?keywords=Power%20Automate%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Power-Apps](https://www.linkedin.com/search/results/all/?keywords=Power%20Apps%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Data-Analysis](https://www.linkedin.com/search/results/all/?keywords=Data%20Analysis%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Data-Modeling](https://www.linkedin.com/search/results/all/?keywords=Data%20Modeling%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Simulation-Modeling](https://www.linkedin.com/search/results/all/?keywords=Simulation%20Modeling%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Decision-Making](https://www.linkedin.com/search/results/all/?keywords=Decision%20Making%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Data-Cleansing](https://www.linkedin.com/search/results/all/?keywords=Data%20Cleansing%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Business-Analytics](https://www.linkedin.com/search/results/all/?keywords=Business%20Analytics%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Business-Insights](https://www.linkedin.com/search/results/all/?keywords=Business%20Insights%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Data-Processing](https://www.linkedin.com/search/results/all/?keywords=Data%20Processing%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Statistical-Methods](https://www.linkedin.com/search/results/all/?keywords=Statistical%20Methods%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Data-Driven](https://www.linkedin.com/search/results/all/?keywords=Data%20Driven%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Business-Intelligence](https://www.linkedin.com/search/results/all/?keywords=Business%20Intelligence%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Business-Analytics](https://www.linkedin.com/search/results/all/?keywords=Business%20Analytics%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Power-Bi](https://www.linkedin.com/search/results/all/?keywords=Power%20Bi%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Tableau](https://www.linkedin.com/search/results/all/?keywords=Tableau%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Excel-Macros](https://www.linkedin.com/search/results/all/?keywords=Excel%20Macros%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Excel-Solver](https://www.linkedin.com/search/results/all/?keywords=Excel%20Solver%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Machine_Learning](https://www.linkedin.com/search/results/all/?keywords=Machine_Learning%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Neural-Networks](https://www.linkedin.com/search/results/all/?keywords=Neural%20Networks%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Ai](https://www.linkedin.com/search/results/all/?keywords=Ai%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Data-Cleansing](https://www.linkedin.com/search/results/all/?keywords=Data%20Cleansing%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Outlier-Detection](https://www.linkedin.com/search/results/all/?keywords=Outlier%20Detection%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Dqr](https://www.linkedin.com/search/results/all/?keywords=Dqr%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Data-Standarization](https://www.linkedin.com/search/results/all/?keywords=Data%20Standarization%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Data-Normalization](https://www.linkedin.com/search/results/all/?keywords=Data%20Normalization%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Data-Modeling](https://www.linkedin.com/search/results/all/?keywords=Data%20Modeling%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Data-Abstraction](https://www.linkedin.com/search/results/all/?keywords=Data%20Abstraction%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Programming-Languages](https://www.linkedin.com/search/results/all/?keywords=Programming%20Languages%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Frameworks](https://www.linkedin.com/search/results/all/?keywords=Frameworks%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Terminals](https://www.linkedin.com/search/results/all/?keywords=Terminals%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Optimization-Modeling](https://www.linkedin.com/search/results/all/?keywords=Optimization%20Modeling%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Nonlinear-Programming](https://www.linkedin.com/search/results/all/?keywords=Nonlinear%20Programming%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Linear-Programming](https://www.linkedin.com/search/results/all/?keywords=Linear%20Programming%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Stochastic-Optimization](https://www.linkedin.com/search/results/all/?keywords=Stochastic%20Optimization%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Convex-Optimization](https://www.linkedin.com/search/results/all/?keywords=Convex%20Optimization%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Scikit-Learn](https://www.linkedin.com/search/results/all/?keywords=Scikit%20Learn%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Tensoflow](https://www.linkedin.com/search/results/all/?keywords=Tensoflow%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Keras](https://www.linkedin.com/search/results/all/?keywords=Keras%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Deeplearning-Toolbox](https://www.linkedin.com/search/results/all/?keywords=Deeplearning%20Toolbox%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Predictive-Modeling](https://www.linkedin.com/search/results/all/?keywords=Predictive%20Modeling%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Artificial-Intelligence](https://www.linkedin.com/search/results/all/?keywords=Artificial%20Intelligence%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Multivariate-Forecasting](https://www.linkedin.com/search/results/all/?keywords=Multivariate%20Forecasting%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Timeseries_Modelling](https://www.linkedin.com/search/results/all/?keywords=Timeseries_Modelling%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Pandas](https://www.linkedin.com/search/results/all/?keywords=Pandas%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Numpy](https://www.linkedin.com/search/results/all/?keywords=Numpy%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Matplotlib](https://www.linkedin.com/search/results/all/?keywords=Matplotlib%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Plotly](https://www.linkedin.com/search/results/all/?keywords=Plotly%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Tidyverse](https://www.linkedin.com/search/results/all/?keywords=Tidyverse%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Ggplot](https://www.linkedin.com/search/results/all/?keywords=Ggplot%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Seasonality](https://www.linkedin.com/search/results/all/?keywords=Seasonality%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Trend](https://www.linkedin.com/search/results/all/?keywords=Trend%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Autocorrelation](https://www.linkedin.com/search/results/all/?keywords=Autocorrelation%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[White-Noise](https://www.linkedin.com/search/results/all/?keywords=White%20Noise%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Temporal-Data](https://www.linkedin.com/search/results/all/?keywords=Temporal%20Data%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Data-Forecasting](https://www.linkedin.com/search/results/all/?keywords=Data%20Forecasting%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Statistical_Analysis](https://www.linkedin.com/search/results/all/?keywords=Statistical_Analysis%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Quantitative-Models](https://www.linkedin.com/search/results/all/?keywords=Quantitative%20Models%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Statistical-Learning](https://www.linkedin.com/search/results/all/?keywords=Statistical%20Learning%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Stochastic-Approach](https://www.linkedin.com/search/results/all/?keywords=Stochastic%20Approach%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Multivariate-Optimization](https://www.linkedin.com/search/results/all/?keywords=Multivariate%20Optimization%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Quantitative-Modelling](https://www.linkedin.com/search/results/all/?keywords=Quantitative%20Modelling%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Artificial_Intelligence](https://www.linkedin.com/search/results/all/?keywords=Artificial_Intelligence%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Ntlk](https://www.linkedin.com/search/results/all/?keywords=Ntlk%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Cloud-Environments](https://www.linkedin.com/search/results/all/?keywords=Cloud%20Environments%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Versioning](https://www.linkedin.com/search/results/all/?keywords=Versioning%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Vcs](https://www.linkedin.com/search/results/all/?keywords=Vcs%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Date-Warehousing](https://www.linkedin.com/search/results/all/?keywords=Date%20Warehousing%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Deep-Learning](https://www.linkedin.com/search/results/all/?keywords=Deep%20Learning%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Layers/Neurons](https://www.linkedin.com/search/results/all/?keywords=Layers%20Neurons%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Variable-Weights](https://www.linkedin.com/search/results/all/?keywords=Variable%20Weights%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Model-Metrics](https://www.linkedin.com/search/results/all/?keywords=Model%20Metrics%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Activationloss-Functions](https://www.linkedin.com/search/results/all/?keywords=Activationloss%20Functions%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Overfitting-Underfitting](https://www.linkedin.com/search/results/all/?keywords=Overfitting%20Underfitting%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Confussion-Matrix](https://www.linkedin.com/search/results/all/?keywords=Confussion%20Matrix%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Accuracy](https://www.linkedin.com/search/results/all/?keywords=Accuracy%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Precision](https://www.linkedin.com/search/results/all/?keywords=Precision%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Recall](https://www.linkedin.com/search/results/all/?keywords=Recall%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[F1-Scores](https://www.linkedin.com/search/results/all/?keywords=F1%20Scores%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Roc-Curves](https://www.linkedin.com/search/results/all/?keywords=Roc%20Curves%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Auc](https://www.linkedin.com/search/results/all/?keywords=Auc%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Ipywidgets](https://www.linkedin.com/search/results/all/?keywords=Ipywidgets%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Plotly-Dash](https://www.linkedin.com/search/results/all/?keywords=Plotly%20Dash%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[User-Interactivity](https://www.linkedin.com/search/results/all/?keywords=User%20Interactivity%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Ux/Ui-Design](https://www.linkedin.com/search/results/all/?keywords=Ux%20Ui%20Design%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[User-Engagement](https://www.linkedin.com/search/results/all/?keywords=User%20Engagement%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Business-Insights](https://www.linkedin.com/search/results/all/?keywords=Business%20Insights%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Dashboards](https://www.linkedin.com/search/results/all/?keywords=Dashboards%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Data-Visualization](https://www.linkedin.com/search/results/all/?keywords=Data%20Visualization%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Interactivity](https://www.linkedin.com/search/results/all/?keywords=Interactivity%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Tableau-Desktopspecialist](https://www.linkedin.com/search/results/all/?keywords=Tableau%20Desktopspecialist%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Serversided-Datavisualization](https://www.linkedin.com/search/results/all/?keywords=Serversided%20Datavisualization%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Nlp](https://www.linkedin.com/search/results/all/?keywords=Nlp%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Ntlk](https://www.linkedin.com/search/results/all/?keywords=Ntlk%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Text-Processing](https://www.linkedin.com/search/results/all/?keywords=Text%20Processing%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Speech-Processing](https://www.linkedin.com/search/results/all/?keywords=Speech%20Processing%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Sentiment-Analysis](https://www.linkedin.com/search/results/all/?keywords=Sentiment%20Analysis%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Speech-Recognition](https://www.linkedin.com/search/results/all/?keywords=Speech%20Recognition%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Supervised-Classification](https://www.linkedin.com/search/results/all/?keywords=Supervised%20Classification%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Machine-Learning](https://www.linkedin.com/search/results/all/?keywords=Machine%20Learning%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Categorical-Data](https://www.linkedin.com/search/results/all/?keywords=Categorical%20Data%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Random-Variables](https://www.linkedin.com/search/results/all/?keywords=Random%20Variables%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Continuous-Data](https://www.linkedin.com/search/results/all/?keywords=Continuous%20Data%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Discrete-Data](https://www.linkedin.com/search/results/all/?keywords=Discrete%20Data%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Gis](https://www.linkedin.com/search/results/all/?keywords=Gis%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Satellite-Imagery](https://www.linkedin.com/search/results/all/?keywords=Satellite%20Imagery%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Unsupervised-Learning](https://www.linkedin.com/search/results/all/?keywords=Unsupervised%20Learning%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Discrete-Continous](https://www.linkedin.com/search/results/all/?keywords=Discrete%20Continous%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Random-Variables](https://www.linkedin.com/search/results/all/?keywords=Random%20Variables%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Simulation_Modelling](https://www.linkedin.com/search/results/all/?keywords=Simulation_Modelling%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Training-Testing](https://www.linkedin.com/search/results/all/?keywords=Training%20Testing%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Pattern-Recognition](https://www.linkedin.com/search/results/all/?keywords=Pattern%20Recognition%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Continuous-Deployment](https://www.linkedin.com/search/results/all/?keywords=Continuous%20Deployment%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Continuous-Integration](https://www.linkedin.com/search/results/all/?keywords=Continuous%20Integration%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Feature-Branching](https://www.linkedin.com/search/results/all/?keywords=Feature%20Branching%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Vcs-Networking](https://www.linkedin.com/search/results/all/?keywords=Vcs%20Networking%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Data-Mining](https://www.linkedin.com/search/results/all/?keywords=Data%20Mining%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Web-Extractions](https://www.linkedin.com/search/results/all/?keywords=Web%20Extractions%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Web-Scraping](https://www.linkedin.com/search/results/all/?keywords=Web%20Scraping%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Etl](https://www.linkedin.com/search/results/all/?keywords=Etl%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Ci/Cd](https://www.linkedin.com/search/results/all/?keywords=Ci%20Cd%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Features-Versioning](https://www.linkedin.com/search/results/all/?keywords=Features%20Versioning%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Web-Scraping](https://www.linkedin.com/search/results/all/?keywords=Web%20Scraping%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Data-Extraction](https://www.linkedin.com/search/results/all/?keywords=Data%20Extraction%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Data-Mining](https://www.linkedin.com/search/results/all/?keywords=Data%20Mining%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Legal-Compliance](https://www.linkedin.com/search/results/all/?keywords=Legal%20Compliance%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Disclaimer](https://www.linkedin.com/search/results/all/?keywords=Disclaimer%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Privacy-Rights](https://www.linkedin.com/search/results/all/?keywords=Privacy%20Rights%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[License](https://www.linkedin.com/search/results/all/?keywords=License%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Devops](https://www.linkedin.com/search/results/all/?keywords=Devops%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Version-Control](https://www.linkedin.com/search/results/all/?keywords=Version%20Control%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Ci/Cd](https://www.linkedin.com/search/results/all/?keywords=Ci%20Cd%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Git](https://www.linkedin.com/search/results/all/?keywords=Git%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Azure](https://www.linkedin.com/search/results/all/?keywords=Azure%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Github](https://www.linkedin.com/search/results/all/?keywords=Github%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Gitlab](https://www.linkedin.com/search/results/all/?keywords=Gitlab%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Bitbucket](https://www.linkedin.com/search/results/all/?keywords=Bitbucket%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Commodities](https://www.linkedin.com/search/results/all/?keywords=Commodities%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Forex](https://www.linkedin.com/search/results/all/?keywords=Forex%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Interest-Rates](https://www.linkedin.com/search/results/all/?keywords=Interest%20Rates%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Bonds](https://www.linkedin.com/search/results/all/?keywords=Bonds%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Portfolio-Optimizations](https://www.linkedin.com/search/results/all/?keywords=Portfolio%20Optimizations%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Portfolio-Hedgings](https://www.linkedin.com/search/results/all/?keywords=Portfolio%20Hedgings%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Optimization-Ratios](https://www.linkedin.com/search/results/all/?keywords=Optimization%20Ratios%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Financial-Risks](https://www.linkedin.com/search/results/all/?keywords=Financial%20Risks%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Loan-Approval](https://www.linkedin.com/search/results/all/?keywords=Loan%20Approval%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Credit-Scoring](https://www.linkedin.com/search/results/all/?keywords=Credit%20Scoring%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Default-Predictions](https://www.linkedin.com/search/results/all/?keywords=Default%20Predictions%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Statistics](https://www.linkedin.com/search/results/all/?keywords=Statistics%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Stochastics](https://www.linkedin.com/search/results/all/?keywords=Stochastics%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Quantitative-Methods](https://www.linkedin.com/search/results/all/?keywords=Quantitative%20Methods%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Data-Distribution](https://www.linkedin.com/search/results/all/?keywords=Data%20Distribution%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Fitter](https://www.linkedin.com/search/results/all/?keywords=Fitter%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Continuous-Variables](https://www.linkedin.com/search/results/all/?keywords=Continuous%20Variables%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Discrete-Variables](https://www.linkedin.com/search/results/all/?keywords=Discrete%20Variables%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Random-Variables](https://www.linkedin.com/search/results/all/?keywords=Random%20Variables%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Statistical-Programming](https://www.linkedin.com/search/results/all/?keywords=Statistical%20Programming%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Data-Modelling](https://www.linkedin.com/search/results/all/?keywords=Data%20Modelling%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Linear-Programming](https://www.linkedin.com/search/results/all/?keywords=Linear%20Programming%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Mathematical-Modelling](https://www.linkedin.com/search/results/all/?keywords=Mathematical%20Modelling%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Capital-Allocation](https://www.linkedin.com/search/results/all/?keywords=Capital%20Allocation%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Portfolio-Optimization](https://www.linkedin.com/search/results/all/?keywords=Portfolio%20Optimization%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Objective-Functions](https://www.linkedin.com/search/results/all/?keywords=Objective%20Functions%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Constraints](https://www.linkedin.com/search/results/all/?keywords=Constraints%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Immutability](https://www.linkedin.com/search/results/all/?keywords=Immutability%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Lambda-Anonymous](https://www.linkedin.com/search/results/all/?keywords=Lambda%20Anonymous%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Globallocal-Functions](https://www.linkedin.com/search/results/all/?keywords=Globallocal%20Functions%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Reusability](https://www.linkedin.com/search/results/all/?keywords=Reusability%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Recursion](https://www.linkedin.com/search/results/all/?keywords=Recursion%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Simplicity](https://www.linkedin.com/search/results/all/?keywords=Simplicity%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[OOP](https://www.linkedin.com/search/results/all/?keywords=OOP%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Inmutability](https://www.linkedin.com/search/results/all/?keywords=Inmutability%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Scalability](https://www.linkedin.com/search/results/all/?keywords=Scalability%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Readability](https://www.linkedin.com/search/results/all/?keywords=Readability%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Reusability](https://www.linkedin.com/search/results/all/?keywords=Reusability%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Modular-Programming](https://www.linkedin.com/search/results/all/?keywords=Modular%20Programming%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Identifiers](https://www.linkedin.com/search/results/all/?keywords=Identifiers%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Classes](https://www.linkedin.com/search/results/all/?keywords=Classes%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Modules](https://www.linkedin.com/search/results/all/?keywords=Modules%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Git](https://www.linkedin.com/search/results/all/?keywords=Git%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Version-Control](https://www.linkedin.com/search/results/all/?keywords=Version%20Control%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Shell-Scripting](https://www.linkedin.com/search/results/all/?keywords=Shell%20Scripting%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Team-Collaborations](https://www.linkedin.com/search/results/all/?keywords=Team%20Collaborations%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Communication](https://www.linkedin.com/search/results/all/?keywords=Communication%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Ci/Cd](https://www.linkedin.com/search/results/all/?keywords=Ci%20Cd%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Vcs](https://www.linkedin.com/search/results/all/?keywords=Vcs%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Web-Hosting](https://www.linkedin.com/search/results/all/?keywords=Web%20Hosting%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Github](https://www.linkedin.com/search/results/all/?keywords=Github%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Gitkraken](https://www.linkedin.com/search/results/all/?keywords=Gitkraken%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Bash](https://www.linkedin.com/search/results/all/?keywords=Bash%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Azure](https://www.linkedin.com/search/results/all/?keywords=Azure%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Gitlab](https://www.linkedin.com/search/results/all/?keywords=Gitlab%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Bitbucket](https://www.linkedin.com/search/results/all/?keywords=Bitbucket%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Machine-Learning](https://www.linkedin.com/search/results/all/?keywords=Machine%20Learning%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Cloud-Computing](https://www.linkedin.com/search/results/all/?keywords=Cloud%20Computing%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Ci/Cd](https://www.linkedin.com/search/results/all/?keywords=Ci%20Cd%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Networking](https://www.linkedin.com/search/results/all/?keywords=Networking%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Data-Warehousing](https://www.linkedin.com/search/results/all/?keywords=Data%20Warehousing%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Pipelines](https://www.linkedin.com/search/results/all/?keywords=Pipelines%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Virtual-Environments](https://www.linkedin.com/search/results/all/?keywords=Virtual%20Environments%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Data-Privacy](https://www.linkedin.com/search/results/all/?keywords=Data%20Privacy%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Privacy-Rights](https://www.linkedin.com/search/results/all/?keywords=Privacy%20Rights%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Personal-Information](https://www.linkedin.com/search/results/all/?keywords=Personal%20Information%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Unauthorized-Access](https://www.linkedin.com/search/results/all/?keywords=Unauthorized%20Access%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Copyrights](https://www.linkedin.com/search/results/all/?keywords=Copyrights%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Python](https://www.linkedin.com/search/results/all/?keywords=Python%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Data-Analysis](https://www.linkedin.com/search/results/all/?keywords=Data%20Analysis%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Machine-Learning](https://www.linkedin.com/search/results/all/?keywords=Machine%20Learning%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Web-Development](https://www.linkedin.com/search/results/all/?keywords=Web%20Development%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Statistical-Computing](https://www.linkedin.com/search/results/all/?keywords=Statistical%20Computing%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Statistical-Learning](https://www.linkedin.com/search/results/all/?keywords=Statistical%20Learning%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Tidyverse](https://www.linkedin.com/search/results/all/?keywords=Tidyverse%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Cmd](https://www.linkedin.com/search/results/all/?keywords=Cmd%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Cli](https://www.linkedin.com/search/results/all/?keywords=Cli%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Terminal](https://www.linkedin.com/search/results/all/?keywords=Terminal%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Elevated-Rights](https://www.linkedin.com/search/results/all/?keywords=Elevated%20Rights%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Remote-Environments](https://www.linkedin.com/search/results/all/?keywords=Remote%20Environments%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Task-Execution](https://www.linkedin.com/search/results/all/?keywords=Task%20Execution%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Os-Registries](https://www.linkedin.com/search/results/all/?keywords=Os%20Registries%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Power-Shell](https://www.linkedin.com/search/results/all/?keywords=Power%20Shell%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Ps1-Ext](https://www.linkedin.com/search/results/all/?keywords=Ps1%20Ext%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Shell-Scripting](https://www.linkedin.com/search/results/all/?keywords=Shell%20Scripting%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Cli](https://www.linkedin.com/search/results/all/?keywords=Cli%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Os-Registries](https://www.linkedin.com/search/results/all/?keywords=Os%20Registries%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Windows-Os](https://www.linkedin.com/search/results/all/?keywords=Windows%20Os%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Databases-Architectures](https://www.linkedin.com/search/results/all/?keywords=Databases%20Architectures%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Matlab](https://www.linkedin.com/search/results/all/?keywords=Matlab%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[M-Ext](https://www.linkedin.com/search/results/all/?keywords=M%20Ext%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Mat-Ext](https://www.linkedin.com/search/results/all/?keywords=Mat%20Ext%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Scientific-Computing](https://www.linkedin.com/search/results/all/?keywords=Scientific%20Computing%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Deeplearning-Toolbox](https://www.linkedin.com/search/results/all/?keywords=Deeplearning%20Toolbox%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Neuralnetwork-Toolbox](https://www.linkedin.com/search/results/all/?keywords=Neuralnetwork%20Toolbox%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Financial-Toolbox](https://www.linkedin.com/search/results/all/?keywords=Financial%20Toolbox%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Optimization-Toolbox](https://www.linkedin.com/search/results/all/?keywords=Optimization%20Toolbox%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Latex](https://www.linkedin.com/search/results/all/?keywords=Latex%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Statistical-Modellling](https://www.linkedin.com/search/results/all/?keywords=Statistical%20Modellling%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Hypertext-Transfer](https://www.linkedin.com/search/results/all/?keywords=Hypertext%20Transfer%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Markup-Languages](https://www.linkedin.com/search/results/all/?keywords=Markup%20Languages%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Html5](https://www.linkedin.com/search/results/all/?keywords=Html5%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Https](https://www.linkedin.com/search/results/all/?keywords=Https%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Data-Privacy](https://www.linkedin.com/search/results/all/?keywords=Data%20Privacy%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Fullstack-Development](https://www.linkedin.com/search/results/all/?keywords=Fullstack%20Development%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Backend-Development](https://www.linkedin.com/search/results/all/?keywords=Backend%20Development%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Frontend-Development](https://www.linkedin.com/search/results/all/?keywords=Frontend%20Development%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Web-Deployment](https://www.linkedin.com/search/results/all/?keywords=Web%20Deployment%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Ci/Cd](https://www.linkedin.com/search/results/all/?keywords=Ci%20Cd%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Html/Css](https://www.linkedin.com/search/results/all/?keywords=Html%20Css%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Https](https://www.linkedin.com/search/results/all/?keywords=Https%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Cloud-Hosts](https://www.linkedin.com/search/results/all/?keywords=Cloud%20Hosts%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Web-Development](https://www.linkedin.com/search/results/all/?keywords=Web%20Development%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Azure](https://www.linkedin.com/search/results/all/?keywords=Azure%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Github](https://www.linkedin.com/search/results/all/?keywords=Github%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Gitlab](https://www.linkedin.com/search/results/all/?keywords=Gitlab%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Bitbucket](https://www.linkedin.com/search/results/all/?keywords=Bitbucket%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Google-Colab](https://www.linkedin.com/search/results/all/?keywords=Google%20Colab%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Javascript](https://www.linkedin.com/search/results/all/?keywords=Javascript%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Node](https://www.linkedin.com/search/results/all/?keywords=Node%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[React](https://www.linkedin.com/search/results/all/?keywords=React%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Backend-Development](https://www.linkedin.com/search/results/all/?keywords=Backend%20Development%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Frontend-Development](https://www.linkedin.com/search/results/all/?keywords=Frontend%20Development%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Fullstack-Development](https://www.linkedin.com/search/results/all/?keywords=Fullstack%20Development%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Json](https://www.linkedin.com/search/results/all/?keywords=Json%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Serverside-Querying](https://www.linkedin.com/search/results/all/?keywords=Serverside%20Querying%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Markup-Languages](https://www.linkedin.com/search/results/all/?keywords=Markup%20Languages%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Plaintext-Formatting](https://www.linkedin.com/search/results/all/?keywords=Plaintext%20Formatting%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Yaml](https://www.linkedin.com/search/results/all/?keywords=Yaml%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Web-Development](https://www.linkedin.com/search/results/all/?keywords=Web%20Development%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Plain-Text](https://www.linkedin.com/search/results/all/?keywords=Plain%20Text%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Ux-Design](https://www.linkedin.com/search/results/all/?keywords=Ux%20Design%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Webusage-Research](https://www.linkedin.com/search/results/all/?keywords=Webusage%20Research%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Web-Engagement](https://www.linkedin.com/search/results/all/?keywords=Web%20Engagement%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Accessibility](https://www.linkedin.com/search/results/all/?keywords=Accessibility%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Interactivity](https://www.linkedin.com/search/results/all/?keywords=Interactivity%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Csharp](https://www.linkedin.com/search/results/all/?keywords=Csharp%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[App-Development](https://www.linkedin.com/search/results/all/?keywords=App%20Development%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Windows](https://www.linkedin.com/search/results/all/?keywords=Windows%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Php](https://www.linkedin.com/search/results/all/?keywords=Php%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Javascript](https://www.linkedin.com/search/results/all/?keywords=Javascript%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Client-Sided](https://www.linkedin.com/search/results/all/?keywords=Client%20Sided%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Server-Sided](https://www.linkedin.com/search/results/all/?keywords=Server%20Sided%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Serversided-Scripts](https://www.linkedin.com/search/results/all/?keywords=Serversided%20Scripts%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Sql-Servers](https://www.linkedin.com/search/results/all/?keywords=Sql%20Servers%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Https-Server](https://www.linkedin.com/search/results/all/?keywords=Https%20Server%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Csharp](https://www.linkedin.com/search/results/all/?keywords=Csharp%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Web-Layout](https://www.linkedin.com/search/results/all/?keywords=Web%20Layout%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Web-Development](https://www.linkedin.com/search/results/all/?keywords=Web%20Development%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Css-Grid](https://www.linkedin.com/search/results/all/?keywords=Css%20Grid%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Css-Objects](https://www.linkedin.com/search/results/all/?keywords=Css%20Objects%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Github-Actions](https://www.linkedin.com/search/results/all/?keywords=Github%20Actions%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Anchors](https://www.linkedin.com/search/results/all/?keywords=Anchors%20&origin=GLOBAL_SEARCH_HEADER&sid)
+[Alias](https://www.linkedin.com/search/results/all/?keywords=Alias%20&origin=GLOBAL_SEARCH_HEADER&sid)
+
 <br><br>
+
+###### Data Mining:
 
 <div align="right">
 
@@ -294,22 +636,6 @@ Distinctions:
 </div>
 
 <br><br>
-
-<div align="right">
-
-<section id="inquiries">
-
-<Details><Summary> <div style="font-family: Arial, sans-serif; color: #c4c8ff"> <i><b>Business Inquiries:</i></b> </div> </Summary>
-
-[<img width="40px" height="40px" src="https://img.icons8.com/ios/50/0e55b3/resume-website.png" alt="Resume">](https://estebanmqz.github.io/EstebanMqz/html/Resume.html)
-[<img width="40px" height="40px" src="https://img.icons8.com/?size=512&amp;id=MR3dZdlA53te&amp;format=png" alt="LinkedIn">](https://www.linkedin.com/in/esteban-m65381722210212839/)
-[<img width="36px" height="36px" src="https://cdn.worldvectorlogo.com/logos/whatsapp-business-bg.svg" alt="Business">](https://tinyurl.com/3d4w5erm)
-<a href="mailto:emarquez1895@gmail.com" style="text-decoration: none;"><img width="40px" height="40px" style="max-width: 100%; max-height: 100%; margin-bottom: -10px;" src="https://img.icons8.com/color/452/gmail-new.png" alt="Gmail"></a>
-[<img width="40px" height="40px" style="max-width: 100%; max-height: 100%;" src="https://cdn3d.iconscout.com/3d/free/thumb/free-github-6343501-5220956.png?f=webp" alt="Github">](https://github.com/EstebanMqz?tab=repositories)
-[<img width="40px" height="40px" style="max-width: 100%; max-height: 100%;" src="https://img.icons8.com/color/452/gitlab.png" alt="GitLab">](https://gitlab.com/EstebanMqz)
-
-</Details>
-</section>
 
 </div>
 <br><br><br>
