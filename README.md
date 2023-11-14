@@ -27,7 +27,12 @@
   
 <a href="https://github.com/EstebanMqz/EstebanMqz/raw/main/Esteban-Resume.pdf">
   <div style="display: inline-block; float: center;">
-    <img src="https://img.shields.io/badge/Download-Resume-100000?style=flat&logo=html5&logoColor=orange" alt="Resume">
+    <img src="https://img.shields.io/badge/pdf-Resume-darkgreen?style=flat&logo=html5&logoColor=orange" alt="Resume">
+  </div>
+
+<a href="https://github.com/EstebanMqz/EstebanMqz/raw/main/Esteban-Resume.pdf">
+  <div style="display: inline-block; float: center;">
+    <img src="https://img.shields.io/badge/docx-Resume-darkblue?style=flat&logo=html5&logoColor=orange" alt="Resume">
   </div>
 
 <a href="https://estebanmqz.github.io/EstebanMqz/html/Resume.html">
@@ -51,69 +56,75 @@ Data Scientist / Analyst & ML Eng. </b></font> </p></div>
 
 <a href="https://egresados.blob.core.windows.net/anuarios/2022b-otono-iteso/index.html"><b>ITESO</b></a> Financial Engineer BSc. :bar_chart::gear:
 
-<br> <br>
+<br> 
 
 <section id="about">
   <h2>About:</h2>
   
 <details><summary> <h3><b><i>Education:</i></b></h3></summary>
 
-<br>
+- [ITESO Universidad Jesuita de Guadalajara](https://www.iteso.mx)  
+<b>Financial Engineering Bsc, Data Science & Statistical Modelling·</b>  
+<i>(August 2018 - December 2022)</i><br>
+Guadalajara, Mexico Metropolitan Area
+
+<details><summary> <font size =2> Bsc. iframe </font> </summary>
+
 <div align="center">
   <a href="https://egresados.blob.core.windows.net/anuarios/2022b-otono-iteso/index.html">
     <img src="./gif/diploma-web.jpg" width="45%">
   </a>
-</div>
+</div> </details>
 
-<br><br>
+- [Universidad Loyola](https://www.uloyola.es)  
+<b>International Exchange Student , Economics</b><br>
+<i>August 2019 - December 2019</i><br>
+Guadalajara, Mexico Metropolitan Area
 
-[ITESO Universidad Jesuita de Guadalajara](https://www.iteso.mx)  
-Financial Engineering Bsc, Data Science & Statistical Modelling ·  
-(August 2018 - December 2022)
 
-[Universidad Loyola](https://www.uloyola.es)  
-International Exchange Student , Economics ·  
-August 2019 - December 2019
 
-[Colegio Cervantes Costa Rica](https://cervantes.edu.mx)  
-Technical High School, Physics & Mathematics ·  
-August 2014 - December 2017
+- [Colegio Cervantes Costa Rica](https://cervantes.edu.mx) <br> 
+<b>Technical High School, Physics & Mathematics </b> <br>
+<i>August 2014 - December 2017</i><br>
+Guadalajara, Mexico Metropolitan Area
 
-<i>Working towards:</i>
+<br>
+<b><i>Currently Studying for:</i></b>
 
-- [`Azure Data Scientist Associate`](https://learn.microsoft.com/en-us/certifications/azure-data-scientist/)
-- [`Tableau Desktop Specialist`](https://www.tableau.com/learn/certification/desktop-specialist).
+[`Azure Data Scientist Associate`](https://learn.microsoft.com/en-us/certifications/azure-data-scientist/)
+
+[`Tableau Desktop Specialist`](https://www.tableau.com/learn/certification/desktop-specialist)
 
 </details>
 
 <details><summary> <h3><b><i>Work:</i></b></h3></summary>
 
-[Trading Club GDL](https://tradingclubmx.com)  
-Portfolio Risk Management Associate  
-January 2018 - Present (5 years 11 months)  
-Guadalajara, Mexico Metropolitan Area  
-Capital, Bonds & Derivatives Markets Risk Management  
+- [Trading Club GDL](https://tradingclubmx.com)  
+<b>Portfolio Risk Management Associate </b><br>
+<i>January 2018 - Present (5 years 11 months) </i><br>
+Guadalajara, Mexico Metropolitan Area  <br>
+Capital, Bonds & Derivatives Markets Risk Management <br>
 
-[Investor House MX](https://www.investorhouse.com.mx)  
-Financial Analyst Associate  
-May 2017 - Present (6 years 7 months)  
-Mexico  
-Capital Markets Equities Analysis Portfolio Consolidation & Management Risk BMV & NYSE equities, ETFs, Forex & Bonds.  
+- [Investor House MX](https://www.investorhouse.com.mx)  
+<b>Financial Analyst Associate </b><br>
+<i>May 2017 - Present (6 years 7 months) </i><br>
+Mexico, MX <br>
+Capital Markets Equities Analysis & Portfolio Constructions effectively applying Risk Management tools from data on investments made in the BMV & NYSE equities, ETFs, Forex & Bonds. <br>
 
-[SHCP](https://www.gob.mx/shcp)  
-Data Science Internship  
-May 2022 - December 2022 (8 months)  
+- [SHCP](https://www.gob.mx/shcp)  
+<b>Data Science Internship  </b><br>
+<i>May 2022 - December 2022 (8 months)  </i><br>
 Development of large datasets automatic Cleansing & ETL processes with NLP techniques for Clothings imports subcategories within MX.  
 
-[Instituto de Información Estadística y Geográfica de Jalisco](https://iieg.gob.mx/ns/)  
-GIS Data Science Internship  
-January 2022 - May 2022 (5 months)  
-Jalisco, Mexico  
-Geographic Information Systems (GIS) Internship where Natural Protected Areas insights were constantly delivered with Data Analysis Satellite Imagery Remote Sensing Data with Supervised Classification Algorithms.
+- [Instituto de Información Estadística y Geográfica de Jalisco](https://iieg.gob.mx/ns/)  
+<b>GIS Data Science Internship  </b><br>
+<i>January 2022 - May 2022 (5 months) </i><br> 
+Jalisco, Mexico  <br>
+GIS Data Science Internship where Natural Protected Areas insights were constantly delivered from Data Analysis & ML using Satellite Imagery Remote Sensing Data for their Supervised Classification.
 
 Distinctions:
 
-- $1_{st}$ place on a <i>competition</i> hosted by [MexDer](http://www.mexder.com.mx/wb3/wb/MEX) financial derivatives operator [Kualiderivados](http://www.mexder.com.mx/wb3/wb/MEX/MEX_Repositorio/_vtp/MEX/202b_abrir_cuenta/_rid/21/_mto/3/Operadores.pdf) in 2018.<br>
+First place on <i>college investment competition</i> hosted by [MexDer](http://www.mexder.com.mx/wb3/wb/MEX) financial derivatives operator [Kualiderivados](http://www.mexder.com.mx/wb3/wb/MEX/MEX_Repositorio/_vtp/MEX/202b_abrir_cuenta/_rid/21/_mto/3/Operadores.pdf) in 2018.<br>
 
 </details>
 
@@ -290,7 +301,7 @@ Distinctions:
 
 <details><summary><i> 
 
-[LinkedIn-Skills](https://www.linkedin.com/in/esteban-m65381722210212839/details/skills/): </summary>
+[Skills](https://www.linkedin.com/in/esteban-m65381722210212839/details/skills/): </summary>
 
 [Data-Engineering](https://www.linkedin.com/search/results/all/?keywords=Data%20Engineering%20&origin=GLOBAL_SEARCH_HEADER&sid)
 [Data-Architectures](https://www.linkedin.com/search/results/all/?keywords=Data%20Architectures%20&origin=GLOBAL_SEARCH_HEADER&sid)
@@ -603,8 +614,6 @@ Distinctions:
 [Alias](https://www.linkedin.com/search/results/all/?keywords=Alias%20&origin=GLOBAL_SEARCH_HEADER&sid)
 
 <br><br>
-
-###### Data Mining:
 
 <div align="right">
 
