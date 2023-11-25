@@ -16,8 +16,6 @@
 
 <Details><Summary> <div style="font-family: Arial, sans-serif; color: #c4c8ff"> <i><b>Business Inquiries:</i></b> </div> </Summary>
 
-<div style="display: inline-block;">
-
 [<img width="40px" height="40px" src="https://img.icons8.com/?size=512&amp;id=MR3dZdlA53te&amp;format=png" alt="LinkedIn">](https://www.linkedin.com/in/esteban-m65381722210212839/)
 [<img width="36px" height="36px" src="https://cdn.worldvectorlogo.com/logos/whatsapp-business-bg.svg" alt="Business">](https://tinyurl.com/3d4w5erm)
 <a href="mailto:emarquez1895@gmail.com" style="text-decoration: none;"><img width="40px" height="40px" style="max-width: 100%; max-height: 100%; margin-bottom: -10px;" src="https://img.icons8.com/color/452/gmail-new.png" alt="Gmail"></a>
@@ -45,16 +43,18 @@
   </div>
 
 </nav>
-</div>
-
-
 
 <br><br><br><br>
 
 <h2> Esteban Márquez Delgado </h2>
 
-<p> <div align="center"> <font size = 6> <b>
-Data Scientist / Analyst & ML Eng. </b></font> </p></div><br>
+<p> <div align="center"> <font size = 5> <b>
+Data Scientist / Analyst & ML Eng. </b></font> </p></div>
+
+
+<div align="center">
+  <img src = "./gif/Github_Profile.gif" width = 100% height = 100%>
+</div>
 
 <a href="https://egresados.blob.core.windows.net/anuarios/2022b-otono-iteso/index.html"><b>ITESO</b></a> Financial Engineer BSc. :bar_chart::gear:
 
@@ -154,11 +154,9 @@ First place on <i>college investment competition</i> hosted by [MexDer](http://w
 
 </section>
 
-<!-- <div style="border: none !important;">
+<div style="border: none !important;">
   <img src="gif/bar.gif">
-</div> repository .gif subdirectory css > .gif display-->
-
-<div style="background-color: blue; height: 1px;"></div>
+</div>
 
 <section id="tools">
   <h2>Tools:</h2>
@@ -183,10 +181,9 @@ First place on <i>college investment competition</i> hosted by [MexDer](http://w
 
 </details>
 
-<!-- <div style="border: none !important;">
+<div style="border: none !important;">
   <img src="gif/bar.gif">
-</div> -->
-
+</div>
 
 <details><summary><b>Frameworks &#x1F4F1;</b></summary>
 
@@ -204,11 +201,9 @@ First place on <i>college investment competition</i> hosted by [MexDer](http://w
 
 </details>
 
-<!-- <div style="border: none !important;">
+<div style="border: none !important;">
   <img src="gif/bar.gif">
-</div> -->
-
-
+</div>
 
 <details><summary><b>Hosting &#x1F310;</b></summary>
 
@@ -221,12 +216,12 @@ First place on <i>college investment competition</i> hosted by [MexDer](http://w
 
 </details>
 
-
-<!-- <div style="border: none !important;">
+<div style="border: none !important;">
   <img src="gif/bar.gif">
-</div> -->
+</div>
 
 <details><summary><b>Text Editor &#x1F4BB;</b></summary>
+
 
 | Symbol                                                                                                                                                             | Editor                                                                         | Experience          |
 | -----------------------------------------------------------------------------------------------------------------------------------------------------------------  | ------------------------------------------------------------------------------ | ------------------- |
@@ -240,9 +235,9 @@ First place on <i>college investment competition</i> hosted by [MexDer](http://w
 | <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png">                                    | [PyCharm](https://www.jetbrains.com/pycharm/)                                  | 2+ years            |
 </details>
 
-<!-- <div style="border: none !important;">
+<div style="border: none !important;">
   <img src="gif/bar.gif">
-</div> -->
+</div>
 
 <details><summary><b>CLIs &#x1F5A5; </b></summary>
 
@@ -256,9 +251,12 @@ First place on <i>college investment competition</i> hosted by [MexDer](http://w
 
 </details>
 
-<!-- <div style="border: none !important;">
+<div style="border: none !important;">
   <img src="gif/bar.gif">
-</div> -->
+</div>
+
+
+
 
 <details><summary><i>Frequently Used Pkgs </summary>
 <br>
@@ -301,9 +299,6 @@ First place on <i>college investment competition</i> hosted by [MexDer](http://w
 </details>
 </section>
 
-
-<br><br>
-
 <div align="right">
 
 <Details> <Summary> <i> <i style="font-size: 11px;"> Repo Visualization: </i> </Summary>
@@ -313,11 +308,13 @@ First place on <i>college investment competition</i> hosted by [MexDer](http://w
 
 [![Repository](https://img.shields.io/badge/Repository-0089D6?style=square&logo=microsoft-azure&logoColor=white)](https://mango-dune-07a8b7110.1.azurestaticapps.net/?repo=EstebanMqz%2FEstebanMqz)
 
+<br><br><br>
+
 <div align = center>  
 <!-- ![diagram](./gif/diagram.svg) if local unfetched -->
 
-  <!-- <a href="https://mango-dune-07a8b7110.1.azurestaticapps.net/?repo=EstebanMqz%2FEstebanMqz">
-    <img src="./gif/diagram.svg" width="640" height="640"> remote .html/GFM display-> -->
+  <a href="https://mango-dune-07a8b7110.1.azurestaticapps.net/?repo=EstebanMqz%2FEstebanMqz">
+    <img src="./gif/diagram.svg" width="640" height="640"> <!-- remote .html/GFM display-> -->
 </div>
 
 </Details> 
@@ -330,6 +327,32 @@ First place on <i>college investment competition</i> hosted by [MexDer](http://w
 
 [![Gists](https://img.shields.io/badge/Github-Gists-010b38?style=flat&logo=github&logoColor=black)](https://gist.github.com/EstebanMqz)
 </div>
+
+<br><br>
+
+</div>
+<br><br><br>
+
+<div style="font-family: Arial, sans-serif; color: #c4c8ff; font-size: 18px; text-align : left" > <i>Official Web-Audit / Validation:</i>
+
+<br>
+
+[![Lighthouse](https://img.shields.io/badge/Google-Web_Audit-000061?style=-flat&logo=lighthouse&logoColor=orange)](https://googlechrome.github.io/lighthouse/viewer/?psiurl=https://htmlpreview.github.io/?https://github.com/EstebanMqz/EstebanMqz/blob/main/html/Resume.html) [![W3C HTML Validation](https://img.shields.io/badge/W3C-HTML_Validation-400101?style=flat-square&logo=w3c&logoColor=white)](https://validator.w3.org/nu/?doc=https%3A%2F%2Fhtmlpreview.github.io%2F%3Fhttps%3A%2F%2Fgithub.com%2FEstebanMqz%2FEstebanMqz%2Fblob%2Fmain%2FResume.html)
+
+<div>
+  
+
+</div>
+
+<div align="center">
+  <a href="https://estebanmqz.github.io/EstebanMqz/html/Resume.html">
+    <img src="./gif/form-html.jpg" width="100%">
+  </a>
+</div>
+
+</section>
+
+
 
 
 
