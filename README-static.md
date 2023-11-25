@@ -34,7 +34,7 @@
     <img src="https://img.shields.io/badge/pdf-Resume-darkgreen?style=flat&logo=html5&logoColor=orange" alt="Resume">
   </div>
 
-<a href="https://github.com/EstebanMqz/EstebanMqz/raw/main/download/Resume-Esteban_static.docx">
+<a href="https://github.com/EstebanMqz/EstebanMqz/raw/main/download/Resume-Esteban.docx">
   <div style="display: inline-block; float: center;">
     <img src="https://img.shields.io/badge/docx-Resume-darkblue?style=flat&logo=html5&logoColor=orange" alt="Resume">
   </div>
