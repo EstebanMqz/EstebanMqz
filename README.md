@@ -141,7 +141,7 @@
     <b>Certifications:</b>
   </div>
 
-+ [![Developer Program Member](https://img.shields.io/badge/Developer-Program_Member-%2?style=flat&logo=github&logoColor=white&color=black)](https://github.com/EstebanMqz)<br>
++ [![Developer Program Member](https://img.shields.io/badge/Developer_Program_Member-000000?style=flat&logo=github&logoColor=white&color=black)](https://github.com/EstebanMqz)<br>
 
 
   <font size = 4> 5+ years experience using Github & [Github Copilot](https://github.com/features/copilot) (as a beta tester before its launch) while taking advantage of my [![Skills.html](https://img.shields.io/badge/LinkedIn-Skills-100000?style=flat&logo=linkedin&logoColor=white&color=blue)](https://htmlpreview.github.io/?https://github.com/EstebanMqz/Skills-Notes/blob/main/Skills.html "LinkedIn").
@@ -153,7 +153,7 @@
   Effectively [troubleshooting](https://github.com/EstebanMqz/Pkg_Migration) collaborations with DevOps.
   <br><br>
 
-+ <b>[![TOEFL ITP](https://img.shields.io/badge/TOEFL-ITP:_560-%1?style=flat&color=black)](https://www.ets.org/toefl/itp.html)</b><br>
++ <b>[![TOEFL ITP](https://img.shields.io/badge/TOEFL_ITP_560-000000?style=flat&color=black)](https://www.ets.org/toefl/itp.html)</b><br>
 Studying English as a Second Language since I was 5 years old 3 hours a day I can effectively communicate with speakers verbally through native spelling & grammar. </font><br><br> 
 
 <br>
