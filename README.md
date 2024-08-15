@@ -120,7 +120,7 @@
     <u>Activities:</u><br>
     Web Scrapping Financial Data to perform Technical, Fundamental & Corporate Data Analysis to automate insight deliveries & support Investment Decisions.</font><br><br>
 
-  - [SHCP](https://www.gob.mx/shcp)</font> <i>(Secretaria de Hacienda y Crédito Público)</i><br>
+  - [SHCP](https://www.gob.mx/shcp) (Secretaria de Hacienda y Crédito Público)<br>
   <font size = 5>Data Science Internship</font><br>
   <font size = 4><i>May 2022 - December 2022 (6 months)<br>
   Guadalajara, MX  </i><br><br>
@@ -132,7 +132,23 @@
   <font size = 4><i>January 2022 - May 2022 (6 months) <br> 
   Guadalajara, MX  </i><br><br>
   <u>Activities:</u><br>
-  HTTP querying Natural Protected Areas Remote Sensed Data with Satellite Imagery to identify zones of pressure with Unsupervised Learning algorithms.</font><br><br><br>
+  HTTP querying Natural Protected Areas Remote Sensed Data with Satellite Imagery to identify zones of pressure with Unsupervised Learning algorithms.</font><br><br>
+
+  - [Impresiones Formar](https://impresionesformar.squarespace.com)<br>
+  <font size = 5>Co-Chief Executive Officer</font><br>
+  <font size = 4><i>Jan 2023 - Present<br>
+  Guadalajara, MX  </i><br><br>
+  <u>Activities:</u><br>
+  Focusing on customer satisfaction through quality & presence in the whole Republic and beyond, since 1990 as we've been one of the main manufacturers in the country focusing on urgent deliveries & quality while optimizing resources which allows us to be more productive, preserve our clients & to anticipate to their orders.
+  </font><br><br>
+
+  - [Grupo Guía](https://grupoguia.mx) (Grupo Guía Excelencia Inmobiliaría)<br>
+  <font size = 5>GIS Engineer</font><br>
+  <font size = 4><i>Jan 2024 - Present<br>
+  Guadalajara, MX  </i><br><br>
+  <u>Activities:</u><br>
+  We've been able to predict emerging housing markets with machine learning algorithms & satellite imagery geospatial data and we've constructed +10 houses as investors & their assistance with an avg. of 30% yearly returns.
+  </font><br><br>
 
 <section id="Certifications">
 <div style="background-color: #ffffff; height: 2px;"></div><br>
@@ -453,6 +469,8 @@ Studying English as a Second Language since I was 5 years old 3 hours a day I ca
 
   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Algoritms Experience:
 
+- [Supervised Learning](https://en.wikipedia.org/wiki/Supervised_learning)
+- [Unsupervised Learning](https://en.wikipedia.org/wiki/Unsupervised_learning)
 - [Linear & Logistic Regressions](https://en.wikipedia.org/wiki/Logistic_regression)
 - [Decision Trees](https://en.wikipedia.org/wiki/Decision_tree)
 - [Random Forests](https://en.wikipedia.org/wiki/Random_forest)
@@ -463,9 +481,6 @@ Studying English as a Second Language since I was 5 years old 3 hours a day I ca
 - [K-Means](https://en.wikipedia.org/wiki/K-means_clustering)
 - [Hierarchical Clustering](https://en.wikipedia.org/wiki/Hierarchical_clustering)
 - [Gradient Boosting Machine (GBM)](https://en.wikipedia.org/wiki/Gradient_boosting)
-- [Genetic Algorithms](https://en.wikipedia.org/wiki/Genetic_algorithm)
-- [Particle Swarm Optimization](https://en.wikipedia.org/wiki/Particle_swarm_optimization)
-- [Gradient Boosting Machine (GBM)](https://en.wikipedia.org/wiki/Gradient_boosting)
 - [Genetic Algorithms (GA)](https://en.wikipedia.org/wiki/Genetic_algorithm)
 - [Particle Swarm Optimization (PSO)](https://en.wikipedia.org/wiki/Particle_swarm_optimization)
 - [Adaline](https://en.wikipedia.org/wiki/ADALINE)
@@ -475,7 +490,8 @@ Studying English as a Second Language since I was 5 years old 3 hours a day I ca
 - [Convolutional Neural Network (CNN)](https://en.wikipedia.org/wiki/Convolutional_neural_network)
 - [Long Short-Term Memory (LSTM)](https://en.wikipedia.org/wiki/Long_short-term_memory)
 - [Generative Adversarial Networks (GANs)](https://en.wikipedia.org/wiki/Generative_adversarial_network)
-- 
+- [Natural Language Processing (NLP)](https://en.wikipedia.org/wiki/Natural_language_processing)
+  
 <div style="background-color: #ffffff; height: 2px;"></div><br>
 
 <Details open> <Summary> <h3>Frequent Pkgs:</h3> </Summary>
