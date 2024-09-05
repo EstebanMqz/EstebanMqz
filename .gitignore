@@ -1,3 +1,6 @@
 # Ignore the config file
 php/config.php
+#ignore the .txt subdir in the parent directory
+../.txt/*
+
 

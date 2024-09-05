@@ -57,7 +57,7 @@
 
 [![Repositories](https://img.shields.io/badge/Repositories-black?style=flat&logo=github&logoColor=white&color=black)](https://github.com/EstebanMqz?tab=repositories) &nbsp;
 [![Gists](https://img.shields.io/badge/Gists-092094?style=flat&logo=github&logoColor=white)](https://gist.github.com/EstebanMqz) &nbsp;
-[![gh-pages](https://img.shields.io/badge/HTML-100000?style=flat&logo=html5&logoColor=orange)](https://htmlpreview.github.io/?https://github.com/EstebanMqz/EstebanMqz/blob/main/html/README.html) &nbsp;
+[![gh-pages](https://img.shields.io/badge/HTML-100000?style=flat&logo=html5&logoColor=orange)](https://htmlpreview.github.io/?https://github.com/EstebanMqz/EstebanMqz/blob/main/index.html) &nbsp;
 
 </div></div>
 
