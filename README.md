@@ -12,15 +12,17 @@
   </div>
 </nav>
 <h1 style="font-size: 25px; font-weight: bold; text-shadow: 1px .5px darkred; color: black;"> RESUME </h1>
-<span style="font-size: 20px; font-family: cursive;"><div align="center"> 
-<h4> Esteban Márquez Delgado </h4>
+<h3 style="font-size: 20px; font-weight: bold; color: black;"> Esteban Márquez Delgado </h3><br><br> 
+<span style="font-size: 25px; font-family: cursive;"><div align="center"> 
 
-:gear::bar_chart: <b> Financial Engineer BSc.</b> &Sigma; &Pi;
- <br>
+:gear::bar_chart: <b> Financial Engineer BSc.</b><br>
 
+<a href="https://www.linkedin.com/in/estebanmqz/">
+  <img src="https://github.com/EstebanMqz.png?size=100" alt="GitHub Logo" style="border: 1px solid black; margin: 5px;">
+</a>
 
 <div style="text-align: center;">  
-<span style="font-size: 28px; font-family: MS; color: black; font-weight: bold; text-shadow: 1px 1px blue;"> <u>Jr. Data Scientist & QA Automation</u> </span><br><span style="font-size: 16px; color: black; font-family: ;"><i>(DA & BA | ML Eng. | DevOps) </i><b> <br>
+<span style="font-size: 28px; font-family: MS; color: black; font-weight: bold; text-shadow: 1px 1px blue;"> <u>Business & Data Analyst</u> </span><br><span style="font-size: 16px; color: black; font-family: ;"><i>(Statistical & Analytics Modelling) </i><b> <br>
 </b></span>
   
 </div> 
@@ -29,9 +31,10 @@
 <div style="text-align: center; font-family: 'Times New Roman'; color: #26a822;">
     <b class="normal-text">Download Resume</b><br>
     <a href="https://github.com/EstebanMqz/EstebanMqz/raw/main/download/EstebanMqz.pdf"><img src="https://img.shields.io/badge/pdf-Resume-darkred?style=flat&logo=adobe&logoColor=red" alt="Resume"></a>
-    <a href="https://github.com/EstebanMqz/EstebanMqz/raw/main/download/EstebanMqz.docx"><img src="https://img.shields.io/badge/docx-Resume-darkblue?style=flat&logo=Microsoft%20Word&logoColor=lightblue" alt="Resume"></a><br><br>
+    <a href="https://github.com/EstebanMqz/EstebanMqz/raw/main/download/EstebanMqz.docx"><img src="https://img.shields.io/badge/docx-Resume-1e4ab0?style=flat" alt="Resume"></a>
+    <br><br>
     <span class="small-text" style="color: black;"><b>Business Inquiries 24/7</b></span><br>
-    <a href="https://tinyurl.com/BusinessNo">
+    <a href="https://tinyurl.com/Estebans-Phone">
     <img width="45px" height="45px" src="https://cdn.worldvectorlogo.com/logos/whatsapp-business-bg.svg" alt="Business">
     </a>
 
@@ -47,7 +50,7 @@
 <div style="display: flex; justify-content: space-between;">
 
 [<img width="45px" height="45px" src="https://img.icons8.com/?size=512&amp;id=MR3dZdlA53te&amp;format=png" alt="LinkedIn">](https://www.linkedin.com/in/estebanmqz)
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=emarquez1895@gmail.com" target="Greetings Esteban I reviewed your work, skills and experience and I wish to schedule a Business Meeting with you." style="text-decoration: none;"><img width="45px" height="45px" style="max-width: 100%; max-height: 100%" src="https://www.svgrepo.com/show/530453/mail-reception.svg" alt="Mail">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=emarquez1895@gmail.com" target="Greetings Esteban I reviewed your work, skills and experience and I wish to schedule a Business Meeting with you on:." style="text-decoration: none;"><img width="45px" height="45px" style="max-width: 100%; max-height: 100%" src="https://www.svgrepo.com/show/530453/mail-reception.svg" alt="Mail">
 [<img width="40px" height="40px" style="max-width: 100%; max-height: 100%;" src="https://cdn3d.iconscout.com/3d/free/thumb/free-github-6343501-5220956.png?f=webp" alt="Github">](https://github.com/EstebanMqz?tab=repositories)
 [<img width="40px" height="40px" style="max-width: 100%; max-height: 100%;" src="https://img.icons8.com/color/452/gitlab.png" alt="GitLab">](https://gitlab.com/EstebanMqz)
 
@@ -57,7 +60,7 @@
 
 [![Repositories](https://img.shields.io/badge/Repositories-black?style=flat&logo=github&logoColor=white&color=black)](https://github.com/EstebanMqz?tab=repositories) &nbsp;
 [![Gists](https://img.shields.io/badge/Gists-092094?style=flat&logo=github&logoColor=white)](https://gist.github.com/EstebanMqz) &nbsp;
-[![gh-pages](https://img.shields.io/badge/HTML-100000?style=flat&logo=html5&logoColor=orange)](https://htmlpreview.github.io/?https://github.com/EstebanMqz/EstebanMqz/blob/main/index.html) &nbsp;
+[![gh-pages](https://img.shields.io/badge/Website-100000?style=flat&logo=html5&logoColor=orange)](https://htmlpreview.github.io/?https://github.com/EstebanMqz/EstebanMqz/blob/main/html/README.html) &nbsp;
 
 </div></div>
 
@@ -76,10 +79,10 @@
     Guadalajara, MX</i>
 
     <u>Activities:</u> <br>
-    Economics International Exchange [ERASMUS](https://www.erasmus.international) student & Investment societies.<br>
+    Economics International Exchange [ERASMUS](https://www.erasmus.international) student, investment societies, Python, R, Matlab & Quantitative Analysis for Risks & Predictive Modelling.<br>
 
     <u>Distinctions:</u><br>
-    1° place on college investment competition hosted by [MexDer](http://www.mexder.com.mx) financial derivatives operator [Kualiderivados](http://www.mexder.com.mx/wb3/wb/MEX/MEX_Repositorio/_vtp/MEX/202b_abrir_cuenta/_rid/21/_mto/3/Operadores.pdf).</i></font> <br>
+    1° place on college investment competition hosted by [MexDer](http://www.mexder.com.mx) financial derivatives operator [Kualiderivados](http://www.mexder.com.mx/wb3/wb/MEX/MEX_Repositorio/_vtp/MEX/202b_abrir_cuenta/_rid/21/_mto/3/Operadores.pdf).</i></font> <br><br>
     
     <div align="center">
     <a href="https://egresados.blob.core.windows.net/anuarios/2022b-otono-iteso/index.html">
@@ -120,7 +123,7 @@
     <u>Activities:</u><br>
     Web Scrapping Financial Data to perform Technical, Fundamental & Corporate Data Analysis to automate insight deliveries & support Investment Decisions.</font><br><br>
 
-  - [SHCP](https://www.gob.mx/shcp) (Secretaria de Hacienda y Crédito Público)<br>
+  - [SHCP](https://www.gob.mx/shcp)</font> (Secretaria de Hacienda y Crédito Público)<br>
   <font size = 5>Data Science Internship</font><br>
   <font size = 4><i>May 2022 - December 2022 (6 months)<br>
   Guadalajara, MX  </i><br><br>
@@ -134,21 +137,12 @@
   <u>Activities:</u><br>
   HTTP querying Natural Protected Areas Remote Sensed Data with Satellite Imagery to identify zones of pressure with Unsupervised Learning algorithms.</font><br><br>
 
-  - [Impresiones Formar](https://impresionesformar.squarespace.com)<br>
-  <font size = 5>Co-Chief Executive Officer</font><br>
-  <font size = 4><i>Jan 2023 - Present<br>
-  Guadalajara, MX  </i><br><br>
-  <u>Activities:</u><br>
-  Focusing on customer satisfaction through quality & presence in the whole Republic and beyond, since 1990 as we've been one of the main manufacturers in the country focusing on urgent deliveries & quality while optimizing resources which allows us to be more productive, preserve our clients & to anticipate to their orders.
-  </font><br><br>
-
-  - [Grupo Guía](https://grupoguia.mx) (Grupo Guía Excelencia Inmobiliaría)<br>
-  <font size = 5>GIS Engineer</font><br>
+  - [Grupo Guía](https://grupoguia.mx)</font> (Excelencia Inmobiliaría)<br>
+  <font size = 5>Capital Allocation Specialist</font><br>
   <font size = 4><i>Jan 2024 - Present<br>
   Guadalajara, MX  </i><br><br>
   <u>Activities:</u><br>
-  We've been able to predict emerging housing markets with machine learning algorithms & satellite imagery geospatial data and we've constructed +10 houses as investors & their assistance with an avg. of 30% yearly returns.
-  </font><br><br>
+  We've been able to predict emerging zones with machine learning algorithms and satellite imagery geospatial data and we've constructed +10 houses with an average of 30% yearly returns.</font><br><br>
 
 <section id="Certifications">
 <div style="background-color: #ffffff; height: 2px;"></div><br>
@@ -157,7 +151,7 @@
     <b>Certifications:</b>
   </div>
 
-+ [![Developer Program Member](https://img.shields.io/badge/Developer_Program_Member-000000?style=flat&logo=github&logoColor=white&color=black)](https://github.com/EstebanMqz)<br>
++ [![Developer Program Member](https://img.shields.io/badge/Developer-Program_Member-%2?style=flat&logo=github&logoColor=white&color=black)](https://github.com/EstebanMqz)<br>
 
 
   <font size = 4> 5+ years experience using Github & [Github Copilot](https://github.com/features/copilot) (as a beta tester before its launch) while taking advantage of my [![Skills.html](https://img.shields.io/badge/LinkedIn-Skills-100000?style=flat&logo=linkedin&logoColor=white&color=blue)](https://htmlpreview.github.io/?https://github.com/EstebanMqz/Skills-Notes/blob/main/Skills.html "LinkedIn").
@@ -169,7 +163,7 @@
   Effectively [troubleshooting](https://github.com/EstebanMqz/Pkg_Migration) collaborations with DevOps.
   <br><br>
 
-+ <b>[![TOEFL ITP](https://img.shields.io/badge/TOEFL_ITP_560-000000?style=flat&color=black)](https://www.ets.org/toefl/itp.html)</b><br>
++ <b>[![TOEFL ITP](https://img.shields.io/badge/TOEFL-ITP:_560-%1?style=flat&color=black)](https://www.ets.org/toefl/itp.html)</b><br>
 Studying English as a Second Language since I was 5 years old 3 hours a day I can effectively communicate with speakers verbally through native spelling & grammar. </font><br><br> 
 
 <br>
@@ -438,7 +432,7 @@ Studying English as a Second Language since I was 5 years old 3 hours a day I ca
   </tbody>
 </table>
 
-<br><h3> DevTools &#x1F310;</h3>
+<br><b><h3 style="color: #ffffff;"> DevTools &#x1F310;</h3></b>
 
 <table style="color: #000000;">
   <thead>
@@ -469,8 +463,6 @@ Studying English as a Second Language since I was 5 years old 3 hours a day I ca
 
   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Algoritms Experience:
 
-- [Supervised Learning](https://en.wikipedia.org/wiki/Supervised_learning)
-- [Unsupervised Learning](https://en.wikipedia.org/wiki/Unsupervised_learning)
 - [Linear & Logistic Regressions](https://en.wikipedia.org/wiki/Logistic_regression)
 - [Decision Trees](https://en.wikipedia.org/wiki/Decision_tree)
 - [Random Forests](https://en.wikipedia.org/wiki/Random_forest)
@@ -490,8 +482,6 @@ Studying English as a Second Language since I was 5 years old 3 hours a day I ca
 - [Convolutional Neural Network (CNN)](https://en.wikipedia.org/wiki/Convolutional_neural_network)
 - [Long Short-Term Memory (LSTM)](https://en.wikipedia.org/wiki/Long_short-term_memory)
 - [Generative Adversarial Networks (GANs)](https://en.wikipedia.org/wiki/Generative_adversarial_network)
-- [Natural Language Processing (NLP)](https://en.wikipedia.org/wiki/Natural_language_processing)
-  
 <div style="background-color: #ffffff; height: 2px;"></div><br>
 
 <Details open> <Summary> <h3>Frequent Pkgs:</h3> </Summary>

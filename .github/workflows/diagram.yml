@@ -18,3 +18,4 @@ jobs:
           output_file: "diagram.svg"
           branch: main
           file_color: "#f0f0f0"
+          should_push: false
