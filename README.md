@@ -15,14 +15,14 @@
 <h3 style="font-size: 20px; font-weight: bold; color: black;"> Esteban Márquez Delgado </h3><br><br> 
 <span style="font-size: 25px; font-family: cursive;"><div align="center"> 
 
-:gear::bar_chart: <b> Financial Engineer BSc.</b><br>
+<b>Financial Engineer Bsc.</b><br>
 
 <a href="https://www.linkedin.com/in/estebanmqz/">
     <img src="https://raw.githubusercontent.com/EstebanMqz/EstebanMqz/refs/heads/main/.jpg/Professional.jpg" width="15% alt="Coding Lens"> 
 </a></div>
 
 <div style="text-align: center;">  
-<span style="font-size: 28px; font-family: MS; color: black; font-weight: bold; text-shadow: 1px 1px blue;"> <u>Business & Data Analyst</u> </span><br><span style="font-size: 16px; color: black; font-family: ;"><i>(Statistical & Quantitative Modelling) </i><b> <br>
+<span style="font-size: 28px; font-family: MS; color: black; font-weight: bold; text-shadow: 1px 1px blue;"> <u>Business & Data Analyst</u> </span><br><span style="font-size: 16px; color: black; font-family: ;"><i>(Statistical Modelling & GIS Engineering) </i><b> <br>
 </b></span>
   
 </div> 
@@ -50,7 +50,7 @@
 <div style="display: flex; justify-content: space-between;">
 
 [<img width="45px" height="45px" src="https://img.icons8.com/?size=512&amp;id=MR3dZdlA53te&amp;format=png" alt="LinkedIn">](https://www.linkedin.com/in/estebanmqz)
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=emarquez1895@gmail.com" target="Greetings Esteban I reviewed your work, skills and experience and I wish to schedule a Business Meeting with you on:." style="text-decoration: none;"><img width="45px" height="45px" style="max-width: 100%; max-height: 100%" src="https://www.svgrepo.com/show/530453/mail-reception.svg" alt="Mail">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=emarquez1895@gmail.com" target="Greetings Esteban I wish to schedule a Business Meeting with you on:." style="text-decoration: none;"><img width="45px" height="45px" style="max-width: 100%; max-height: 100%" src="https://www.svgrepo.com/show/530453/mail-reception.svg" alt="Mail">
 [<img width="40px" height="40px" style="max-width: 100%; max-height: 100%;" src="https://cdn3d.iconscout.com/3d/free/thumb/free-github-6343501-5220956.png?f=webp" alt="Github">](https://github.com/EstebanMqz?tab=repositories)
 [<img width="40px" height="40px" style="max-width: 100%; max-height: 100%;" src="https://img.icons8.com/color/452/gitlab.png" alt="GitLab">](https://gitlab.com/EstebanMqz)
 
@@ -60,7 +60,7 @@
 
 [![Repositories](https://img.shields.io/badge/Repositories-black?style=flat&logo=github&logoColor=white&color=black)](https://github.com/EstebanMqz?tab=repositories) &nbsp;
 [![Gists](https://img.shields.io/badge/Gists-092094?style=flat&logo=github&logoColor=white)](https://gist.github.com/EstebanMqz) &nbsp;
-[![gh-pages](https://img.shields.io/badge/Website-100000?style=flat&logo=html5&logoColor=orange)](https://htmlpreview.github.io/?https://github.com/EstebanMqz/EstebanMqz/blob/main/html/README.html) &nbsp;
+[![gh-pages](https://img.shields.io/badge/Website-100000?style=flat&logo=html5&logoColor=orange)](https://estebanmqz.github.io/EstebanMqz/) &nbsp;
 
 </div></div>
 
@@ -79,27 +79,29 @@
     <font size = 4><i>August 2018 - December 2022 (5 years)<br>
     Guadalajara, MX</i>
 
-    <u>Activities:</u> <br>
+    <u>Activities:</u> <br><br>
     Economics International Exchange [ERASMUS](https://www.erasmus.international) student & investment societies.<br>
-    Experienced using software tools like Python, R & Matlab for Risks & Predictive Modelling using Applied Mathematics.<br>
+    Experienced using software tools like [Python](https://www.python.org), [R](https://www.r-project.org) & [MATLAB](https://www.mathworks.com/products/matlab.html) for <i>Risks & Predictive Modelling</I> using Applied Mathematics.<br>
 
     <u>Distinctions:</u><br>
-    1° place on college investment competition hosted by [MexDer](http://www.mexder.com.mx) financial derivatives operator [Kualiderivados](http://www.mexder.com.mx/wb3/wb/MEX/MEX_Repositorio/_vtp/MEX/202b_abrir_cuenta/_rid/21/_mto/3/Operadores.pdf).</i></font> <br><br>
-    
-    <div align="center">
-    <a href="https://egresados.blob.core.windows.net/anuarios/2022b-otono-iteso/index.html">
-    <img src="https://raw.githubusercontent.com/EstebanMqz/EstebanMqz/refs/heads/main/.jpg/diploma-web.jpg" width="40%"> </a>
-    </div>
-    <br>
+    1° place on investment competition hosted by [MexDer](http://www.mexder.com.mx) <i>financial derivatives</i> operator [Kualiderivados](http://www.mexder.com.mx/wb3/wb/MEX/MEX_Repositorio/_vtp/MEX/202b_abrir_cuenta/_rid/21/_mto/3/Operadores.pdf).</i></font> <br><br>
 
   -  [Universidad Loyola](https://www.uloyola.es)<br>
-    <b>[International Erasmus Exchange](https://www.uloyola.es/servicios/oficina-internacional/politicas-programa-erasmus)</b><br>
-    <font size="5" style="font-family: Times New Roman; color:#218c0b;">
-    Degree in Economics</font><br>
-    <font size = 4><i>August 2019 - December 2019 (1 semester)</i><br>
-    <i>Seville, Spain</i><br>
-    <u>Activities:</u> <br>
-    Statistically modelling [Behavioral Economics](https://www.uloyola.es/oferta-cientifica/personal-investigador/pablo-ernesto-branas-garza) theoretically & technically to simulate human behavior mainly using [MATLAB](https://www.mathworks.com/products/matlab.html) & [Python](https://www.python.org).<br><br></font>
+  <b>[International Erasmus Exchange](https://www.uloyola.es/servicios/oficina-internacional/politicas-programa-erasmus)</b><br>
+  <font size="5" style="font-family: Times New Roman; color:#218c0b;">
+  Degree in Economics</font><br>
+  <font size = 4><i>August 2019 - December 2019 (1 semester)</i><br>
+  <i>Seville, Spain</i><br>
+  <u>Activities:</u> <br>
+  Statistically modelling [Behavioral Economics](https://www.uloyola.es/oferta-cientifica/personal-investigador/pablo-ernesto-branas-garza) theoretically & technically to <i>simulate human behavior</i> mainly using [MATLAB](https://www.mathworks.com/products/matlab.html) & [Python](https://www.python.org).<br><br></font>
+
+  <div align="center">
+  <a href="https://egresados.blob.core.windows.net/anuarios/2022b-otono-iteso/index.html">
+  <img src="https://raw.githubusercontent.com/EstebanMqz/EstebanMqz/refs/heads/main/.jpg/diploma-web.jpg" width="70%"> </a>
+  </div>
+  <br>
+
+
 
   - [Colegio Cervantes Costa Rica](https://cervantes.edu.mx)<br>
     <font size="5" style="font-family: Times New Roman; color:#218c0b;">Technical High School - Physics & Mathematics</font><br>
@@ -111,36 +113,36 @@
 <div style="background-color: #ffffff; height: 2px;"></div><br>
   <div style="text-align: left; background-color: rgba(0, 0, 100, 1); padding: 0px;">
   <div style="display: inline; font-family: Times New Roman; text-align: left; padding: 15px; font-size: 25px; color: white">
-    <b>Working Experience:</b>
+    <b>Experience:</b>
   </div>
+
+  - [Impresiones Formar](https://impresionesformar.squarsespace.com) <br>
+  <font size="5" style="font-family: Times New Roman; color:#218c0b;"> Co-Chief Executive Officer </font><br>
+  <font size = 4><i>January 2023 - Present<br> 
+  Guadalajara, MX  </i><br><br>
+  <u>Activities:</u><br>
+  Leading one of the largest printing companies founded in 1990, with special treatment to distributors, printers and marketers specialized in the production of short & urgent [<i>Offset printings</i>](https://thomasgroupprinting.com/offset-printing-how-does-it-work/) in most formats speciallizing in clients retention.</font><br><br>
 
   - [Grupo Guía](https://grupoguia.mx)</font> <i>(Excelencia Inmobiliaría)</i><br>
     <font size="5" style="font-family: Times New Roman; color:#218c0b;">Capital Allocation Data Scientist</font><br>
     <font size = 4><i>Jan 2024 - Present<br>
     Guadalajara, MX  </i><br><br>
     <u>Activities:</u><br>
-    We've been able to predict emerging zones with machine learning algorithms and satellite imagery with [GIS]() geospatial data and we've constructed +10 houses with an average of 30% yearly returns.</font><br><br>
+    Predict emerging zones of real estate with <i>ML & GIS Engineering</i> with an avg. of 25%+ returns.</font><br><br>
 
-  - [Impresiones Formar](https://impresionesformar.squarsespace.com) <br>
-    <font size="5" style="font-family: Times New Roman; color:#218c0b;"> Co-Chief Executive Officer </font><br>
-    <font size = 4><i>January 2023 - Present<br> 
-    Guadalajara, MX  </i><br><br>
-    <u>Activities:</u><br>
-    Leading one of the largest printing companies founded in 1990, with special treatment to distributors, printers and marketers specialized in the production of short & urgent [<i>Offset printings</i>](https://thomasgroupprinting.com/offset-printing-how-does-it-work/) in most formats for large quantities, I speciallize in clients retention.</font><br><br>
-
-  - [Instituto de Información Estadística y Geográfica de Jal.](https://iieg.gob.mx/ns/) <i>(IIEG)</i><br>
+  - [Instituto de Información Estadística y Geográfica de Jalisco](https://iieg.gob.mx/ns/) <i>(IIEG)</i><br>
     <font size="5" style="font-family: Times New Roman; color:#218c0b;">Data Science Internship </font><br>
     <font size = 4><i>January 2022 - May 2022 (6 months) <br> 
     Guadalajara, MX  </i><br><br>
     <u>Activities:</u><br>
-    HTTP querying Natural Protected Areas Remote Sensed Data with Satellite Imagery to identify zones of pressure with Unsupervised Learning algorithms.</font><br><br>
+    HTTP querying Natural Protected Areas Remote Sensed Data with <i>GIS Engineering</i> to identify zones of pressure with <i>Unsupervised Learning algorithms</i>.</font><br><br>
 
   - [SHCP](https://www.gob.mx/shcp)</font> (Secretaria de Hacienda y Crédito Público)<br>
     <font size="5" style="font-family: Times New Roman; color:#218c0b;">Data Science Internship</font><br>
-    <font size = 4><i>May 2022 - December 2022 (6 months)<br>
+    <font size = 4><i>May 2022 - December 2022<br>
     Guadalajara, MX  </i><br><br>
     <u>Activities:</u><br>
-    Big Data (+1m) automatic ETL processes with NLP Supervised Classifications to develop Price Prediction Models on MX Clothings imports for taxing purposes.</font><br><br>
+    <i>Big Data</i> ETL processes with <i>NLP Supervised Classifications</i> to develop Price Prediction Models on MX Clothings imports for taxing purposes.</font><br><br>
 
 
   - [Trading Club GDL](https://tradingclubmx.com)<br>
@@ -148,14 +150,14 @@
     <font size = 4><i>January 2018 - Present (6 years) <br>
     Guadalajara, MX </i><br><br>
     <u>Activities:</u><br>
-    Optimizations with Historical Data or Simulations for Automatic Portfolio Constructions, Risk Measuring & Data driven decision-making.</font><br>
+    <i>Optimizations</i> with Historical Data or Simulations for <i>Portfolio Constructions & Risk Measuring</i> by Data driven decision-making.</font><br><br>
 
   - [Investor House MX](https://www.investorhouse.com.mx)<br>
     <font size="5" style="font-family: Times New Roman; color:#218c0b;">Financial Analyst Associate </font><br>
     <font size = 4><i>May 2017 - Present (7 years) <br>
     Mexico City, MX </i><br><br>
     <u>Activities:</u><br>
-    Automatically Web Scrapping Financial Data to perform Technical, Fundamental & Corporate Data Analysis to deliver insights that support Investment Decisions.</font><br><br>
+    <i>Web Scrapping</i> Financial Data to perform Technical, Fundamental & Corporate Data Analysis to deliver insights that supported Investment Decisions.</font><br><br>
 
 
 
