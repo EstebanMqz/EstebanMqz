@@ -187,8 +187,10 @@ Studying English as a Second Language since I was 5 years old 3 hours a day I ca
 <br>
 <div style="background-color: #ffffff00; height: 2px;"></div><br>
 
+[Full Version of CV](https://estebanmqz.github.io/EstebanMqz/)
+<em style="font-size: 11px;">Enable expandables</em> 
 <Details>
-<Summary style="color: black;">Details <em>(click)</em> 
+<Summary style="color: black;">Details <em>(click)</em>  
 <div style="font-size: 20px; color: black;"> Programming, Frameworks, Hosting, Editors, Terminals & DevTools.</div>
 <br>
 Experience:
