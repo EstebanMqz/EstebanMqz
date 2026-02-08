@@ -12,6 +12,7 @@
   </div>
 </nav>
 <h1 style="font-size: 25px; font-weight: bold; text-shadow: 1px .5px darkred; color: black;"> RESUME </h1>
+<em style="font-size: 11px;"><b>Note:</b> <u>Dynamic document:</u> Images, icons, links (blue text) and badges are redirectable to their sources with a click.<br> Experience found in Tools/Details.</em>
 <h3 style="font-size: 20px; font-weight: bold; color: black;"> Esteban Márquez Delgado </h3><br><br> 
 <span style="font-size: 25px; font-family: cursive;"><div align="center"> 
 
@@ -22,45 +23,39 @@
 </a></div>
 
 <div style="text-align: center;">  
-<span style="font-size: 28px; font-family: MS; color: black; font-weight: bold; text-shadow: 1px 1px blue;"> <u>Business & Data Analyst</u> </span><br><span style="font-size: 16px; color: black; font-family: ;"><i>(Statistical Modelling & GIS Engineering) </i><b> <br>
+<span style="font-size: 28px; font-family: MS; color: black; font-weight: bold; text-shadow: 1px 1px blue;"> <u>Accountant & Finance Manager</u> </span><br><span style="font-size: 16px; color: black; font-family: ;"><i>(Financial Risks Analyst) </i><b> <br>
 </b></span>
   
-</div> 
-
-<br>
-<div style="text-align: center; font-family: 'Times New Roman'; color: #26a822;">
-    <b class="normal-text">Download Resume</b><br>
-    <a href="https://github.com/EstebanMqz/EstebanMqz/raw/main/download/EstebanMqz.pdf"><img src="https://img.shields.io/badge/pdf-Resume-darkred?style=flat&logo=adobe&logoColor=red" alt="Resume"></a>
-    <a href="https://github.com/EstebanMqz/EstebanMqz/raw/main/download/EstebanMqz.docx"><img src="https://img.shields.io/badge/docx-Resume-1e4ab0?style=flat" alt="Resume"></a>
-    <br><br>
-    <span class="small-text" style="color: black;"><b>Business Inquiries</b></span><br>
-    <a href="https://tinyurl.com/Estebans-Phone">
-    <img width="45px" height="45px" src="https://cdn.worldvectorlogo.com/logos/whatsapp-business-bg.svg" alt="Business">
-    </a>
 
 
-</div>
+<br><br>
+<span class="small-text" style="color: black;"><b>Urgent Business Inquiries:</b></span><br>
+<a href="https://tinyurl.com/Estebans-Phone">
+<img width="45px" height="45px" src="https://cdn.worldvectorlogo.com/logos/whatsapp-business-bg.svg" alt="Business">
+</a>
+
+
 
 <div align="left" style="font-family: MS; color: black; font-weight: bold;">
 
-<font size = 5><b> Contact:</b></font><br>
+<font size = 5><b> Social & Links:</b></font><br>
 
 <div style="padding: 10px; background-color: rgba(128, 128, 128, 0.1);">
 
 <div style="display: flex; justify-content: space-between;">
 
 [<img width="45px" height="45px" src="https://img.icons8.com/?size=512&amp;id=MR3dZdlA53te&amp;format=png" alt="LinkedIn">](https://www.linkedin.com/in/estebanmqz)
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=emarquez1895@gmail.com" target="Greetings Esteban I wish to schedule a Business Meeting with you on:." style="text-decoration: none;"><img width="45px" height="45px" style="max-width: 100%; max-height: 100%" src="https://www.svgrepo.com/show/530453/mail-reception.svg" alt="Mail">
 [<img width="40px" height="40px" style="max-width: 100%; max-height: 100%;" src="https://cdn3d.iconscout.com/3d/free/thumb/free-github-6343501-5220956.png?f=webp" alt="Github">](https://github.com/EstebanMqz?tab=repositories)
 [<img width="40px" height="40px" style="max-width: 100%; max-height: 100%;" src="https://img.icons8.com/color/452/gitlab.png" alt="GitLab">](https://gitlab.com/EstebanMqz)
-
+<br>
+<emarquez1895@gmail.com>
 </div>
 
 <div style="text-align: right">
 
-[![Repositories](https://img.shields.io/badge/Repositories-black?style=flat&logo=github&logoColor=white&color=black)](https://github.com/EstebanMqz?tab=repositories) &nbsp;
-[![Gists](https://img.shields.io/badge/Gists-092094?style=flat&logo=github&logoColor=white)](https://gist.github.com/EstebanMqz) &nbsp;
-[![gh-pages](https://img.shields.io/badge/Website-100000?style=flat&logo=html5&logoColor=orange)](https://estebanmqz.github.io/EstebanMqz/) &nbsp;
+[![Repositories](https://img.shields.io/badge/Esteban's_Projects-black?style=for-the-badge&logo=github&logoColor=white&color=black)](https://github.com/EstebanMqz?tab=repositories) &nbsp;
+[![Gists](https://img.shields.io/badge/Esteban's_Docs.-092094?style=for-the-badge&logo=github&logoColor=white)](https://gist.github.com/EstebanMqz) &nbsp;
+[![gh-pages](https://img.shields.io/badge/Resume's_Website-100000?style=for-the-badge&logo=html5&logoColor=orange)](https://estebanmqz.github.io/EstebanMqz/) &nbsp;
 
 </div></div>
 
@@ -181,13 +176,23 @@
   [![settings.json](https://img.shields.io/badge/settings.json-000000?style=flat&logo=github&logoColor=gray&color=black)](https://gist.github.com/EstebanMqz/7d1e5b8022d429dd85ab9fa994461c7a) & [![keybindings.json](https://img.shields.io/badge/keybindings.json-100000?style=flat&logo=github&logoColor=gray&color=black)](https://gist.github.com/EstebanMqz/)</div>
   Effectively [troubleshooting](https://github.com/EstebanMqz/Pkg_Migration) collaborations with DevOps.
   <br><br>
-
-+ <b>[![TOEFL ITP](https://img.shields.io/badge/TOEFL-ITP:_560-%1?style=flat&color=black)](https://www.ets.org/toefl/itp.html)</b><br>
+<td>
+<a href="https://certs.duolingo.com/iae9nvivigpzemw3">
+<img width="40px" src="https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Duo_from_Duolingo.svg/250px-Duo_from_Duolingo.svg.png">
+</td>
+<td style="color: black;">125 Duolingo Certification (2026)</td>
+  </a><br>
 Studying English as a Second Language since I was 5 years old 3 hours a day I can effectively communicate with speakers verbally through native spelling & grammar. </font><br><br> 
 
 <br>
-<div style="background-color: #ffffff; height: 2px;"></div><br>
+<div style="background-color: #ffffff00; height: 2px;"></div><br>
 
+<Details>
+<Summary style="color: black;">Details <em>(click)</em> 
+<div style="font-size: 20px; color: black;"> Programming, Frameworks, Hosting, Editors, Terminals & DevTools.</div>
+<br>
+Experience:
+</Summary>
 <section id="Tools">
   <div style="text-align: left; background-color: rgba(0, 0, 100, 1); padding: 20px;">
   <div style="display: inline; font-family: Times New Roman; text-align: left; padding: 15px; font-size: 25px; color: white">
@@ -205,69 +210,121 @@ Studying English as a Second Language since I was 5 years old 3 hours a day I ca
   </thead>
   <tbody>
     <tr>
-      <td><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></td>
-      <td><a href="https://www.python.org/" style="color: #000000;">Python</a></td>
-      <td>5+ years</td>
+<td>
+  <a href="https://www.python.org/">
+    <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  </a>
+</td>
+<td style="color: black;">Python</td>
+<td>5+ years</td>
     </tr>
     <tr>
-      <td><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg"></td>
-      <td><a href="https://www.r-project.org/" style="color: #000000;">R</a></td>
+<td>
+  <a href="https://www.r-project.org/">
+    <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
+  </a>
+</td>
+<td style="color: black;">R</td>
+<td>4+ years</td>
+    </tr>
+    <tr>
+<td>
+  <a href="https://www.mathworks.com/products/matlab.html">
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg">
+  </a>
+</td>
+<td style="color: black;">MATLAB</td>
       <td>4+ years</td>
     </tr>
     <tr>
-      <td><img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg"></td>
-      <td><a href="https://www.mathworks.com/products/matlab.html" style="color: #000000;">MATLAB</a></td>
-      <td>4+ years</td>
+<td>
+  <a href="https://www.markdownguide.org/">
+    <img width="30px" src="https://www.svgrepo.com/show/306375/markdown.svg">
+  </a>
+</td>
+<td style="color: black;">Markdown</td>
+<td>4+ years</td>
     </tr>
     <tr>
-      <td><img width="30px" src="https://www.svgrepo.com/show/306375/markdown.svg"></td>
-      <td><a href="https://www.markdownguide.org/" style="color: #000000;">Markdown</a></td>
-      <td>4+ years</td>
+<td>
+  <a href="https://www.latex-project.org/">
+    <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/LaTeX_project_logo_bird.svg/1280px-LaTeX_project_logo_bird.svg.png">
+  </a>
+</td>
+<td style="color: black;">LaTeX</td>
+<td>4+ years</td>
     </tr>
     <tr>
-      <td><img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/LaTeX_project_logo_bird.svg/1280px-LaTeX_project_logo_bird.svg.png"></td>
-      <td><a href="https://www.latex-project.org/" style="color: #000000;">LaTeX</a></td>
-      <td>4+ years</td>
+<td>
+  <a href="https://git-scm.com/">
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  </a>
+</td>
+<td style="color: black;">Git</td>
+<td>4+ years</td>
     </tr>
     <tr>
-      <td><img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></td>
-      <td><a href="https://git-scm.com/" style="color: #000000;">Git</a></td>
-      <td>4+ years</td>
+<td>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  </a>
+</td>
+<td style="color: black;">HTML</td>
+<td>3+ years</td>
     </tr>
     <tr>
-      <td><img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></td>
-      <td><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="color: #000000;">HTML</a></td>
-      <td>3+ years</td>
+<td>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  </a>
+</td>
+<td style="color: black;">CSS</td>
+<td>3+ years</td>
     </tr>
     <tr>
-      <td><img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></td>
-      <td><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" style="color: #000000;">CSS</a></td>
-      <td>3+ years</td>
+<td>
+  <a href="https://yaml.org/">
+    <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Official_YAML_Logo.svg/1113px-Official_YAML_Logo.svg.png">
+  </a>
+</td>
+<td style="color: black;">YAML</td>
+<td>1+ years</td>
     </tr>
     <tr>
-      <td><img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Official_YAML_Logo.svg/1113px-Official_YAML_Logo.svg.png"></td>
-      <td><a href="https://yaml.org/" style="color: #000000;">YAML</a></td>
-      <td>1+ years</td>
+<td>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  </a>
+</td>
+<td style="color: black;">JavaScript</td>
+<td>1+ years</td>
     </tr>
     <tr>
-      <td><img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></td>
-      <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="color: #000000;">JavaScript</a></td>
-      <td>1+ years</td>
+<td>
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  </a>
+</td>
+<td style="color: black;">C#</td>
+<td>1+ years</td>
     </tr>
     <tr>
-      <td><img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></td>
-      <td><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" style="color: #000000;">C#</a></td>
-      <td>-1 years</td>
+<td>
+  <a href="https://www.php.net/">
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  </a>
+</td>
+<td style="color: black;">PHP</td>
+<td>1+ years</td>
     </tr>
     <tr>
-      <td><img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"></td>
-      <td><a href="https://www.php.net/" style="color: #000000;">PHP</a></td>
-      <td>-1 years</td>
-    </tr>
-    <tr>
-      <td><img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></td>
-      <td><a href="https://www.typescriptlang.org/" style="color: #000000;">TypeScript</a></td>
-      <td>-1 years</td>
+<td>
+  <a href="https://www.typescriptlang.org/">
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  </a>
+</td>
+<td style="color: black;">TypeScript</td>
+<td>1+ years</td>
     </tr>
   </tbody>
 </table>
@@ -283,45 +340,76 @@ Studying English as a Second Language since I was 5 years old 3 hours a day I ca
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td><img width="30px" src="https://streamlit.io/images/brand/streamlit-mark-color.svg"></td>
-      <td><a href="https://streamlit.io" style="color: #000000;">Streamlit</a></td>
-      <td>2+ years</td>
+<td>
+  <a href="https://streamlit.io">
+    <img width="30px" src="https://streamlit.io/images/brand/streamlit-mark-color.svg">
+  </a>
+</td>
+<td style="color: black;">Streamlit</td>
+<td>2+ years</td>
     </tr>
     <tr>
-      <td><img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg"></td>
-      <td><a href="https://keras.io" style="color: #000000;">Keras</a></td>
+<td>
+  <a href="https://keras.io">
+    <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg">
+  </a>
+</td>
+<td style="color: black;">Keras</td>
+<td>1+ years</td>
+    </tr>
+    <tr>
+<td>
+  <a href="https://pytorch.org">
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg">
+  </a>
+</td>
+<td style="color: black;">PyTorch</td>
+<td>1+ years</td>
+    </tr>
+    <tr>
+<td>
+  <a href="https://www.tensorflow.org">
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg">
+  </a>
+</td>
+<td style="color: black;">TensorFlow</td>
+<td>1+ years</td>
+    </tr>
+    <tr>
+<td>
+  <a href="https://nodejs.org/en">
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  </a>
+</td>
+<td style="color: black;">Node.js</td>
+<td>1+ years</td>
+    </tr>
+    <tr>
+<td>
+  <a href="https://create-react-app.dev">
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  </a>
+</td>
+<td style="color: black;">React.js</td>
       <td>1+ years</td>
     </tr>
     <tr>
-      <td><img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg"></td>
-      <td><a href="https://pytorch.org" style="color: #000000;">PyTorch</a></td>
-      <td>1+ years</td>
+<td>
+  <a href="https://dotnet.microsoft.com/">
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg">
+  </a>
+</td>
+<td style="color: black;">.NET</td>
+<td>1+ years</td>
     </tr>
     <tr>
-      <td><img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg"></td>
-      <td><a href="https://www.tensorflow.org" style="color: #000000;">TensorFlow</a></td>
-      <td>1+ years</td>
-    </tr>
-    <tr>
-      <td><img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></td>
-      <td><a href="https://nodejs.org/en" style="color: #000000;">Node.js</a></td>
-      <td>1+ years</td>
-    </tr>
-    <tr>
-      <td><img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></td>
-      <td><a href="https://create-react-app.dev" style="color: #000000;">React.js</a></td>
-      <td>1+ years</td>
-    </tr>
-    <tr>
-      <td><img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg"></td>
-      <td><a href="https://dotnet.microsoft.com/" style="color: #000000;">.NET</a></td>
-      <td>1+ years</td>
-    </tr>
-    <tr>
-      <td><img width="30px" src="https://toppng.com/uploads/preview/drag-and-drop-action-in-selenium-webdriver-selenium-webdriver-logo-11563140448vrkzsnnton.png"></td>
-      <td><a href="https://www.selenium.dev/" style="color: #000000;">Selenium</a></td>
-      <td>1+ years</td>
+<td>
+  <a href="https://www.selenium.dev/">
+    <img width="30px" src="https://toppng.com/uploads/preview/drag-and-drop-action-in-selenium-webdriver-selenium-webdriver-logo-11563140448vrkzsnnton.png">
+  </a>
+</td>
+<td style="color: black;">Selenium</td>
+<td>1+ years</td>
     </tr>
   </tbody>
 </table>
@@ -339,19 +427,31 @@ Studying English as a Second Language since I was 5 years old 3 hours a day I ca
   </thead>
   <tbody>
     <tr>
-      <td><img width="30px" src="https://icon-library.com/images/github-icon-svg/github-icon-svg-0.jpg"></td>
-      <td><a href="https://github.com" style="color: #000000;">Github</a></td>
-      <td>4+ years</td>
+<td>
+  <a href="https://github.com">
+    <img width="30px" src="https://icon-library.com/images/github-icon-svg/github-icon-svg-0.jpg">
+  </a>
+</td>
+<td style="color: black;">GitHub</td>
+<td>4+ years</td>
     </tr>
     <tr>
-      <td><img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/3/35/GitLab_icon.svg"></td>
-      <td><a href="https://about.gitlab.com" style="color: #000000;">Gitlab</a></td>
-      <td>2+ years</td>
+<td>
+  <a href="https://about.gitlab.com">
+    <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/3/35/GitLab_icon.svg">
+  </a>
+</td>
+<td style="color: black;">GitLab</td>
+<td>2+ years</td>
     </tr>
     <tr>
-      <td><img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg"></td>
-      <td><a href="https://azure.microsoft.com/en-us/" style="color: #000000;">Azure</a></td>
-      <td>1+ years</td>
+<td>
+  <a href="https://azure.microsoft.com/en-us/">
+    <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg">
+  </a>
+</td>
+<td style="color: black;">Azure</td>
+<td>1+ years</td>
     </tr>
   </tbody>
 </table>
@@ -370,44 +470,76 @@ Studying English as a Second Language since I was 5 years old 3 hours a day I ca
   </thead>
   <tbody>
     <tr>
-      <td><img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1767px-Jupyter_logo.svg.png"></td>
-      <td><a href="https://jupyter.org" style="color: #000000;">Jupyter</a></td>
-      <td>6+ years</td>
+<td>
+  <a href="https://jupyter.org">
+    <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1767px-Jupyter_logo.svg.png">
+  </a>
+</td>
+<td style="color: black;">Jupyter</td>
+<td>6+ years</td>
     </tr>
     <tr>
-      <td><img width="30px" src="https://i.stack.imgur.com/bUpIh.png"></td>
-      <td><a href="https://posit.co/download/rstudio-desktop/" style="color: #000000;">RStudio</a></td>
-      <td>5+ years</td>
+<td>
+  <a href="https://posit.co/download/rstudio-desktop/">
+    <img width="30px" src="https://i.stack.imgur.com/bUpIh.png">
+  </a>
+</td>
+<td style="color: black;">RStudio</td>
+<td>5+ years</td>
     </tr>
     <tr>
-      <td><img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/7/7e/20211122181339%21Spyder_logo.svg/120px-Spyder_logo.svg.png"></td>
-      <td><a href="https://www.spyder-ide.org" style="color: #000000;">Spyder</a></td>
-      <td>4+ years</td>
+<td>
+  <a href="https://www.spyder-ide.org">
+    <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/7/7e/20211122181339%21Spyder_logo.svg/120px-Spyder_logo.svg.png">
+  </a>
+</td>
+<td style="color: black;">Spyder</td>
+<td>4+ years</td>
     </tr>
     <tr>
-      <td><img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png"></td>
-      <td><a href="https://www.jetbrains.com/pycharm/" style="color: #000000;">PyCharm</a></td>
-      <td>3+ years</td>
+<td>
+  <a href="https://www.jetbrains.com/pycharm/">
+    <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png">
+  </a>
+</td>
+<td style="color: black;">PyCharm</td>
+<td>3+ years</td>
     </tr>
     <tr>
-      <td><img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png"></td>
-      <td><a href="https://code.visualstudio.com" style="color: #000000;">VSCode</a></td>
-      <td>3+ years</td>
+<td>
+  <a href="https://code.visualstudio.com">
+    <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png">
+  </a>
+</td>
+<td style="color: black;">VSCode</td>
+<td>3+ years</td>
     </tr>
     <tr>
-      <td><img width="30px" src="https://code.visualstudio.com/assets/favicon.ico"></td>
-      <td><a href="https://visualstudio.microsoft.com/services/visual-studio-online/" style="color: #000000;">VSCode Web</a></td>
-      <td>4+ years</td>
+<td>
+  <a href="https://visualstudio.microsoft.com/services/visual-studio-online/">
+    <img width="30px" src="https://code.visualstudio.com/assets/favicon.ico">
+  </a>
+</td>
+<td style="color: black;">VSCode Web</td>
+<td>4+ years</td>
     </tr>
     <tr>
-      <td><img width="30px" src="https://devblogs.microsoft.com/cppblog/wp-content/uploads/sites/9/2022/04/github-vscode-mark.png"></td>
-      <td><a href="https://github.com/features/codespaces" style="color: #000000;">GitHub Codespaces</a></td>
-      <td>3+ years</td>
+<td>
+  <a href="https://github.com/features/codespaces">
+    <img width="30px" src="https://devblogs.microsoft.com/cppblog/wp-content/uploads/sites/9/2022/04/github-vscode-mark.png">
+  </a>
+</td>
+<td style="color: black;">GitHub Codespaces</td>
+<td>3+ years</td>
     </tr>
     <tr>
-      <td><img width="30px" src="https://colab.research.google.com/img/colab_favicon_256px.png"></td>
-      <td><a href="https://colab.research.google.com/" style="color: #000000;">Google Colab</a></td>
-      <td>2+ years</td>
+<td>
+  <a href="https://colab.research.google.com/">
+    <img width="30px" src="https://colab.research.google.com/img/colab_favicon_256px.png">
+  </a>
+</td>
+<td style="color: black;">Google Colab</td>
+<td>2+ years</td>
     </tr>
   </tbody>
 </table>
@@ -424,29 +556,49 @@ Studying English as a Second Language since I was 5 years old 3 hours a day I ca
   </thead>
   <tbody>
     <tr>
-      <td><img width="30px" src="https://www.clipartmax.com/png/middle/349-3490136_anaconda-icon-anaconda-python-icon.png"></td>
-      <td><a href="https://docs.conda.io/en/latest/" style="color: #000000;">Conda</a></td>
-      <td>5+ years</td>
+<td>
+  <a href="https://docs.conda.io/en/latest/">
+    <img width="30px" src="https://www.clipartmax.com/png/middle/349-3490136_anaconda-icon-anaconda-python-icon.png">
+  </a>
+</td>
+<td style="color: black;">Conda</td>
+<td>5+ years</td>
     </tr>
     <tr>
-      <td><img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/2048px-Bash_Logo_Colored.svg.png"></td>
-      <td><a href="https://gitforwindows.org" style="color: #000000;">Bash</a></td>
-      <td>4+ years</td>
+<td>
+  <a href="https://gitforwindows.org">
+    <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/2048px-Bash_Logo_Colored.svg.png">
+  </a>
+</td>
+<td style="color: black;">Bash</td>
+<td>4+ years</td>
     </tr>
     <tr>
-      <td><img width="30px" src="https://static.thenounproject.com/png/133029-200.png"></td>
-      <td><a href="https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/cmd" style="color: #000000;">CMD</a></td>
-      <td>4+ years</td>
+<td>
+  <a href="https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/cmd">
+    <img width="30px" src="https://static.thenounproject.com/png/133029-200.png">
+  </a>
+</td>
+<td style="color: black;">CMD</td>
+<td>4+ years</td>
     </tr>
     <tr>
-      <td><img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/PowerShell_5.0_icon.png/600px-PowerShell_5.0_icon.png"></td>
-      <td><a href="https://learn.microsoft.com/en-us/powershell/" style="color: #000000;">PowerShell</a></td>
-      <td>3+ years</td>
+<td>
+  <a href="https://learn.microsoft.com/en-us/powershell/">
+    <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/PowerShell_5.0_icon.png/600px-PowerShell_5.0_icon.png">
+  </a>
+</td>
+<td style="color: black;">PowerShell</td>
+<td>3+ years</td>
     </tr>
     <tr>
-      <td><img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo-ubuntu_cof-orange-hex.svg"></td>
-      <td><a href="https://ubuntu.com/" style="color: #000000;">Ubuntu</a></td>
-      <td>3+ years</td>
+<td>
+  <a href="https://ubuntu.com/">
+    <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo-ubuntu_cof-orange-hex.svg">
+  </a>
+</td>
+<td style="color: black;">Ubuntu</td>
+<td>3+ years</td>
     </tr>
   </tbody>
 </table>
@@ -463,19 +615,31 @@ Studying English as a Second Language since I was 5 years old 3 hours a day I ca
   </thead>
   <tbody>
     <tr>
-      <td><img width="30px" src="https://www.svgrepo.com/show/354054/mdn.svg"></td>
-      <td><a href="https://developer.mozilla.org/en-US/docs/Web" style="color: #000000;">MDN Dev</a></td>
-      <td>2+ years</td>
+<td>
+  <a href="https://developer.mozilla.org/en-US/docs/Web">
+    <img width="30px" src="https://www.svgrepo.com/show/354054/mdn.svg">
+  </a>
+</td>
+<td style="color: black;">MDN Dev</td>
+<td>2+ years</td>
     </tr>
     <tr>
-      <td><img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Google_Chrome_icon_%28February_2022%29.svg/1200px-Google_Chrome_icon_%28February_2022%29.svg.png"></td>
-      <td><a href="https://developer.chrome.com/docs/devtools/" style="color: #000000;">DevTools</a></td>
-      <td>2+ years</td>
+<td>
+  <a href="https://developer.chrome.com/docs/devtools/">
+    <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Google_Chrome_icon_%28February_2022%29.svg/1200px-Google_Chrome_icon_%28February_2022%29.svg.png">
+  </a>
+</td>
+<td style="color: black;">DevTools</td>
+<td>2+ years</td>
     </tr>
     <tr>
-      <td><img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Opera_2015_icon.svg/1024px-Opera_2015_icon.svg.png"></td>
-      <td><a href="https://dev.opera.com/extensions/dev-tools/" style="color: #000000;">Experimental</a></td>
-      <td>2+ years</td>
+<td>
+  <a href="https://dev.opera.com/extensions/dev-tools/">
+    <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Opera_2015_icon.svg/1024px-Opera_2015_icon.svg.png">
+  </a>
+</td>
+<td style="color: black;">Experimental</td>
+<td>2+ years</td>
     </tr>
   </tbody>
 </table>
@@ -503,7 +667,7 @@ Studying English as a Second Language since I was 5 years old 3 hours a day I ca
 - [Generative Adversarial Networks (GANs)](https://en.wikipedia.org/wiki/Generative_adversarial_network)
 <div style="background-color: #ffffff; height: 2px;"></div><br>
 
-<Details open> <Summary> <h3>Frequent Pkgs:</h3> </Summary>
+<Details> <Summary> <h3>Frequent Pkgs Used:</h3> <em style="color: black;">(click)</em> </Summary>
 
 <p style="color: #000000;">Mostly experienced with the following libraries in remote environments:</p>
 
@@ -626,7 +790,7 @@ Studying English as a Second Language since I was 5 years old 3 hours a day I ca
 [![Deep Learning Toolbox](https://img.shields.io/badge/Deep%20Learning%20Toolbox-R2023b-darkred?colorA=darkred&colorB=gray)](https://www.mathworks.com/products/deep-learning.html)
 [![Neural Network Toolbox](https://img.shields.io/badge/Neural%20Network%20Toolbox-R2023b-darkred?colorA=darkred&colorB=gray)](https://www.mathworks.com/products/neural-network.html)
 </Details>
-
+</Details>
 </div>
 
 
