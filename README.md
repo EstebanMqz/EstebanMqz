@@ -22,13 +22,7 @@
     <img src="https://raw.githubusercontent.com/EstebanMqz/EstebanMqz/refs/heads/main/.jpg/Professional.jpg" width="15% alt="Coding Lens"> 
 </a></div>
 
-<div style="text-align: center;">  
-<span style="font-size: 28px; font-family: MS; color: black; font-weight: bold; text-shadow: 1px 1px blue;"> <u>Accountant & Finance Manager</u> </span><br><span style="font-size: 16px; color: black; font-family: ;"><i>(Financial Risks Analyst) </i><b> <br>
-</b></span>
-  
-
-
-<br><br>
+<div style="text-align: center;"><br><br><br>
 <span class="small-text" style="color: black;"><b>Urgent Business Inquiries:</b></span><br>
 <a href="https://tinyurl.com/Estebans-Phone">
 <img width="45px" height="45px" src="https://cdn.worldvectorlogo.com/logos/whatsapp-business-bg.svg" alt="Business">
