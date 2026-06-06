@@ -182,13 +182,9 @@ Studying English as a Second Language since I was 5 years old 3 hours a day I ca
 <div style="background-color: #ffffff00; height: 2px;"></div><br>
 
 [Full Version of CV](https://estebanmqz.github.io/EstebanMqz/)
-<em style="font-size: 11px;">Enable expandables</em> 
-<Details>
-<Summary style="color: black;">Details <em>(click)</em>  
-<div style="font-size: 20px; color: black;"> Programming, Frameworks, Hosting, Editors, Terminals & DevTools.</div>
-<br>
-Experience:
-</Summary>
+
+<div style="font-size: 20px; color: black;"><b>Programming, Frameworks, Hosting, Editors, Terminals & DevTools</b></div>
+<div style="font-size: 14px; color: #666; margin-bottom: 20px;">Experience and expertise across multiple technology stacks:</div>
 <section id="Tools">
   <div style="text-align: left; background-color: rgba(0, 0, 100, 1); padding: 20px;">
   <div style="display: inline; font-family: Times New Roman; text-align: left; padding: 15px; font-size: 25px; color: white">
@@ -663,9 +659,8 @@ Experience:
 - [Generative Adversarial Networks (GANs)](https://en.wikipedia.org/wiki/Generative_adversarial_network)
 <div style="background-color: #ffffff; height: 2px;"></div><br>
 
-<Details> <Summary> <h3>Frequent Pkgs Used:</h3> <em style="color: black;">(click)</em> </Summary>
-
-<p style="color: #000000;">Mostly experienced with the following libraries in remote environments:</p>
+<h3>Frequent Packages Used</h3>
+<p style="color: #000000;"><b>Most experienced with the following libraries in remote environments:</b></p>
 
 <div align="center"><br>
 
@@ -785,8 +780,6 @@ Experience:
 [![Financial Toolbox](https://img.shields.io/badge/Financial%20Toolbox-R2023b-darkred?colorA=darkred&colorB=gray)](https://www.mathworks.com/products/financial.html)
 [![Deep Learning Toolbox](https://img.shields.io/badge/Deep%20Learning%20Toolbox-R2023b-darkred?colorA=darkred&colorB=gray)](https://www.mathworks.com/products/deep-learning.html)
 [![Neural Network Toolbox](https://img.shields.io/badge/Neural%20Network%20Toolbox-R2023b-darkred?colorA=darkred&colorB=gray)](https://www.mathworks.com/products/neural-network.html)
-</Details>
-</Details>
 </div>
 
 
