@@ -171,13 +171,44 @@
   Effectively [troubleshooting](https://github.com/EstebanMqz/Pkg_Migration) collaborations with DevOps.
   <br><br>
 <td>
-<a href="https://certs.duolingo.com/iae9nvivigpzemw3">
-<img width="40px" src="https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Duo_from_Duolingo.svg/250px-Duo_from_Duolingo.svg.png">
-</td>
-<td style="color: black;">125 Duolingo Certification (2026)</td>
-  </a><br>
-Studying English as a Second Language since I was 5 years old 3 hours a day I can effectively communicate with speakers verbally through native spelling & grammar. </font><br><br> 
+<table>
+  <!-- Duolingo Certification -->
+  <tr>
+    <td>
+      <img width="40px" src="https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Duo_from_Duolingo.svg/250px-Duo_from_Duolingo.svg.png" alt="Duolingo Logo">
+    </td>
+    <td style="color: black;">
+      <a href="https://certs.duolingo.com/iae9nvivigpzemw3">Englsih Proficiency Certificate (2026)</a>
+    </td>
+  </tr>
 
+  <!-- GitHub Development Program -->
+  <tr>
+    <td>
+      <img width="40px" src="https://www.svgrepo.com/show/332084/github.svg" alt="GitHub Logo">
+    </td>
+    <td style="color: black;">
+      <a href="https://github.com/EstebanMqz?tab=repositories">Development Program Member (2022)</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img width="40px" src="https://www.svgrepo.com/show/353804/google-analytics.svg" alt="Google Analytics Logo">
+    </td>
+    <td style="color: black;">
+      <a href="https://skillshop.credential.net/e5f4c93e-7149-4391-bb80-3a7b2c1bbb88#acc.vCDfXM6R">Google Analytics Certification (2026)</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%">
+      <img width="40px" src="https://www.svgrepo.com/show/331433/hubspot.svg" alt="HubSpot Logo">
+    </td>
+    <td width="50%" style="color: black;">
+      <a href="https://app.hubspot.com/academy/achievements/wv4g90y0/en/1/estebanmqz-na/inbound-marketing">HubSpot Inbound Marketing (2026)</a>
+    </td>
+  </tr>
+</table>
 <br>
 <div style="background-color: #ffffff00; height: 2px;"></div><br>
 
@@ -464,7 +495,7 @@ Studying English as a Second Language since I was 5 years old 3 hours a day I ca
     <tr>
 <td>
   <a href="https://jupyter.org">
-    <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1767px-Jupyter_logo.svg.png">
+    <img width="30px" src="https://www.svgrepo.com/show/353949/jupyter.svg">
   </a>
 </td>
 <td style="color: black;">Jupyter</td>
@@ -491,7 +522,7 @@ Studying English as a Second Language since I was 5 years old 3 hours a day I ca
     <tr>
 <td>
   <a href="https://www.jetbrains.com/pycharm/">
-    <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png">
+    <img width="30px" src="https://www.svgrepo.com/show/354237/pycharm.svg">
   </a>
 </td>
 <td style="color: black;">PyCharm</td>
@@ -559,7 +590,7 @@ Studying English as a Second Language since I was 5 years old 3 hours a day I ca
     <tr>
 <td>
   <a href="https://gitforwindows.org">
-    <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/2048px-Bash_Logo_Colored.svg.png">
+    <img width="30px" src="https://www.svgrepo.com/show/361365/terminal-bash.svg">
   </a>
 </td>
 <td style="color: black;">Bash</td>
@@ -577,7 +608,7 @@ Studying English as a Second Language since I was 5 years old 3 hours a day I ca
     <tr>
 <td>
   <a href="https://learn.microsoft.com/en-us/powershell/">
-    <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/PowerShell_5.0_icon.png/600px-PowerShell_5.0_icon.png">
+    <img width="30px" src="https://www.svgrepo.com/show/373999/powershell2.svg">
   </a>
 </td>
 <td style="color: black;">PowerShell</td>
@@ -618,7 +649,7 @@ Studying English as a Second Language since I was 5 years old 3 hours a day I ca
     <tr>
 <td>
   <a href="https://developer.chrome.com/docs/devtools/">
-    <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Google_Chrome_icon_%28February_2022%29.svg/1200px-Google_Chrome_icon_%28February_2022%29.svg.png">
+    <img width="30px" src="https://www.svgrepo.com/show/378784/chrome-1-11.svg">
   </a>
 </td>
 <td style="color: black;">DevTools</td>
@@ -627,7 +658,7 @@ Studying English as a Second Language since I was 5 years old 3 hours a day I ca
     <tr>
 <td>
   <a href="https://dev.opera.com/extensions/dev-tools/">
-    <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Opera_2015_icon.svg/1024px-Opera_2015_icon.svg.png">
+    <img width="30px" src="https://www.svgrepo.com/show/452079/opera.svg">
   </a>
 </td>
 <td style="color: black;">Experimental</td>
@@ -785,3 +816,6 @@ Studying English as a Second Language since I was 5 years old 3 hours a day I ca
 
 
 
+
+
+[def]: ttps://skillshop.credential.net/e5f4c93e-7149-4391-bb80-3a7b2c1bbb88#acc.vCDfXM6
